@@ -1,0 +1,1501 @@
+winery,wine,year,rating,num_reviews,country,region,price,type,body,acidity
+Anima Negra,Son Negre,2010,4.4,63,Espana,Mallorca,235.95,Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,,
+Bodegas Faustino,I Gran Reserva,1994,4.2,2074,Espana,Rioja,124.5,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+De Moya,Julia,2018,4.3,135,Espana,Valencia,17.95,Monastrell,5.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Familia Torres,Mas La Plana Cabernet Sauvignon,2010,4.2,2788,Espana,Penedes,48.4,Cabernet Sauvignon,4.0,3.0
+Sierra Cantabria,Amancio,2012,4.5,246,Espana,Rioja,90.0,Rioja Red,4.0,3.0
+Bodegas San Roman,Cartago Paraje de Pozo,2015,4.7,137,Espana,Toro,78.9,Toro Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,,
+Ossian,Capitel,2016,4.5,162,Espana,Castilla y Leon,144.78,Verdejo,3.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Veigamoura,Blanco,2013,4.5,45,Espana,Rias Baixas,14.96,,,
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,,
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Juan Gil,Jumilla Blue Label,2017,4.2,2135,Espana,Jumilla,22.5,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Sei Solo,Tinto,2012,4.5,70,Espana,Ribera del Duero,63.5,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Marques de Riscal,Rioja Gran Reserva,2016,4.3,27,Espana,Rioja,46.45,Rioja Red,4.0,3.0
+Altanza,Club Rioja Reserva,2012,4.3,36,Espana,Rioja,20.95,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Pago de Los Capellanes,Parcela El Picon Tinto,2016,4.7,59,Espana,Ribera del Duero,134.26,Ribera Del Duero Red,5.0,3.0
+Marques de Murrieta,Dalmau Rioja,2012,4.3,916,Espana,Rioja,67.95,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Tarsus,Finca El Canto,2015,4.5,58,Espana,Ribera del Duero,89.66,Tempranillo,4.0,2.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,,
+Teso La Monja,Victorino,2017,4.4,481,Espana,Toro,38.5,Toro Red,,
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Martinet,Cami Pesseroles,2013,4.5,32,Espana,Priorato,113.2,Priorat Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Altanza,Coleccion Roberto Amillo Palo Cortado,N.V.,4.3,27,Espana,Jerez-Xeres-Sherry,47.7,Sherry,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Venta Las Vacas,La Cuartilleja Reserva,2015,4.3,46,Espana,Ribera del Duero,39.7,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Vega Sicilia,Unico,2012,4.6,98,Espana,Ribera del Duero,359.9,Ribera Del Duero Red,5.0,3.0
+Pago de Carraovejas,Cuesta de Las Liebres,2014,4.7,685,Espana,Ribera del Duero,113.18,Ribera Del Duero Red,5.0,3.0
+Finca Moncloa,Tintilla de Rota,2017,4.6,37,Espana,Cadiz,43.1,,,
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Costers del Siurana,Clos de L'Obac,2005,4.5,493,Espana,Priorato,92.8716274104906,Priorat Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Ordonez,Vatan Tinta de Toro,2017,4.4,498,Espana,Toro,55.31,Toro Red,,
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Vega Sicilia,Unico,1991,4.7,1141,Espana,Ribera del Duero,698.9,Ribera Del Duero Red,5.0,3.0
+Williams & Humbert,Jalifa Amontillado Rare Old Dry Solera Especial Aged 30 Years,N.V.,4.2,487,Espana,Jerez Amontillado,33.5,Sherry,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,,
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Jimenez-Landi,El Reventon Cebreros,2016,4.3,40,Espana,Castilla y Leon,67.95,Grenache,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Martin Codax,Arousa,2019,4.4,44,Espana,Vino de Espana,18.99,Albarino,3.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Bodegas Mas Alta,La Creu Alta,2017,4.6,36,Espana,Priorato,85.0,Priorat Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Tridente,Rejon Tempranillo,2017,4.4,54,Espana,Castilla y Leon,34.9,Tempranillo,4.0,2.0
+Martinet,Cami Pesseroles,2009,4.5,141,Espana,Priorato,139.3,Priorat Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Antidoto,Le Rose,2018,4.3,28,Espana,Ribera del Duero,49.0,,,
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Lar de Paula,Tempranillo Reserva,2012,4.3,46,Espana,Rioja,14.9,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Cerro San Cristobal,Dominio del Verso Red Blend,2018,4.5,27,Espana,Condado de Huelva,29.5,Red,,
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Habla,No. 23,2017,4.3,26,Espana,Extremadura,23.1,Red,4.0,3.0
+Imperial,Rioja Reserva,2017,4.3,799,Espana,Rioja,25.45,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera,2016,4.4,58,Espana,Priorato,60.73,Priorat Red,4.0,3.0
+Bodega Numanthia,Termanthia,2010,4.5,729,Espana,Toro,168.0,Toro Red,5.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Taron,Reserva,2014,4.3,35,Espana,Rioja Alta,10.2,Rioja Red,4.0,3.0
+Sebio,Salvaxe,2018,4.3,35,Espana,Ribeiro,26.75,,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Teso La Monja,Tinto,2009,4.8,50,Espana,Toro,950.0,Toro Red,5.0,3.0
+Losada,La Bienquerida,2019,4.5,41,Espana,Bierzo,32.9,Mencia,3.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Belondrade,Belondrade y Lurton,2020,4.5,184,Espana,Rueda,38.9,Verdejo,3.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Tres Piedras,Nobbis,2019,4.3,45,Espana,Ribera del Duero,12.8,Tempranillo,4.0,2.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Vega Sicilia,Unico,1982,4.7,205,Espana,Ribera del Duero,820.98,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Vega Sicilia,Valbuena 5o,2004,4.6,1608,Espana,Ribera del Duero,249.0,Ribera Del Duero Red,5.0,3.0
+Mas d'en Gil,Clos Fonta Priorat,2001,4.3,60,Espana,Priorato,150.0,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Venta Las Vacas,La Cuartilleja Reserva,2016,4.4,39,Espana,Ribera del Duero,39.9,Ribera Del Duero Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,,
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,,
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Teso La Monja,Victorino,2014,4.3,1178,Espana,Toro,38.0,Toro Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Vivanco,4 Varietales Coleccion Rioja,2017,4.4,37,Espana,Rioja,24.0,Rioja Red,4.0,3.0
+Montecastro,Ribera del Duero Red,2018,4.2,733,Espana,Ribera del Duero,18.5,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,,
+Anibal de Otero,Vina Centenaria Mencia,2014,4.3,52,Espana,Bierzo,38.0,Mencia,3.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Castano,Casa Cisca Monastrell,2015,4.4,200,Espana,Yecla,35.2,Monastrell,5.0,3.0
+Marques de Vargas,Seleccion Privada,2011,4.4,65,Espana,Rioja,68.0,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Contino,Rioja Graciano,2015,4.3,220,Espana,Rioja,62.5,Rioja Red,4.0,3.0
+Arzuaga,Reserva Especial Ribera del Duero,2016,4.6,83,Espana,Ribera del Duero,54.5,Ribera Del Duero Red,5.0,3.0
+Vinas del Vero,Blecua Somontano,2014,4.4,43,Espana,Somontano,74.95,Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Contino,Vina del Olivo,2007,4.3,272,Espana,Rioja,92.0,Rioja Red,,
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Familia Torres,Perpetual,2017,4.4,127,Espana,Priorato,62.75,Priorat Red,4.0,3.0
+Hacienda Monasterio,Cosecha,2016,4.4,3406,Espana,Ribera del Duero,37.8,Ribera Del Duero Red,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,,
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,,
+Estones,Coster d'en Fornos,2017,4.3,31,Espana,Montsant,40.55,Montsant Red,4.0,3.0
+Bodegas Valduero,Ribera del Duero Una Cepa I,2014,4.3,1362,Espana,Ribera del Duero,46.95,Ribera Del Duero Red,5.0,3.0
+Matarromera,Ribera del Duero Reserva,2014,4.3,3660,Espana,Ribera del Duero,33.64,Ribera Del Duero Red,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+David Moreno,Vobiscum,2015,4.4,28,Espana,Rioja,31.99,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,,
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Montecastro,Ribera del Duero Red,2015,4.2,1095,Espana,Ribera del Duero,18.9,Ribera Del Duero Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Imperial,Rioja Gran Reserva,2015,4.4,471,Espana,Rioja,49.97,Rioja Red,,
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+R. Lopez de Heredia,Vina Tondonia Reserva,2009,4.3,2423,Espana,Rioja,35.09,Rioja Red,,
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Emilio Moro,Malleolus de Valderramiro,2016,4.7,300,Espana,Ribera del Duero,84.95,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Artadi,Grandes Anadas Rioja,1998,4.5,66,Espana,Rioja,467.65,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,,
+Allende,Martires Rioja,2017,4.4,33,Espana,Rioja,139.63,Rioja White,3.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Emilio Moro,Malleolus de Sanchomartin,2018,4.4,39,Espana,Ribera del Duero,119.35,Ribera Del Duero Red,5.0,3.0
+Marques de Riscal,Frank Gehry Selection,2001,4.6,124,Espana,Rioja,301.0,Tempranillo,4.0,2.0
+Scala Dei,Pla dels Angels Rosado,2019,4.3,160,Espana,Priorato,23.0,,,
+Pazo Senorans,Tras Los Muros Albarino,2017,4.3,42,Espana,Rias Baixas,38.0,Albarino,3.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Artadi,El Carretil,2010,4.4,117,Espana,Vino de Espana,295.3,Tempranillo,4.0,2.0
+Vinedos de Paganos,El Puntido Gran Reserva,2007,4.4,267,Espana,Rioja,49.65,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,,
+Bodega Ribas,Ribas de Cabrera,2018,4.5,94,Espana,Mallorca,68.4059721390231,Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,,
+Fernandez Gao,Oloroso,N.V.,4.4,38,Espana,Jerez-Xeres-Sherry,59.9,Sherry,4.0,3.0
+Emilio Moro,Malleolus de Sanchomartin,2011,4.6,693,Espana,Ribera del Duero,125.0,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Sierra Cantabria,Finca el Bosque,2012,4.4,158,Espana,Rioja,78.9,Rioja Red,4.0,3.0
+Jose Pariente,Sauvignon Blanc,2021,4.3,83,Espana,Rueda,8.9,Sauvignon Blanc,,
+Valdecuevas,Cuvee Verdejo,2018,4.3,31,Espana,Rueda,12.0,Verdejo,3.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Marques de Riscal,Baron de Chirel Rioja Reserva,2005,4.4,667,Espana,Rioja,140.0,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,,
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,,
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Ordonez,Vatan Tinta de Toro,2018,4.3,247,Espana,Toro,33.6,Toro Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Arzuaga,Reserva Ribera del Duero,2014,4.3,641,Espana,Ribera del Duero,33.9,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Marques de Murrieta,Dalmau Rioja,2002,4.3,57,Espana,Rioja,75.0,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Terroir Al Limit Soc. Lda,Les Manyes,2013,4.3,74,Espana,Priorato,348.85,Priorat Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2014,4.6,30,Espana,Priorato,1660.0,Priorat Red,4.0,3.0
+Marques de Riscal,Rioja Gran Reserva,1996,4.4,36,Espana,Rioja,38.12,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2017,4.8,31,Espana,Priorato,992.2,Priorat Red,4.0,3.0
+Mas d'en Gil,Clos Fonta Priorat,2014,4.3,278,Espana,Priorato,54.5,Priorat Red,,
+Alvaro Palacios,Les Aubaguetes Priorat,2015,4.5,99,Espana,Priorato,302.5,Priorat Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Clos Galena,Galena,2018,4.3,54,Espana,Priorato,17.9,Priorat Red,4.0,3.0
+Vega Sicilia,Valbuena 5o,1985,4.6,146,Espana,Ribera del Duero,285.0,Ribera Del Duero Red,5.0,3.0
+Dominio de Pingus,Pingus,2013,4.6,323,Espana,Ribera del Duero,1198.72,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,,
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,,
+Quinta de la Quietud,La Mula de la Quietud,2015,4.7,256,Espana,Toro,63.75,Toro Red,5.0,3.0
+Murviedro,Sericis Cepas Viejas Monastrell,2017,4.2,745,Espana,Valencia,8.95,Monastrell,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Bodegas Roda,Roda Reserva Rioja,2017,4.2,834,Espana,Rioja,25.5,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Matarromera,Ribera del Duero Prestigio,2014,4.4,421,Espana,Ribera del Duero,41.32,Ribera Del Duero Red,,
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Adega Familiar Eladio Pineiro,Envidiacochina (Tete de Cuvee),2019,4.2,438,Espana,Rias Baixas,18.46,Albarino,3.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Olivardots,Vd'O 1 Samso - Pissarra,2012,4.3,46,Espana,Emporda,34.95,Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Arzuaga,Amaya Arzuaga (Coleccion),2016,4.6,123,Espana,Ribera del Duero,64.9,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Sacristia AB,Amontillado Saca,N.V.,4.4,74,Espana,Jerez-Xeres-Sherry,62.02,Sherry,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Aster,Finca El Otero,2014,4.2,1267,Espana,Ribera del Duero,28.75,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Bodega Sommos,Coleccion Syrah,2017,4.3,133,Espana,Somontano,25.89,Syrah,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Luis A. Rodriguez Vazquez,A Torna dos Pasas Escolma Ribeiro,2016,4.3,37,Espana,Ribeiro,40.75,Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Pago de Carraovejas,El Anejon,2015,4.7,543,Espana,Ribera del Duero,75.1,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Matsu,El Viejo,2012,4.2,668,Espana,Toro,26.95,Toro Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Martinet,Clos Martinet,2008,4.4,220,Espana,Priorato,113.2,Priorat Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Pago de Los Capellanes,Parcela El Nogal Tinto,2014,4.5,1163,Espana,Ribera del Duero,40.95,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2017,4.5,103,Espana,Ribera del Duero,75.81,Ribera Del Duero Red,5.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,,
+Bodegas Mas Alta,La Solana Alta,2017,4.4,90,Espana,Priorato,63.46,,,
+Belondrade,Belondrade y Lurton,2015,4.3,1230,Espana,Rueda,32.7,Verdejo,3.0,3.0
+Remirez de Ganuza,Rioja Reserva,2006,4.3,1493,Espana,Rioja,58.0,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Vega Sicilia,Unico Reserva Especial Edicion,2004,4.8,211,Espana,Ribera del Duero,824.43,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Marques de Caceres,Gaudium,1998,4.3,50,Espana,Rioja,60.0,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Dominio de Calogia,Tinto,2019,4.6,114,Espana,Ribera del Duero,67.94,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Roig Parals,Cami de Cormes,2018,4.4,65,Espana,Emporda,14.18,Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Cillar de Silos,Dominio del Pidio,2018,4.4,225,Espana,Ribera del Duero,42.75,Ribera Del Duero Red,5.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Hacienda Solano,Pena Lobera,2018,4.3,25,Espana,Ribera del Duero,68.9,Ribera Del Duero Red,5.0,3.0
+Artadi,Vina El Pison,2017,4.6,41,Espana,Vino de Espana,304.54,Tempranillo,4.0,2.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Guilera,Musivari Gran Reserva Brut Nature,2007,4.3,77,Espana,Cava,23.22,Sparkling,2.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Garmon,Ribera del Duero,2018,4.3,188,Espana,Ribera del Duero,33.5,Ribera Del Duero Red,5.0,3.0
+Torre de Ona,Martelo Reserva,2014,4.2,600,Espana,Rioja,20.5,Rioja Red,4.0,3.0
+Atlantida,Blanco,2019,4.3,48,Espana,Cadiz,17.7,,,
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas Luis Perez,Petit Verdot,2013,4.4,32,Espana,Andalucia,52.5,Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Teso La Monja,Victorino,2013,4.3,878,Espana,Toro,34.22,Toro Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Valtravieso,Ribera del Duero Vendimia Seleccionada VT,2018,4.3,34,Espana,Ribera del Duero,27.9,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Nin-Ortiz,Nit de Nin Mas d'en Cacador,2011,4.6,139,Espana,Priorato,345.0,Priorat Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas Ochoa,Vendimia Tardia Moscatel,2019,4.3,91,Espana,Navarra,10.76,,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Vina Sastre,Pesus Ribera del Duero,2012,4.4,150,Espana,Ribera del Duero,379.0,Ribera Del Duero Red,5.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Clos Mogador,Priorat,2005,4.3,375,Espana,Priorato,110.0,Priorat Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,,
+Collbaix Celler El Moli,Singular Negre,2015,4.4,51,Espana,Pla de Bages,27.35,Cabernet Sauvignon,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Vinyes Domenech,Teixar,2012,4.3,171,Espana,Montsant,42.25,Montsant Red,,
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,,
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+R. Lopez de Heredia,Vina Bosconia Reserva,2009,4.2,1611,Espana,Rioja Alta,23.52,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,,
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Vina Sastre,Regina Vides Ribera del Duero,2015,4.5,154,Espana,Ribera del Duero,92.8,Ribera Del Duero Red,5.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Vega Sicilia,Unico,2005,4.7,3437,Espana,Ribera del Duero,381.15,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Ossian,Capitel,2018,4.6,107,Espana,Castilla y Leon,50.51,Verdejo,3.0,3.0
+Llopart,Cava Original Brut (Espumos),2008,4.3,81,Espana,Cava,62.9,Cava,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Bodega Numanthia,Numanthia,2004,4.4,414,Espana,Toro,98.0,Toro Red,,
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Vinedos Hermanos Hernaiz,Las Cenizas Tempranillo,2018,4.4,43,Espana,Rioja Alta,19.95,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,,
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Dominio de Atauta,Valdegatiles Ribera del Duero,2012,4.6,34,Espana,Ribera del Duero,106.35,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2019,4.3,97,Espana,Bierzo,18.35,Mencia,3.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Allende,Calvario Rioja,2004,4.3,150,Espana,Rioja,90.0,Rioja Red,,
+Can Rafols dels Caus,El Rocallis,2016,4.3,80,Espana,Cataluna,34.5,,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Javier Sanz Viticultor,V Dulce de Invierno,2018,4.3,26,Espana,Castilla y Leon,17.74,,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Alto Moncayo,Veraton Garnacha,2014,4.2,1627,Espana,Campo de Borja,19.94,Grenache,5.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+De Moya,Sofia,2016,4.3,166,Espana,Valencia,18.9,Red,,
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Morca,Garnacha,2016,4.4,376,Espana,Campo de Borja,31.5,Grenache,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Toro Albala,Don PX Pedro Ximenez,1994,4.4,306,Espana,Montilla-Moriles,35.9,Pedro Ximenez,5.0,1.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Vega Sicilia,Valbuena 5o,1987,4.5,221,Espana,Ribera del Duero,312.0,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,,
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Dominio de la Vega,Finca la Beata Bobal,2014,4.3,80,Espana,Utiel-Requena,33.9,Red,,
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Mauro Estevez,Vino de Autor Ribeiro Blanco,2020,4.3,34,Espana,Ribeiro,15.9,,,
+Allende,Aurus,2001,4.3,53,Espana,Rioja,140.0,Rioja Red,4.0,3.0
+Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2018,4.5,117,Espana,Ribera del Duero,165.0,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Pujanza,Rioja Cisma,2014,4.4,50,Espana,Rioja,140.0,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Vall Llach,Mas de la Rosa,2016,4.4,53,Espana,Priorato,367.39,Priorat Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Sierra Cantabria,Amancio,2013,4.4,172,Espana,Rioja,91.43,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Tridente,Prieto Picudo,2018,4.3,57,Espana,Castilla y Leon,21.95,Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Alion,Ribera del Duero,2015,4.5,5365,Espana,Ribera del Duero,75.0,Ribera Del Duero Red,5.0,3.0
+Vega Sicilia,Valbuena 5o,2014,4.7,4350,Espana,Ribera del Duero,175.5,Ribera Del Duero Red,5.0,3.0
+Carmelo Rodero,Pago De Valtarrena,2015,4.6,700,Espana,Ribera del Duero,49.95,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2010,4.2,645,Espana,Rioja,86.95,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Familia Torres,Salmos,2016,4.2,3225,Espana,Priorato,24.85,Priorat Red,4.0,3.0
+Remirez de Ganuza,Maria Remirez de Ganuza,2006,4.7,240,Espana,Rioja,234.9,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Artadi,Quintanilla,2016,4.3,35,Espana,Vino de Espana,65.9,Tempranillo,4.0,2.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Bodega Numanthia,Termanthia,2005,4.7,131,Espana,Toro,207.11,Toro Red,5.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Codorniu,Cava El Tros Nou Pinot Noir,2009,4.4,30,Espana,Cava,89.9,Cava,2.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Alvaro Palacios,La Baixada,2018,4.4,31,Espana,Priorato,239.5,Priorat Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,2010,4.6,2416,Espana,Rioja,438.9,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Artadi,La Morera de San Lazaro,2016,4.3,36,Espana,Vino de Espana,80.0,Tempranillo,4.0,2.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Clos Galena,Galena,2016,4.3,264,Espana,Priorato,17.95,Priorat Red,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,,
+Terra d'Uro,Uro,2015,4.3,155,Espana,Toro,31.45,Toro Red,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,,
+Artadi,El Carretil,2012,4.5,88,Espana,Vino de Espana,165.0,Tempranillo,4.0,2.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Clos Galena,Galena,2017,4.4,41,Espana,Priorato,19.8,Priorat Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Remirez de Ganuza,Rioja Reserva,2009,4.4,1172,Espana,Rioja,74.0,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Blanco,1986,4.7,425,Espana,Rioja,795.0,Rioja White,3.0,3.0
+Emilio Moro,Malleolus,2019,4.4,1069,Espana,Ribera del Duero,28.5,Ribera Del Duero Red,5.0,3.0
+Familia Torres,Purgatori Costers del Segre,2017,4.2,777,Espana,Costers del Segre,25.5,Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Protos,27 Ribera del Duero,2018,4.2,1981,Espana,Ribera del Duero,23.74,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Marques de Vargas,Reserva Privada Rioja,2015,4.4,746,Espana,Rioja,49.67,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Emilio Moro,Malleolus de Valderramiro,2015,4.6,516,Espana,Ribera del Duero,75.0,Ribera Del Duero Red,5.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Vega Sicilia,Unico Reserva Especial Edicion,1985,4.8,70,Espana,Ribera del Duero,1182.77,Ribera Del Duero Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Alion,Ribera del Duero,2017,4.6,2208,Espana,Ribera del Duero,79.9,Ribera Del Duero Red,5.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,,
+Pago de Larrainzar,Reserva Especial,2014,4.3,49,Espana,Navarra,16.9,Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas Ximenez-Spinola,Varietal Fermentacion Lenta,2019,4.3,61,Espana,Jerez-Xeres-Sherry,29.9,Pedro Ximenez,5.0,1.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,,
+Albet i Noya,Marti Reserva Penedes,2015,4.4,49,Espana,Penedes,35.15,Red,4.0,3.0
+Quinta Sardonia,QS,2017,4.3,93,Espana,Castilla y Leon,37.49,Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Celler de Capcanes,Flor de Primavera Peraj Ha'abib,2018,4.3,133,Espana,Montsant,27.5,Montsant Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Vina Sastre,Regina Vides Ribera del Duero,2001,4.3,50,Espana,Ribera del Duero,121.5,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Ossian,Vinas Viejas Verdejo,2016,4.3,1181,Espana,Castilla y Leon,49.0,Verdejo,3.0,3.0
+Juan Gil,Bruto,2019,4.5,104,Espana,Jumilla,32.5,Monastrell,5.0,3.0
+Vina Sastre,Pago de Santa Cruz,2017,4.5,217,Espana,Ribera del Duero,40.9,Ribera Del Duero Red,5.0,3.0
+Senorio de San Vicente,San Vicente Rioja,2018,4.3,77,Espana,Rioja,32.9,Rioja Red,4.0,3.0
+Tinto Pesquera,Reserva,2002,4.3,144,Espana,Ribera del Duero,65.0,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Bodegas Urium,Amontillado V.O.R.S,N.V.,4.3,110,Espana,Jerez Amontillado,50.0,Sherry,4.0,3.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,1925,4.3,48,Espana,Rioja,532.0,Rioja Red,4.0,3.0
+Dominio de Pingus,Pingus,2001,4.7,295,Espana,Ribera del Duero,940.0,Ribera Del Duero Red,5.0,3.0
+Pujanza,Rioja Norte,2006,4.3,67,Espana,Rioja,75.0,Rioja Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Vinyes Domenech,Vinyes Velles de Samso,2016,4.3,73,Espana,Montsant,36.93,Montsant Red,4.0,3.0
+Mas d'en Gil,Clos Fonta Priorat,2007,4.3,153,Espana,Priorato,125.0,Priorat Red,,
+Mandia Vell,Pinot Noir,2017,4.3,31,Espana,Mallorca,29.38,Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Martinet,Clos Martinet,2013,4.3,189,Espana,Priorato,114.6,Priorat Red,4.0,3.0
+Bodegas Vilano,Crianza,2019,4.3,64,Espana,Ribera del Duero,9.99,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Palmeri Sicilia,Palmeri Navalta Garnacha,2016,4.2,151,Espana,Campo de Borja,28.9,Grenache,5.0,3.0
+Muga,Prado Enea Gran Reserva,2015,4.5,72,Espana,Rioja,56.95,Rioja Red,4.0,3.0
+Protos,Reserva 5 Ano,2014,4.2,855,Espana,Ribera del Duero,19.53,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Bodegas San Roman,Cartago Paraje de Pozo,2016,4.5,42,Espana,Toro,77.5,Toro Red,5.0,3.0
+Ferrer Bobet,Seleccio Especial Vinyes Velles,2016,4.4,123,Espana,Priorato,58.9,Priorat Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Pedralonga,Albarino Pedralonga,2020,4.3,74,Espana,Rias Baixas,15.0,Albarino,3.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Adama Wines,Tinto,2011,4.5,110,Espana,Ribera del Duero,39.0,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,,
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Terroir Al Limit Soc. Lda,Les Manyes,2012,4.3,46,Espana,Priorato,348.85,Priorat Red,4.0,3.0
+Valderiz,Tomas Esteban,2010,4.3,57,Espana,Ribera del Duero,68.99,Ribera Del Duero Red,5.0,3.0
+Benjamin de Rothschild - Vega Sicilia,Macan Clasico,2018,4.3,57,Espana,Rioja,42.5,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas Mas Alta,La Basseta,2016,4.4,108,Espana,Priorato,56.0,Priorat Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,,
+Muga,Aro,2015,4.5,529,Espana,Rioja,169.4,Rioja Red,4.0,3.0
+Santa Petronila,Oloroso En Rama,N.V.,4.3,40,Espana,Jerez-Xeres-Sherry,24.9,Sherry,4.0,3.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,1942,4.7,27,Espana,Rioja,680.0,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Terra Remota,Clos Adrien,2016,4.3,40,Espana,Emporda,48.91,Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Aalto,Blanco de Parcela,2019,4.3,80,Espana,Ribera del Duero,41.9,Verdejo,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2003,4.5,46,Espana,Priorato,1372.14,Priorat Red,4.0,3.0
+Avgvstvs,Reserva Trajanvs,2016,4.4,64,Espana,Penedes,21.5,Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Farina,Campus Gothorum,2017,4.4,35,Espana,Toro,41.0,Toro Red,5.0,3.0
+Tobia,Alma Tobia Rioja,2015,4.5,72,Espana,Rioja,40.0,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Ukan Winery,Tinto,2018,4.3,145,Espana,Rioja Alavesa,39.9,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Los Aguilares,Pago El Espino,2017,4.2,555,Espana,Sierras de Malaga,25.35,Red,4.0,3.0
+Dominio del Aguila,Reserva,2018,4.5,141,Espana,Ribera del Duero,59.8,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,,
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,,
+Muga,Prado Enea Gran Reserva,1985,4.3,75,Espana,Rioja,98.0,Rioja Red,4.0,3.0
+Valquejigoso,V2 Tinto,2007,4.3,140,Espana,Madrid,48.537665,Red,4.0,3.0
+Marques de Grinon,Emeritvs (Emeritus),2013,4.5,147,Espana,Dominio de Valdepusa,48.9,Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Alto Moncayo,Aquilon Garnacha,2015,4.6,105,Espana,Campo de Borja,120.9,Grenache,5.0,3.0
+Cruz de Alba,Finca Los Hoyales Ribera del Duero,2013,4.3,163,Espana,Ribera del Duero,41.28,Ribera Del Duero Red,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Remelluri,Granja Gran Reserva Rioja,2011,4.4,313,Espana,Rioja,43.9,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,,
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Pepe Mendoza Casa Agricola,Giro de Abargues,2019,4.3,167,Espana,Alicante,23.5,Red,,
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Pazo de Rubianes,Albarino,2020,4.3,281,Espana,Rias Baixas,13.75,Albarino,,
+Bodegas Mauro,Terreus Paraje de Cueva Baja,2018,4.6,128,Espana,Castilla y Leon,88.05,Tempranillo,4.0,2.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Vega Sicilia,Unico Reserva Especial Edicion,2019,4.8,250,Espana,Ribera del Duero,431.36,Ribera Del Duero Red,5.0,3.0
+Recaredo,Corpinnat Terrers Brut Nature,2017,4.2,667,Espana,Cava,25.0,Cava,2.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Remelluri,Rioja Blanco,2014,4.3,196,Espana,Rioja,60.25,Rioja White,3.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Remelluri,Rioja Blanco,2018,4.4,130,Espana,Rioja,52.0,Rioja White,3.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Virgen de la Asuncion,El Canto del Angel,2014,4.5,66,Espana,Ribera del Duero,59.95,Ribera Del Duero Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Nin-Ortiz,Nit de Nin Mas d'en Cacador,2017,4.4,106,Espana,Priorato,89.9,Priorat Red,4.0,3.0
+Harveys,30 Years V.O.R.S Very Old Palo Cortado Blend Medium Sherry,N.V.,4.4,35,Espana,Jerez Palo Cortado,65.0,Sherry,4.0,3.0
+Vinyes Domenech,Teixar,2014,4.3,151,Espana,Montsant,39.5,Montsant Red,,
+Dominio de Pingus,Pingus,2015,4.7,203,Espana,Ribera del Duero,1250.0,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Sangenis I Vaque,Clos Monlleo,2007,4.3,68,Espana,Priorato,54.95,Priorat Red,4.0,3.0
+Bodega Otazu,Altar,2008,4.3,109,Espana,Navarra,32.18,Red,4.0,3.0
+Gutierrez de la Vega,Recondita Armonia Monastrell Dulce,1987,4.7,27,Espana,Alicante,81.9,,,
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Scala Dei,Masdeu,2016,4.3,51,Espana,Priorato,81.35,Priorat Red,4.0,3.0
+Bodegas Faustino,I Gran Reserva,1968,4.3,28,Espana,Rioja,160.0,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Scala Dei,St Antoni de Scala Dei Priorat,2017,4.5,30,Espana,Priorato,75.04,Priorat Red,4.0,3.0
+Vinyes del Terrer,Nus del Terrer,2016,4.3,28,Espana,Tarragona,25.9,Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Volver,Triga,2016,4.4,852,Espana,Alicante,34.9,Red,4.0,3.0
+Abadia Retuerta,Petit Verdot,2015,4.5,286,Espana,Sardon de Duero,107.9,Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Tridente,Rejon Tempranillo,2015,4.4,664,Espana,Castilla y Leon,35.75,Tempranillo,4.0,2.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Equipo Navazos,La Bota 90 de Manzanilla Pasada,N.V.,4.4,35,Espana,Manzanilla,39.75,Sherry,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Allende,Calvario Rioja,2009,4.5,194,Espana,Rioja,125.97,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,,
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Finca Villacreces,Nebro Ribera del Duero,2015,4.5,37,Espana,Ribera del Duero,143.38,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Telmo Rodriguez,El Velado Tinto,2017,4.3,30,Espana,Rioja,73.95,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Clos Erasmus,Priorat,2007,4.7,60,Espana,Priorato,654.31,Priorat Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+De Moya,Sofia,2018,4.3,195,Espana,Valencia,15.9,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,,
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Vinos Sanz,Finca La Colina Sauvignon Blanc,2021,4.5,27,Espana,Rueda,13.45,Sauvignon Blanc,3.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,,
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Abadia Retuerta,Le Domaine Blanco de Guarda,2019,4.4,334,Espana,Sardon de Duero,32.58,,,
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Biniagual,Finca Biniagual Veran,2017,4.3,322,Espana,Binissalem-Mallorca,26.5,Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Vinedos de Paganos,La Nieta,2018,4.7,220,Espana,Rioja,89.9,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,,
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Vinicola Real,200 Monges Rioja Reserva,2010,4.3,1230,Espana,Rioja,35.0,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Bodegas San Roman,Tinto,2012,4.3,1824,Espana,Toro,190.0,Toro Red,5.0,3.0
+Vina Pedrosa,Perez Pascuas Gran Reserva Seleccion,2010,4.4,305,Espana,Ribera del Duero,210.5,Ribera Del Duero Red,5.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Artadi,Vina El Pison,2013,4.5,137,Espana,Vino de Espana,253.47,Tempranillo,4.0,2.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Alvaro Palacios,Finca Dofi,2012,4.3,814,Espana,Priorato,80.0,Priorat Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Bodegas Ateca,Atteca Armas Garnacha Old Vines,2017,4.3,176,Espana,Calatayud,32.9,Grenache,5.0,3.0
+Vina Pomal,Alto de la Caseta,2015,4.4,54,Espana,Rioja,82.5,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Cruz de Alba,Finca Los Hoyales Ribera del Duero,2014,4.4,351,Espana,Ribera del Duero,49.9,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Emilio Moro,Vendimia Seleccionada,2019,4.4,77,Espana,Ribera del Duero,21.38,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Alion,Ribera del Duero,2014,4.5,7237,Espana,Ribera del Duero,56.27,Ribera Del Duero Red,5.0,3.0
+Vina Sastre,Pago de Santa Cruz Gran Reserva Ribera del Duero,2014,4.5,115,Espana,Ribera del Duero,54.9,Ribera Del Duero Red,5.0,3.0
+Artadi,La Poza de Ballesteros,2014,4.4,119,Espana,Vino de Espana,104.0,Tempranillo,4.0,2.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Pago de Los Capellanes,Reserva Tinto,2015,4.3,2295,Espana,Ribera del Duero,80.35,Ribera Del Duero Red,,
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Gramona,Gessami,2019,4.2,1164,Espana,Penedes,9.95,,,
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Valdelosfrailes,Pago de Las Costanas,2005,4.4,27,Espana,Castilla y Leon,40.2,Tempranillo,4.0,2.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Toro Albala,Marques de Poley Amontillado Seleccion 1951,1951,4.5,53,Espana,Montilla-Moriles,169.95,Pedro Ximenez,5.0,1.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Tridente,Prieto Picudo,2016,4.3,198,Espana,Castilla y Leon,21.4,Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Bodegas 6o Elemento - Vino Sexto Elemento,Respeto,2017,4.6,29,Espana,Utiel-Requena,29.95,Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,,
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,,
+Torre de Ona,Finca Martelo,2015,4.3,512,Espana,Rioja,21.15,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Toro Albala,Don PX Convento Seleccion,1931,4.8,139,Espana,Montilla-Moriles,244.85,Pedro Ximenez,5.0,1.0
+Huerta de Albala,Taberner Tierra de Cadiz,2014,4.2,1337,Espana,Cadiz,32.0010770950795,Syrah,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,,
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Condado de Haza,Alenza Ribera del Duero Gran Reserva,2006,4.3,675,Espana,Ribera del Duero,70.0,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Ferrer Bobet,Seleccio Especial Vinyes Velles,2015,4.5,197,Espana,Priorato,64.0,Priorat Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Marques de Tomares,Rioja Gran Reserva,2014,4.3,62,Espana,Rioja,25.95,Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Reserva,2015,4.2,5802,Espana,Rioja,17.02,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Remirez de Ganuza,Rioja Reserva,2014,4.4,142,Espana,Rioja,49.9,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Dominio de Atauta,Dominio de Atauta,2016,4.2,1159,Espana,Ribera del Duero,25.71,Ribera Del Duero Red,5.0,3.0
+Valdespino,Coliseo Amontillado VORS,N.V.,4.5,81,Espana,Jerez Amontillado,199.0,Sherry,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Benjamin de Rothschild - Vega Sicilia,Macan,2015,4.5,1345,Espana,Rioja,68.9,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,,
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Dominio de Pingus,Pingus,2003,4.6,205,Espana,Ribera del Duero,1638.95,Ribera Del Duero Red,5.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Vega Sicilia,Valbuena 5o,2016,4.7,2177,Espana,Ribera del Duero,107.57,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Terra Remota,Usted,2009,4.4,33,Espana,Emporda,159.8,Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Romate,Cayetano del Pino Viejisimo Palo Cortado,N.V.,4.5,61,Espana,Jerez Palo Cortado,25.92,Sherry,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Monte Real,Gran Reserva,1998,4.3,445,Espana,Rioja,34.9,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,,
+Remirez de Ganuza,Rioja Vina Coqueta,2008,4.3,429,Espana,Rioja,56.7603202298046,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Marta Mate,Primordium,2012,4.4,40,Espana,Ribera del Duero,29.9,Ribera Del Duero Red,5.0,3.0
+Micro Bio (MicroBio),Respublica Verdejo,2016,4.6,33,Espana,Vino de Espana,75.95,Verdejo,3.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Dominio de Atauta,Llanos del Almendro Ribera del Duero,2009,4.3,251,Espana,Ribera del Duero,107.74,Ribera Del Duero Red,5.0,3.0
+Marques de Murrieta,Reserva Rioja (Finca Ygay),2017,4.2,811,Espana,Rioja,20.9,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Dominio del Aguila,Gran Reserva Penas Aladas,2015,4.6,33,Espana,Ribera del Duero,185.3,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Artadi,Vina El Pison,2011,4.6,165,Espana,Vino de Espana,511.9,Tempranillo,4.0,2.0
+Ausas,Interpretacion,2018,4.4,389,Espana,Ribera del Duero,41.0,Ribera Del Duero Red,,
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,,
+Gramona,Cava Celler Batlle,2006,4.4,201,Espana,Cava,51.95,Cava,2.0,3.0
+Vega Sicilia,Unico,1985,4.7,254,Espana,Ribera del Duero,827.94,Ribera Del Duero Red,5.0,3.0
+Cillar de Silos,Dominio del Pidio,2016,4.4,495,Espana,Ribera del Duero,53.91,Ribera Del Duero Red,,
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Martinet,Els Escurcons,2015,4.3,122,Espana,Priorato,84.95,Priorat Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Vina Sastre,Pago de Santa Cruz,2018,4.6,211,Espana,Ribera del Duero,68.7,Ribera Del Duero Red,5.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Allende,Calvario Rioja,2002,4.5,61,Espana,Rioja,95.0,Rioja Red,4.0,3.0
+Dominio del Aguila,Reserva,2010,4.3,82,Espana,Ribera del Duero,65.0,Ribera Del Duero Red,,
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Raul Perez,Ultreia Valtuille Mencia,2019,4.3,83,Espana,Bierzo,45.9,Mencia,,
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Dominio de Atauta,Llanos del Almendro Ribera del Duero,2011,4.4,73,Espana,Ribera del Duero,115.2,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Castell d'Encus,Saktih,2016,4.5,28,Espana,Costers del Segre,132.95,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,,
+Sierra Cantabria,Coleccion Privada,2017,4.3,366,Espana,Rioja,29.0132184621944,Rioja Red,4.0,3.0
+Vina Sastre,Pesus Ribera del Duero,2015,4.5,134,Espana,Ribera del Duero,298.0,Ribera Del Duero Red,5.0,3.0
+St. Petroni,Branco Vermu,N.V.,4.3,148,Espana,Galicia,13.95,,,
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+De Muller,Lo Cabalo Reserva,2015,4.3,171,Espana,Priorato,26.9,Priorat Red,,
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Vinedos Hermanos Hernaiz,Finca La Emperatriz Vinedo Singular Tinto,2017,4.4,41,Espana,Rioja Alta,33.55,Rioja Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Hacienda Solano,Pena Lobera,2016,4.6,57,Espana,Ribera del Duero,65.95,Ribera Del Duero Red,5.0,3.0
+Martinet,Cami Pesseroles,2012,4.5,60,Espana,Priorato,115.85,Priorat Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Bodegas Gama,Octogenarius,2015,4.3,25,Espana,Rioja,36.9,Grenache,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Campillo,Reserva Especial Rioja,2010,4.3,95,Espana,Rioja,23.95,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,,
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Clos Mogador,Priorat,2010,4.4,799,Espana,Priorato,69.79,Priorat Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Abadia Retuerta,Pago Negralada,2016,4.4,152,Espana,Sardon de Duero,63.95,Tempranillo,4.0,2.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,,
+Alta Alella,Orbus,2016,4.3,100,Espana,Alella,24.95,Syrah,4.0,3.0
+Dominio del Aguila,Gran Reserva Penas Aladas,2012,4.5,61,Espana,Ribera del Duero,559.02,Ribera Del Duero Red,5.0,3.0
+Legaris,La Aguilera,2016,4.4,44,Espana,Ribera del Duero,32.5,Ribera Del Duero Red,5.0,3.0
+Dominio de Pingus,Pingus,1996,4.6,102,Espana,Ribera del Duero,1746.94,Ribera Del Duero Red,5.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Castillo de Cuzcurrita,Cerrado del Castillo Rioja,2016,4.6,47,Espana,Rioja,52.95,Rioja Red,4.0,3.0
+l'Infernal Combier Fischer Gerin,Vinas Viejas Aguilera,2010,4.3,76,Espana,Priorato,69.0,Priorat Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2018,4.3,397,Espana,El Terrerazo,22.8,Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Alvaro Palacios,L'Ermita Velles Vinyes Priorat,1998,4.7,171,Espana,Priorato,1372.14,Priorat Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Marques de Grinon,Emeritvs (Emeritus),2011,4.3,197,Espana,Dominio de Valdepusa,47.0,Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Bodegas Amaren,Garnacha,2014,4.3,32,Espana,Rioja,38.0,Grenache,5.0,3.0
+Allende,Aurus,2011,4.3,29,Espana,Rioja,211.92,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Osborne,Solera BC-200,N.V.,4.6,25,Espana,Jerez-Xeres-Sherry,197.3,Sherry,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Vinicola Real,200 Monges Rioja Reserva,2011,4.4,1098,Espana,Rioja,37.57,Rioja Red,4.0,3.0
+Ferrer Bobet,Priorat Vinyes Velles,2018,4.3,94,Espana,Priorato,33.95,Priorat Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,,
+Teso La Monja,Victorino,2011,4.3,517,Espana,Toro,47.01,Toro Red,5.0,3.0
+Terras Gauda,Terras Gauda O Rosal,2020,4.2,3648,Espana,Rias Baixas,12.29,Albarino,3.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,,
+Casa Rojo,Alexander vs. The Ham Factory,2016,4.2,1573,Espana,Ribera del Duero,33.3733333333333,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Vinedos de Paganos,El Puntido,2014,4.3,1067,Espana,Rioja,86.15,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,,
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,,
+Matarromera,Crianza,2016,4.2,4127,Espana,Ribera del Duero,9.76,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Taron,Pantocrator,2010,4.3,241,Espana,Rioja Alta,19.9,Rioja Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Dominio de Pingus,Pingus,2006,4.7,280,Espana,Ribera del Duero,1190.0,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Espectacle del Montsant,Tinto,2018,4.3,39,Espana,Montsant,119.0,Montsant Red,4.0,3.0
+Clos Mogador,Priorat,2018,4.5,336,Espana,Priorato,61.64,Priorat Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Real de Asua,Tinto,2000,4.3,36,Espana,Rioja,60.4,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Pago de Los Capellanes,Reserva Tinto,2014,4.3,1924,Espana,Ribera del Duero,48.6377226796774,Ribera Del Duero Red,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Vall Llach,Porrera Vi de Vila,2018,4.3,56,Espana,Priorato,49.95,Priorat Red,4.0,3.0
+Llanos Negros,La Time,2000,4.3,94,Espana,La Palma,21.95,,,
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,,
+Hermanos Pecina,Finca Iscorta Gran Reserva,2010,4.3,334,Espana,Rioja,27.0,Rioja Red,4.0,3.0
+Aalto,Tinto,2018,4.5,1864,Espana,Ribera del Duero,33.25,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Garmon,Ribera del Duero,2014,4.2,1086,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Bodegas Faustino,Faustino de Autor Reserva Especial,1994,4.3,76,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Sei Solo,Preludio,2018,4.2,488,Espana,Ribera del Duero,24.5,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Emilio Moro,Malleolus de Sanchomartin,2007,4.4,172,Espana,Ribera del Duero,195.0,Ribera Del Duero Red,5.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Remelluri,Rioja Blanco,2011,4.3,123,Espana,Rioja,77.9,Rioja White,3.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Dominio del Bendito,Las Sabias,2017,4.3,270,Espana,Toro,22.55,Toro Red,,
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Pradorey,Elite,2017,4.3,301,Espana,Ribera del Duero,35.51,Ribera Del Duero Red,,
+Martinet,Cami Pesseroles,2008,4.4,80,Espana,Priorato,152.6,Priorat Red,4.0,3.0
+Toro Albala,Don PX Seleccion,1962,4.6,34,Espana,Montilla-Moriles,207.0,Pedro Ximenez,5.0,1.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Artadi,Vina El Pison,2014,4.6,124,Espana,Vino de Espana,275.0,Tempranillo,4.0,2.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Ladairo,Barrica,2018,4.4,32,Espana,Monterrei,20.95,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+La Rioja Alta,Vina Ardanza Reserva,2012,4.3,9092,Espana,Rioja,20.0,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Mas d'en Gil,Gran Buig Priorat,2004,4.6,79,Espana,Priorato,272.0,Priorat Red,4.0,3.0
+Teso La Monja,Tinto,2013,4.9,58,Espana,Toro,995.0,Toro Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Bodegas Ximenez-Spinola,Delicado Cosecha Pedro Ximenez,2019,4.4,147,Espana,Jerez Pedro Ximenes (PX),22.35,Pedro Ximenez,5.0,1.0
+Toro Albala,Don PX Convento Seleccion,1946,4.8,398,Espana,Montilla-Moriles,350.0,Pedro Ximenez,5.0,1.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Vega Sicilia,Unico Reserva Especial Edicion,2015,4.8,643,Espana,Ribera del Duero,345.0,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Albet i Noya,Marti Reserva Penedes,2016,4.4,39,Espana,Penedes,33.8,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Bodegas Aragonesas,Galiano Seleccion Especial,2013,4.6,28,Espana,Campo de Borja,99.95,Red,4.0,3.0
+Vega Sicilia,Unico,1953,4.7,89,Espana,Ribera del Duero,1207.6,Ribera Del Duero Red,5.0,3.0
+Protos,Gran Reserva,2012,4.2,1921,Espana,Ribera del Duero,38.84,Ribera Del Duero Red,5.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,,
+Berceo,Los Dominios de Berceo Prefiloxerico,2015,4.4,29,Espana,Rioja,29.25,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Bodega Juan Carlos Sancha,Cerro La Isa Garnacha,2018,4.3,28,Espana,Rioja,43.9,Rioja Red,4.0,3.0
+Sierra Salinas,Salinas 1237,2014,4.5,28,Espana,Alicante,53.25,Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Vinyes Domenech,Teixar,2015,4.4,99,Espana,Montsant,51.05,Montsant Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,,
+Vega Sicilia,Unico,1965,4.6,218,Espana,Ribera del Duero,2884.04,Ribera Del Duero Red,5.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Adama Wines,Tinto,2009,4.5,229,Espana,Ribera del Duero,39.0,Ribera Del Duero Red,5.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Abadia Retuerta,Petit Verdot,2016,4.4,26,Espana,Sardon de Duero,115.9,Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Familia Torres,Purgatori Costers del Segre,2016,4.2,778,Espana,Costers del Segre,38.37,Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Campillo,Finca Cuesta Clara Raro Reserva,2011,4.3,194,Espana,Rioja,32.0,Rioja Red,4.0,3.0
+Ferrer Bobet,Priorat Vinyes Velles,2016,4.3,828,Espana,Priorato,33.95,Priorat Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Vinicola Real,200 Monges Rioja Reserva Seleccion Especial,2006,4.5,32,Espana,Rioja,59.25,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Bodegas Arrocal,Angel Ribera del Duero,2015,4.3,37,Espana,Ribera del Duero,31.9,Ribera Del Duero Red,5.0,3.0
+Marques de Riscal,Baron de Chirel Rioja Reserva,2014,4.3,661,Espana,Rioja,62.95,Rioja Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Pago de Los Capellanes,Reserva Tinto,2016,4.3,1638,Espana,Ribera del Duero,34.5,Ribera Del Duero Red,5.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,,
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Lustau,Candela Cream Dulce Sweet,N.V.,4.2,405,Espana,Jerez-Xeres-Sherry,7.1,Sherry,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Marques de Riscal,Rioja Gran Reserva,2014,4.2,840,Espana,Rioja,35.63,Rioja Red,4.0,3.0
+Remirez de Ganuza,Rioja Blanco,2017,4.2,421,Espana,Rioja,29.15,Rioja White,3.0,3.0
+Telmo Rodriguez,Matallana,2014,4.3,138,Espana,Ribera del Duero,42.0,Ribera Del Duero Red,5.0,3.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2004,4.4,94,Espana,Rioja,90.0,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,,
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,,
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Fernando de Castilla,Antique Palo Cortado,N.V.,4.2,519,Espana,Jerez Palo Cortado,36.9,Sherry,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Bodegas Roda,Roda Reserva Rioja,2014,4.2,1645,Espana,Rioja,59.9,Rioja Red,4.0,3.0
+Costers del Siurana,Dolc de L'Obac,2006,4.6,94,Espana,Priorato,117.239420060872,,,
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Artadi,Vina El Pison,2005,4.6,142,Espana,Vino de Espana,325.0,Tempranillo,4.0,2.0
+Osborne,Solera India Oloroso Rare Sherry,N.V.,4.6,74,Espana,Jerez-Xeres-Sherry,189.99,Sherry,4.0,3.0
+Vega Sicilia,Unico Reserva Especial Edicion,2011,4.7,131,Espana,Ribera del Duero,340.49,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Clos Mogador,Priorat,2008,4.3,592,Espana,Priorato,95.0,Priorat Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,,
+Descendientes de J. Palacios,Las Lamas Bierzo (Corullon),2016,4.3,100,Espana,Bierzo,95.25,Mencia,3.0,3.0
+R. Lopez de Heredia,Vina Tondonia Reserva Blanco,2005,4.2,1043,Espana,Rioja Alta,26.9,Rioja White,3.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Bodegas San Roman,Tinto,2018,4.3,693,Espana,Toro,25.9,Toro Red,5.0,3.0
+Marques de Caceres,Rioja Reserva,1985,4.3,35,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Jorge Piernas,Juan Piernas Finca El Paso Malo Monastrell,2017,4.3,74,Espana,Murcia,27.9,Monastrell,5.0,3.0
+Avgvstvs,Antigues Reserves,2000,4.3,72,Espana,Penedes,27.45,Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Pago de Los Capellanes,Parcela El Nogal Tinto,2015,4.5,1393,Espana,Ribera del Duero,45.9,Ribera Del Duero Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Antidoto,La Hormiga de Antidoto,2019,4.4,336,Espana,Ribera del Duero,26.63,Ribera Del Duero Red,5.0,3.0
+Vega Sicilia,Unico,1961,4.6,50,Espana,Ribera del Duero,1099.28,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,,
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Dominio de Pingus,Pingus,2005,4.6,293,Espana,Ribera del Duero,1785.96,Ribera Del Duero Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,,
+Pintia,Toro,2004,4.3,760,Espana,Toro,116.9,Toro Red,5.0,3.0
+Naia,Naiades,2018,4.3,29,Espana,Rueda,19.03,Verdejo,3.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Muga,Aro,2004,4.5,102,Espana,Rioja,198.0,Rioja Red,4.0,3.0
+Mar de Frades,Rias Baixas Albarino Finca Valinas,2015,4.2,414,Espana,Rias Baixas,16.78,Albarino,3.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,,
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Agusti Torello Mata,Cava Kripta Gran Reserva Brut Nature,2008,4.4,1269,Espana,Cava,52.5,Cava,2.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Bodegas Amaren,Tempranillo Reserva,2002,4.3,112,Espana,Rioja,28.0,Rioja Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,,
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Ossian,Vinas Viejas Verdejo,2018,4.3,885,Espana,Castilla y Leon,28.18,Verdejo,3.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+Bodega Numanthia,Termanthia,2014,4.6,147,Espana,Toro,210.5,Toro Red,5.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Bodega Numanthia,Termanthia,2013,4.5,316,Espana,Toro,207.11,Toro Red,5.0,3.0
+Chivite,Navarra Coleccion 125 Blanco,2018,4.5,97,Espana,Navarra,49.1,Chardonnay,4.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,4.0,3.0
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Marques de Murrieta,Dalmau Rioja,2015,4.5,97,Espana,Rioja,75.0,Rioja Red,4.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Enrique Mendoza,Santa Rosa,2017,4.2,420,Espana,Alicante,18.9,Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,4.0,3.0
+Binigrau,Nounat,2020,4.2,404,Espana,Mallorca,19.9,,,
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Contino,Rioja Graciano,2017,4.3,111,Espana,Rioja,62.9,Rioja Red,4.0,3.0
+Contino,Rioja Graciano,2011,4.2,395,Espana,Rioja,61.94,Rioja Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Recaredo,Corpinnat Enoteca Reserva Particular de Recaredo,2004,4.6,25,Espana,Cataluna,130.0,Sparkling,2.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,,
+Dominio de Atauta,Valdegatiles Ribera del Duero,2013,4.6,29,Espana,Ribera del Duero,111.9,Ribera Del Duero Red,5.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Sierra Cantabria,Coleccion Privada,2012,4.2,420,Espana,Rioja,28.3,Rioja Red,4.0,3.0
+Scala Dei,Masdeu,2014,4.3,64,Espana,Priorato,84.9,Priorat Red,4.0,3.0
+Ramon do Casar,Treixadura,2020,4.2,407,Espana,Ribeiro,11.95,,,
+Clos Pons,Roc Nu,2011,4.2,420,Espana,Costers del Segre,23.95,Red,4.0,3.0
+Sei Solo,Preludio,2016,4.2,388,Espana,Ribera del Duero,31.63,Ribera Del Duero Red,5.0,3.0
+Conreria d'Scala Dei,Les Brugueres,2018,4.2,390,Espana,Priorato,16.76,Priorat Red,,
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2015,4.4,389,Espana,Rioja,73.6,Rioja Red,,
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Pujanza,Rioja,2005,4.3,34,Espana,Rioja,29.0,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Ramon Bilbao,Mirto,2011,4.2,402,Espana,Rioja,28.53,Rioja Red,,
+Losada,Altos de Losada,2018,4.2,415,Espana,Bierzo,17.9,Mencia,3.0,3.0
+Vinedos de Paganos,El Puntido,2005,4.2,384,Espana,Rioja,73.0,Rioja Red,4.0,3.0
+Vina Pedrosa,Gran Reserva,2011,4.2,410,Espana,Ribera del Duero,51.35,Ribera Del Duero Red,5.0,3.0
+Pago de Los Capellanes,Doroteo Edicion Especial 25 Aniversario,2015,4.6,86,Espana,Ribera del Duero,59.0,Ribera Del Duero Red,5.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Belondrade,Belondrade y Lurton,2018,4.5,1192,Espana,Rueda,32.85,Verdejo,3.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
+Matarromera,Gran Reserva,2011,4.2,389,Espana,Ribera del Duero,64.5,Ribera Del Duero Red,5.0,3.0
+Morca,Garnacha,2019,4.5,33,Espana,Campo de Borja,29.95,Grenache,5.0,3.0
+Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2018,4.8,26,Espana,Priorato,1094.9,Priorat Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,,
+Imperial,Rioja Reserva,2004,4.2,417,Espana,Rioja,45.0,Rioja Red,4.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+La Rioja Alta,Vina Alberdi Crianza,2018,4.2,410,Espana,Rioja,13.58,Rioja Red,4.0,3.0
+Mustiguillo,Finca Terrerazo,2017,4.2,390,Espana,El Terrerazo,24.45,Red,4.0,3.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+La Vicalanda,Reserva,2015,4.2,420,Espana,Rioja,17.5,Rioja Red,4.0,3.0
+Marques de Riscal,Rioja 150 Aniversario,2010,4.2,1686,Espana,Rioja,59.0,Rioja Red,4.0,3.0
+Artadi,Valdegines,2016,4.2,398,Espana,Vino de Espana,48.96,Tempranillo,4.0,2.0
+Bodegas La Horra,Corimbo I,2015,4.2,412,Espana,Ribera del Duero,37.9,Ribera Del Duero Red,5.0,3.0
+Matsu,El Viejo,2019,4.2,400,Espana,Toro,27.89,Toro Red,5.0,3.0
+Campillo,Gran Reserva Rioja,2012,4.2,410,Espana,Rioja,22.99,Rioja Red,4.0,3.0
+Portal del Priorat,Clos del Portal Somni,2014,4.2,404,Espana,Priorato,77.36,Priorat Red,4.0,3.0
+Contino,Reserva,2016,4.2,392,Espana,Rioja,19.98,Rioja Red,4.0,3.0
