@@ -10,7 +10,7 @@ Tasks and updates to the tutorial are managed through issues in this repository.
 To get started with the tutorials, you have a couple of options:
 
 ### Option 1: Open Collaboratory
-Click [here](https://colab.research.google.com/) to open the notebooks directly in Google Colab. Follow along with the tutorials and execute the code cells in the Colab environment. Use the wines_SPA.csv dataset for regression tasks, with 'price' as the target variable in the dataset.
+Click [My Collab Notebook](https://colab.research.google.com/drive/1Am1pOJunGHBPTPW6uUZgm54FmbIkpy1Q?usp=sharing) to open the notebooks directly in Google Colab. Follow along with the tutorials and execute the code cells in the Colab environment. Use the wines_SPA.csv dataset for regression tasks, with 'price' as the target variable in the dataset.
 
 ### Option 2: Jupyter Notebook
 1. Clone this repository to your local machine.
