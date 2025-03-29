@@ -1,0 +1,1063 @@
+winery,wine,year,rating,num_reviews,country,region,price,type,body,acidity
+Pago de Carraovejas,El Anejon,2016,0.9999999999999991,0.38201246660730187,Espana,Ribera del Duero,0.43241484052939905,Ribera Del Duero Red,1.0,0.0
+Bodegas El Nido,El Nido,2018,0.9999999999999991,0.17097061442564557,Espana,Jumilla,0.8250265981803168,Red,0.5,0.0
+La Rioja Alta,Gran Reserva 890,1985,0.9999999999999991,0.0008904719501335728,Espana,Rioja,0.9105662833586461,Rioja Red,0.5,0.0
+Pago de Carraovejas,Cuesta de Las Liebres,2014,0.8333333333333339,0.5877114870881568,Espana,Ribera del Duero,0.46725970926448257,Ribera Del Duero Red,1.0,0.0
+Pago de Carraovejas,El Anejon,2015,0.8333333333333339,0.46126447016918964,Espana,Ribera del Duero,0.30201779127793443,Ribera Del Duero Red,1.0,0.0
+Bodegas El Nido,El Nido,2013,0.8333333333333339,0.4016028495102404,Espana,Jumilla,0.6053373833803427,Red,0.5,0.0
+Bodegas El Nido,El Nido,2008,0.8333333333333339,0.28673196794300976,Espana,Jumilla,0.5584291603384681,Red,0.5,0.0
+Emilio Moro,Malleolus de Sanchomartin,2016,0.8333333333333339,0.2368655387355298,Espana,Ribera del Duero,0.4818398784985897,Ribera Del Duero Red,1.0,0.0
+Bodegas El Nido,El Nido,2017,0.8333333333333339,0.21638468388245768,Espana,Jumilla,0.648079843783901,Red,0.5,0.0
+Teso La Monja,Alabaster,2016,0.8333333333333339,0.2128227960819234,Espana,Toro,0.5619440225645476,Toro Red,1.0,0.0
+Quinta de la Quietud,La Mula de la Quietud,2015,0.8333333333333339,0.20569902048085484,Espana,Toro,0.25276632675200694,Toro Red,1.0,0.0
+Bodega Contador (Benjamin Romeo),Contador Rioja,2012,0.8333333333333339,0.1941228851291184,Espana,Rioja,0.9043176394011716,Rioja Red,0.5,0.0
+Remirez de Ganuza,Maria Remirez de Ganuza,2006,0.8333333333333339,0.1914514692787177,Espana,Rioja,0.9954436971143414,Rioja Red,0.5,0.0
+Vinedos de Paganos,La Nieta,2018,0.8333333333333339,0.1736420302760463,Espana,Rioja,0.3662399652853114,Rioja Red,0.5,0.0
+Pago de Los Capellanes,Parcela El Picon Tinto,2009,0.8333333333333339,0.09706144256455922,Espana,Ribera del Duero,0.6443914081145584,Ribera Del Duero Red,1.0,0.0
+Vega Sicilia,Valbuena 5o,2017,0.8333333333333339,0.09617097061442564,Espana,Ribera del Duero,0.5614666955955737,Ribera Del Duero Red,1.0,0.0
+Bodega Numanthia,Termanthia,2005,0.8333333333333339,0.09439002671415851,Espana,Toro,0.8748535474072467,Toro Red,1.0,0.0
+Alto Moncayo,Aquilon Garnacha,2011,0.8333333333333339,0.08726625111308994,Espana,Campo de Borja,0.44868735083532224,Grenache,1.0,0.0
+Bodegas Roda,Cirsion Rioja,2000,0.8333333333333339,0.05520926090828139,Espana,Rioja,0.7355174658277284,Rioja Red,0.5,0.0
+Bodegas El Nido,El Nido,2019,0.8333333333333339,0.048975957257346395,Espana,Jumilla,0.6092427858537643,Red,0.5,0.0
+Martinet,Cami Pesseroles,2006,0.8333333333333339,0.03561887800534283,Espana,Priorato,0.7697982208722065,Priorat Red,0.5,0.0
+Clos Erasmus,Daphne Glorian Red,2007,0.8333333333333339,0.02315227070347284,Espana,Priorato,0.8527229333911911,Red,0.5,0.0
+Bodegas Amaren,El Regollar,2016,0.8333333333333339,0.021371326803205696,Espana,Rioja,0.31416793230635714,Rioja Red,0.5,0.0
+Teso La Monja,Alabaster,2018,0.8333333333333339,0.01780943900267142,Espana,Toro,0.5137339986981991,Toro Red,1.0,0.0
+Equipo Navazos,La Bota 78 de Oloroso,N.V.,0.8333333333333339,0.014247551202137134,Espana,Manzanilla,0.3908440008678672,Sherry,0.5,0.0
+Morca,Touran,2018,0.8333333333333339,0.014247551202137134,Espana,Campo de Borja,0.3838142764157084,Grenache,1.0,0.0
+Rafael Palacios,Sorte O Soro Val do Bibei,2019,0.8333333333333339,0.01068566340160285,Espana,Valdeorras,0.8216966804078976,Unknown,0.7999999999999998,0.0
+Dehesa de Los Canonigos,Gran Reserva,2001,0.8333333333333339,0.005342831700801427,Espana,Ribera del Duero,0.7795617270557604,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Regina Vides Ribera del Duero,1998,0.8333333333333339,0.004452359750667854,Espana,Ribera del Duero,0.3848991104361033,Ribera Del Duero Red,1.0,0.0
+Miguel Merino,La Loma,2018,0.8333333333333339,0.0035618878005342844,Espana,Rioja Alta,0.1757431113039705,Rioja Red,0.5,0.0
+Gutierrez de la Vega,Recondita Armonia Monastrell Dulce,1987,0.8333333333333339,0.0017809439002671422,Espana,Alicante,0.3315252766326752,Unknown,0.30000000000000004,0.0
+Aalto,PS (Pagos Seleccionados) Ribera del Duero,2019,0.6666666666666661,0.9643811219946572,Espana,Ribera del Duero,0.3100455630288566,Ribera Del Duero Red,1.0,0.0
+Emilio Moro,Malleolus de Sanchomartin,2011,0.6666666666666661,0.5948352626892254,Espana,Ribera del Duero,0.5185506617487524,Ribera Del Duero Red,1.0,0.0
+Emilio Moro,Malleolus de Valderramiro,2015,0.6666666666666661,0.43722172751558325,Espana,Ribera del Duero,0.3015838576697765,Ribera Del Duero Red,1.0,0.0
+Pago de Carraovejas,Cuesta de Las Liebres,2010,0.6666666666666661,0.3383793410507569,Espana,Ribera del Duero,0.3297895422000434,Ribera Del Duero Red,1.0,0.0
+Dominio del Bendito,El Titan del Bendito,2015,0.6666666666666661,0.3232413178984862,Espana,Toro,0.1648947711000217,Toro Red,1.0,0.0
+Vinedos de Paganos,La Nieta,2017,0.6666666666666661,0.23241317898486197,Espana,Rioja,0.4456932089390323,Rioja Red,0.5,0.0
+Bodegas Roda,Cirsion Rioja,2007,0.6666666666666661,0.19323241317898485,Espana,Rioja,0.6053373833803427,Rioja Red,0.5,0.0
+Bodegas Roda,Cirsion Rioja,2012,0.6666666666666661,0.18343722172751556,Espana,Rioja,0.7284877413755695,Rioja Red,0.5,0.0
+Bodega Contador (Benjamin Romeo),Contador Rioja,2011,0.6666666666666661,0.17809439002671415,Espana,Rioja,0.9307875894988067,Rioja Red,0.5,0.0
+Marques de Murrieta,Dalmau Rioja,2017,0.6666666666666661,0.17542297417631345,Espana,Rioja,0.3480147537426774,Rioja Red,0.5,0.0
+Sierra Cantabria,Finca el Bosque,2015,0.6666666666666661,0.16829919857524486,Espana,Rioja,0.3228466044695162,Rioja Red,0.5,0.0
+Vina Sastre,Pago de Santa Cruz,2018,0.6666666666666661,0.16562778272484416,Espana,Ribera del Duero,0.27424604035582556,Ribera Del Duero Red,1.0,0.0
+Mas d'en Gil,Clos Fonta Priorat,2004,0.6666666666666661,0.15761353517364202,Espana,Priorato,0.6270340637882403,Priorat Red,0.5,0.0
+Carmelo Rodero,Pago De Valtarrena,2016,0.6666666666666661,0.15583259127337487,Espana,Ribera del Duero,0.1885441527446301,Ribera Del Duero Red,1.0,0.0
+Pago de Los Capellanes,Parcela El Picon Tinto,2014,0.6666666666666661,0.15316117542297417,Espana,Ribera del Duero,0.45090041223692773,Ribera Del Duero Red,1.0,0.0
+Emilio Moro,Malleolus de Sanchomartin,2014,0.6666666666666661,0.14336598397150488,Espana,Ribera del Duero,0.4925146452592753,Ribera Del Duero Red,1.0,0.0
+Vega Sicilia,Valbuena 5o,1992,0.6666666666666661,0.13446126447016918,Espana,Ribera del Duero,0.8223041874593187,Ribera Del Duero Red,1.0,0.0
+Pago de Los Capellanes,Parcela El Picon Tinto,2012,0.6666666666666661,0.1246660730186999,Espana,Ribera del Duero,0.3623345628118898,Ribera Del Duero Red,1.0,0.0
+Casa Castillo,Cuvee N Vinas Viejas,2015,0.6666666666666661,0.12021371326803205,Espana,Jumilla,0.2929051855066175,Red,0.5,0.0
+Bodegas San Roman,Cartago Paraje de Pozo,2014,0.6666666666666661,0.11398040961709706,Espana,Toro,0.24382729442395312,Toro Red,1.0,0.0
+Bodega Numanthia,Termanthia,2014,0.6666666666666661,0.10863757791629565,Espana,Toro,0.8895638967238012,Toro Red,1.0,0.0
+Vega Sicilia,Valbuena 5o,1989,0.6666666666666661,0.10507569011576136,Espana,Ribera del Duero,0.9679756997179431,Ribera Del Duero Red,1.0,0.0
+Remirez de Ganuza,Maria Remirez de Ganuza,2005,0.6666666666666661,0.09884238646482636,Espana,Rioja,0.666088088522456,Rioja Red,0.5,0.0
+Teso La Monja,Alabaster,2017,0.6666666666666661,0.09439002671415851,Espana,Toro,0.6177044912128443,Toro Red,1.0,0.0
+Bodegas Mas Alta,La Creu Alta,2013,0.6666666666666661,0.08103294746215495,Espana,Priorato,0.3630722499457583,Priorat Red,0.5,0.0
+Dominio de Calogia,Tinto,2019,0.6666666666666661,0.0792520035618878,Espana,Ribera del Duero,0.27094814493382513,Ribera Del Duero Red,1.0,0.0
+Cal Pla,Planots Priorat,2010,0.6666666666666661,0.07747105966162066,Espana,Priorato,0.3537426773703623,Priorat Red,0.5,0.0
+Dominio del Bendito,El Titan del Bendito,2018,0.6666666666666661,0.0765805877114871,Espana,Toro,0.19288348882620962,Toro Red,1.0,0.0
+Ossian,Capitel,2018,0.6666666666666661,0.0730186999109528,Espana,Castilla y Leon,0.19531351703189412,Verdejo,0.0,0.0
+Arzuaga,Gran Arzuaga Ribera del Duero,2004,0.6666666666666661,0.07123775601068566,Espana,Ribera del Duero,0.6591451507919288,Ribera Del Duero Red,1.0,0.0
+Alto Moncayo,Aquilon Garnacha,2015,0.6666666666666661,0.07123775601068566,Espana,Campo de Borja,0.5007593838142764,Grenache,1.0,0.0
+Cepa 21,Horcajo,2015,0.6666666666666661,0.06678539626001781,Espana,Ribera del Duero,0.30288565849425036,Ribera Del Duero Red,1.0,0.0
+Carmelo Rodero,Pago De Valtarrena,2018,0.6666666666666661,0.06589492430988424,Espana,Ribera del Duero,0.1822521154263398,Ribera Del Duero Red,1.0,0.0
+Bodegas Vilano,Tinto,2019,0.6666666666666661,0.0641139804096171,Espana,Ribera del Duero,0.1648947711000217,Ribera Del Duero Red,1.0,0.0
+Allende,Aurus,2005,0.6666666666666661,0.06233303650934996,Espana,Rioja,0.5662833586461271,Rioja Red,0.5,0.0
+Pago de Los Capellanes,Parcela El Picon Tinto,2011,0.6666666666666661,0.060552092609082814,Espana,Ribera del Duero,0.5619440225645476,Ribera Del Duero Red,1.0,0.0
+Remirez de Ganuza,Trasnocho,2013,0.6666666666666661,0.05877114870881567,Espana,Rioja,0.3341288782816229,Rioja Red,0.5,0.0
+Bodegas Roda,Cirsion Rioja,2017,0.6666666666666661,0.05788067675868211,Espana,Rioja,0.6266001301800824,Rioja Red,0.5,0.0
+Pago de Los Capellanes,Doroteo Edicion Especial 25 Aniversario,2015,0.6666666666666661,0.05431878895814782,Espana,Ribera del Duero,0.23215448036450426,Ribera Del Duero Red,1.0,0.0
+Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva,2011,0.6666666666666661,0.053428317008014245,Espana,Ribera del Duero,0.3341288782816229,Ribera Del Duero Red,1.0,0.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,2011,0.6666666666666661,0.053428317008014245,Espana,Rioja,0.8223041874593187,Rioja Red,0.5,0.0
+Vega Sicilia,Valbuena 5o,1980,0.6666666666666661,0.052537845057880686,Espana,Ribera del Duero,0.8223041874593187,Ribera Del Duero Red,1.0,0.0
+Arzuaga,Reserva Especial Ribera del Duero,2016,0.6666666666666661,0.05164737310774711,Espana,Ribera del Duero,0.2126274679973964,Ribera Del Duero Red,1.0,0.0
+Hacienda Monasterio,Reserva Especial,2015,0.6666666666666661,0.048975957257346395,Espana,Ribera del Duero,0.3193751356042525,Ribera Del Duero Red,1.0,0.0
+Castillo Perelada,Finca Garbet,2014,0.6666666666666661,0.044523597506678544,Espana,Emporda,0.40572792362768495,Syrah,0.5,0.0
+Osborne,Solera India Oloroso Rare Sherry,N.V.,0.6666666666666661,0.04363312555654497,Espana,Jerez-Xeres-Sherry,0.8005641136906053,Sherry,0.5,0.0
+Marques de Grinon,AAA,2008,0.6666666666666661,0.033837934105075684,Espana,Dominio de Valdepusa,0.6807550444781948,Red,0.5,0.0
+Alto Moncayo,Aquilon Garnacha,2016,0.6666666666666661,0.029385574354407838,Espana,Campo de Borja,0.5007593838142764,Grenache,1.0,0.0
+Dominio del Aguila,Gran Reserva Penas Aladas,2014,0.6666666666666661,0.029385574354407838,Espana,Ribera del Duero,0.9260143198090692,Ribera Del Duero Red,1.0,0.0
+Bodegas Mas Alta,La Creu Alta,2014,0.6666666666666661,0.02493321460373998,Espana,Priorato,0.3493165545671512,Priorat Red,0.5,0.0
+Castano,Casa Cisca Monastrell,2016,0.6666666666666661,0.021371326803205696,Espana,Yecla,0.1280104144065958,Monastrell,1.0,0.0
+La Legua,Capricho,2014,0.6666666666666661,0.019590382902938557,Espana,Cigales,0.0944644942503797,Red,0.5,0.0
+Castillo de Cuzcurrita,Cerrado del Castillo Rioja,2016,0.6666666666666661,0.019590382902938557,Espana,Rioja,0.20590149707094815,Rioja Red,0.5,0.0
+Oxer Wines,Kalamity Rioja,2018,0.6666666666666661,0.018699910952804984,Espana,Rioja,0.4749403341288783,Rioja Red,0.5,0.0
+Bodegas Yuste,Conde de Aldama Amontillado,N.V.,0.6666666666666661,0.018699910952804984,Espana,Jerez-Xeres-Sherry,0.3662399652853114,Sherry,0.5,0.0
+Vega Sicilia,Valbuena 5o,1979,0.6666666666666661,0.018699910952804984,Espana,Ribera del Duero,0.8223041874593187,Ribera Del Duero Red,1.0,0.0
+Proyecto Garnachas de Espana,El Garnacho Viejo de la Familia Acha,2014,0.6666666666666661,0.01780943900267142,Espana,Rioja,0.3228466044695162,Rioja Red,0.5,0.0
+Matarromera,Ribera del Duero Prestigio,2016,0.6666666666666661,0.01780943900267142,Espana,Ribera del Duero,0.21024083315252767,Ribera Del Duero Red,1.0,0.0
+Hacienda Monasterio,Reserva Especial,2016,0.6666666666666661,0.014247551202137134,Espana,Ribera del Duero,0.34771100021696677,Ribera Del Duero Red,1.0,0.0
+Vall Llach,Idus,2020,0.6666666666666661,0.014247551202137134,Espana,Priorato,0.12497287914949012,Priorat Red,0.5,0.0
+Sierra Cantabria,Amancio,2017,0.6666666666666661,0.013357079252003561,Espana,Rioja,0.34909958776307226,Rioja Red,0.5,0.0
+Descendientes de J. Palacios,Valdafoz Bierzo (Corullon),2011,0.6666666666666661,0.011576135351736423,Espana,Bierzo,0.5641136906053373,Mencia,0.0,0.0
+Ukan Winery,Tinto,2019,0.6666666666666661,0.011576135351736423,Espana,Rioja Alavesa,0.15187676285528315,Rioja Red,0.5,0.0
+Finca Moncloa,Tintilla de Rota,2017,0.6666666666666661,0.01068566340160285,Espana,Cadiz,0.1631590366673899,Unknown,0.7000000000000002,0.0
+Vina Real,Rioja Gran Reserva,1986,0.6666666666666661,0.008904719501335707,Espana,Rioja,0.5098719895855933,Rioja Red,0.5,0.0
+Micro Bio (MicroBio),Respublica Verdejo,2016,0.6666666666666661,0.007123775601068565,Espana,Vino de Espana,0.30570622694727706,Verdejo,0.0,0.0
+Dominio del Aguila,Gran Reserva Penas Aladas,2015,0.6666666666666661,0.007123775601068565,Espana,Ribera del Duero,0.7802126274679974,Ribera Del Duero Red,1.0,0.0
+Terroir Al Limit Soc. Lda,Les Tosses,2016,0.6666666666666661,0.007123775601068565,Espana,Priorato,0.8698199175526143,Priorat Red,0.5,0.0
+Finca Torremilanos,Torremilanos Coleccion Ribera del Duero,2016,0.6666666666666661,0.006233303650934996,Espana,Ribera del Duero,0.1516597960512042,Ribera Del Duero Red,1.0,0.0
+Huerta de Albala,Taberner No. 1,2013,0.6666666666666661,0.006233303650934996,Espana,Cadiz,0.3228466044695162,Red,0.5,0.0
+Gomez Cruzado,Vina Motulleri,2011,0.6666666666666661,0.004452359750667854,Espana,Rioja,0.3189412019960946,Rioja Red,0.5,0.0
+Castell d'Encus,Saktih,2013,0.6666666666666661,0.004452359750667854,Espana,Costers del Segre,0.8234758082013452,Red,0.5,0.0
+Abadia Retuerta,Cuvee Palomar,2017,0.6666666666666661,0.004452359750667854,Espana,Sardon de Duero,0.2317205467563463,Red,0.5,0.0
+Bodegas 6o Elemento - Vino Sexto Elemento,Respeto,2017,0.6666666666666661,0.0035618878005342844,Espana,Utiel-Requena,0.10609676719461922,Red,0.5,0.0
+Enate,Uno Tinto,2010,0.6666666666666661,0.0026714158504007116,Espana,Somontano,0.539813408548492,Red,0.5,0.0
+Bodegas Aragonesas,Galiano Seleccion Especial,2013,0.6666666666666661,0.0026714158504007116,Espana,Campo de Borja,0.40985029290518554,Red,0.5,0.0
+Tomas Postigo,5o Ano Ribera del Duero Tinto,2017,0.6666666666666661,0.0017809439002671422,Espana,Ribera del Duero,0.17769581254068129,Ribera Del Duero Red,1.0,0.0
+Acustic Celler,Etern Vinyes Molt Velles,2016,0.6666666666666661,0.0008904719501335728,Espana,Priorato,0.1605554350184422,Priorat Red,0.5,0.0
+Vina Pedrosa,40 Aniversario Gran Reserva,2012,0.6666666666666661,0.0,Espana,Ribera del Duero,0.3883705793013669,Ribera Del Duero Red,1.0,0.0
+Osborne,Solera BC-200,N.V.,0.6666666666666661,0.0,Espana,Jerez-Xeres-Sherry,0.8322846604469516,Sherry,0.5,0.0
+Pago de Carraovejas,Reserva,2014,0.5,1.0,Espana,Ribera del Duero,0.2780660602822895,Ribera Del Duero Red,1.0,0.0
+Dominio de Pingus,Flor de Pingus,2017,0.5,0.9519145146927872,Espana,Ribera del Duero,0.4534606205250597,Ribera Del Duero Red,1.0,0.0
+Muga,Prado Enea Gran Reserva,2014,0.5,0.8806767586821015,Espana,Rioja,0.1974397917118681,Rioja Red,0.5,0.0
+Remirez de Ganuza,Rioja Reserva,2011,0.5,0.8788958147818344,Espana,Rioja,0.23605988283792578,Rioja Red,0.5,0.0
+Clos Mogador,Priorat,2015,0.5,0.8281389136242209,Espana,Priorato,0.6137990887394228,Priorat Red,0.5,0.0
+Muga,Torre Muga,2016,0.5,0.7239536954585931,Espana,Rioja,0.2820568453026687,Rioja Red,0.5,0.0
+Benjamin de Rothschild - Vega Sicilia,Macan,2016,0.5,0.7016918967052538,Espana,Rioja,0.25385116077240183,Rioja Red,0.5,0.0
+Bodega Numanthia,Termanthia,2010,0.5,0.6268922528940338,Espana,Toro,0.7051421132566716,Toro Red,1.0,0.0
+Emilio Moro,Malleolus de Valderramiro,2011,0.5,0.6179875333926982,Espana,Ribera del Duero,0.7309611629420698,Ribera Del Duero Red,1.0,0.0
+Clos Mogador,Priorat,2017,0.5,0.5707925200356189,Espana,Priorato,0.2581904968539813,Priorat Red,0.5,0.0
+Marques de Murrieta,Dalmau Rioja,2014,0.5,0.5494211932324132,Espana,Rioja,0.26947277066608805,Rioja Red,0.5,0.0
+La Rioja Alta,Gran Reserva 890,1995,0.5,0.4888691006233304,Espana,Rioja,0.5282273812106747,Rioja Red,0.5,0.0
+Bodegas El Nido,Clio,2019,0.5,0.46749777382012464,Espana,Jumilla,0.18138424821002386,Red,0.5,0.0
+Muga,Aro,2015,0.5,0.44879786286731965,Espana,Rioja,0.711217183770883,Rioja Red,0.5,0.0
+Senorio de San Vicente,San Vicente Rioja,2017,0.5,0.42742653606411396,Espana,Rioja,0.12714254719027987,Rioja Red,0.5,0.0
+Carmelo Rodero,Ribera del Duero TSM,2017,0.5,0.42564559216384684,Espana,Ribera del Duero,0.216315903666739,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Pago de Santa Cruz,2016,0.5,0.42386464826357967,Espana,Ribera del Duero,0.30570622694727706,Ribera Del Duero Red,1.0,0.0
+Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos,2011,0.5,0.4229741763134461,Espana,Ribera del Duero,0.1874593187242352,Ribera Del Duero Red,1.0,0.0
+Costers del Siurana,Clos de L'Obac,2005,0.5,0.4167408726625111,Espana,Priorato,0.3791348553286639,Priorat Red,0.5,0.0
+Arzuaga,Reserva Ribera del Duero,2017,0.5,0.402493321460374,Espana,Ribera del Duero,0.11412453894554134,Ribera Del Duero Red,1.0,0.0
+Francisco Barona,Ribera Del Duero,2018,0.5,0.3891362422083704,Espana,Ribera del Duero,0.1316988500759384,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Pago de Santa Cruz,2015,0.5,0.3517364203027604,Espana,Ribera del Duero,0.33608157951833373,Ribera Del Duero Red,1.0,0.0
+Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos,2012,0.5,0.33926981300089043,Espana,Ribera del Duero,0.23215448036450426,Ribera Del Duero Red,1.0,0.0
+Juan Gil,Bruto,2018,0.5,0.3196794300979519,Espana,Jumilla,0.13972662182686052,Monastrell,1.0,0.0
+Lan,Culmen Reserva Rioja,2015,0.5,0.30276046304541404,Espana,Rioja,0.16164026903883708,Rioja Red,0.5,0.0
+Clos Mogador,Priorat,2018,0.5,0.2769367764915405,Espana,Priorato,0.24361032761987417,Priorat Red,0.5,0.0
+Juan Gil,Bruto,2017,0.5,0.26447016918967053,Espana,Jumilla,0.10935126925580385,Monastrell,1.0,0.0
+Remirez de Ganuza,Trasnocho,2011,0.5,0.24577025823686555,Espana,Rioja,0.4556302885658494,Rioja Red,0.5,0.0
+Hacienda Monasterio,Reserva,2016,0.5,0.24220837043633126,Espana,Ribera del Duero,0.2189195053156867,Ribera Del Duero Red,1.0,0.0
+R. Lopez de Heredia,Vina Tondonia Gran Reserva,1995,0.5,0.23775601068566338,Espana,Rioja,0.7138207854198307,Rioja Red,0.5,0.0
+Abadia Retuerta,Petit Verdot,2015,0.5,0.23241317898486197,Espana,Sardon de Duero,0.4443480147537427,Red,0.5,0.0
+Tomas Postigo,5o Ano Ribera del Duero Tinto,2011,0.5,0.2128227960819234,Espana,Ribera del Duero,0.27945324365372104,Ribera Del Duero Red,1.0,0.0
+Abadia Retuerta,Petit Verdot,2014,0.5,0.19946571682991984,Espana,Sardon de Duero,0.7441093512692557,Red,0.5,0.0
+Sierra Cantabria,Amancio,2012,0.5,0.19679430097951914,Espana,Rioja,0.3666738988934693,Rioja Red,0.5,0.0
+Adama Wines,Tinto,2009,0.5,0.18165627782724844,Espana,Ribera del Duero,0.14536775873291388,Ribera Del Duero Red,1.0,0.0
+Muga,Aro,2016,0.5,0.17542297417631345,Espana,Rioja,0.7351269255803862,Rioja Red,0.5,0.0
+Milsetentayseis,Tinto,2018,0.5,0.17186108637577915,Espana,Ribera del Duero,0.20568453026686917,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Pago de Santa Cruz,2017,0.5,0.17097061442564557,Espana,Ribera del Duero,0.15361249728791496,Ribera Del Duero Red,1.0,0.0
+Espectacle del Montsant,Tinto,2013,0.5,0.16829919857524486,Espana,Montsant,0.6615317856367975,Montsant Red,0.5,0.0
+Tinto Pesquera,Millenium Gran Reserva,2015,0.5,0.1674087266251113,Espana,Ribera del Duero,0.31243219787372534,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Regina Vides Ribera del Duero,2011,0.5,0.1674087266251113,Espana,Ribera del Duero,0.47949663701453676,Ribera Del Duero Red,1.0,0.0
+Alvaro Palacios,Finca Dofi,2006,0.5,0.16206589492430987,Espana,Priorato,0.3015838576697765,Priorat Red,0.5,0.0
+Arzuaga,Gran Reserva Ribera del Duero,2015,0.5,0.16028495102404272,Espana,Ribera del Duero,0.32753308743762205,Ribera Del Duero Red,1.0,0.0
+Dominio de Pingus,Flor de Pingus,2019,0.5,0.15672306322350846,Espana,Ribera del Duero,0.49034497721848563,Ribera Del Duero Red,1.0,0.0
+Ferrer Bobet,Seleccio Especial Vinyes Velles,2015,0.5,0.15316117542297417,Espana,Priorato,0.25385116077240183,Priorat Red,0.5,0.0
+Clos Mogador,Priorat,2003,0.5,0.15227070347284058,Espana,Priorato,0.3883705793013669,Priorat Red,0.5,0.0
+Allende,Calvario Rioja,2009,0.5,0.15048975957257346,Espana,Rioja,0.5227598177478845,Rioja Red,0.5,0.0
+Bodegas Valduero,Ribera del Duero Una Cepa I,2017,0.5,0.15048975957257346,Espana,Ribera del Duero,0.0911260577131699,Ribera Del Duero Red,1.0,0.0
+Matarromera,Ribera del Duero Prestigio,2015,0.5,0.14692787177203917,Espana,Ribera del Duero,0.21050119331742242,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Regina Vides Ribera del Duero,2014,0.5,0.14603739982190558,Espana,Ribera del Duero,0.43133000650900416,Ribera Del Duero Red,1.0,0.0
+Familia Torres,Grans Muralles,2015,0.5,0.14603739982190558,Espana,Conca de Barbera,0.7159904534606205,Red,0.5,0.0
+Pazo Barrantes,Gran Vino Albarino,2019,0.5,0.14514692787177202,Espana,Rias Baixas,0.12757648079843784,Albarino,0.0,0.0
+Arzuaga,Reserva Especial Ribera del Duero,2015,0.5,0.14425645592163847,Espana,Ribera del Duero,0.19960945975265784,Ribera Del Duero Red,1.0,0.0
+Tio Pepe,Cuatro Palmas Amontillado,N.V.,0.5,0.14336598397150488,Espana,Jerez Amontillado,0.4632675200694294,Sherry,0.5,0.0
+Abadia Retuerta,Pago Garduna,2016,0.5,0.14336598397150488,Espana,Castilla y Leon,0.287914949012801,Syrah,0.5,0.0
+Belondrade,Belondrade y Lurton,2020,0.5,0.14158504007123773,Espana,Rueda,0.14493382512475592,Verdejo,0.0,0.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2017,0.5,0.13268032056990203,Espana,Rioja,0.270774571490562,Rioja Red,0.5,0.0
+Sierra Cantabria,Finca el Bosque,2016,0.5,0.13178984861976847,Espana,Rioja,0.3274029073551747,Rioja Red,0.5,0.0
+Bodega Contador (Benjamin Romeo),Que Bonito Cacareaba Blanco,2018,0.5,0.12911843276936774,Espana,Rioja,0.19457582989802563,Rioja White,0.0,0.0
+Tomas Postigo,5o Ano Ribera del Duero Tinto,2014,0.5,0.1246660730186999,Espana,Ribera del Duero,0.22764157083966152,Ribera Del Duero Red,1.0,0.0
+Sierra Cantabria,Amancio,2015,0.5,0.11665182546749776,Espana,Rioja,0.36645693208939034,Rioja Red,0.5,0.0
+Vina Sastre,Regina Vides Ribera del Duero,2016,0.5,0.10596616206589492,Espana,Ribera del Duero,0.2822738121067477,Ribera Del Duero Red,1.0,0.0
+Martinet,Cami Pesseroles,2009,0.5,0.10329474621549421,Espana,Priorato,0.5806031677153396,Priorat Red,0.5,0.0
+Dominio del Aguila,Reserva,2018,0.5,0.10329474621549421,Espana,Ribera del Duero,0.23562594922976782,Ribera Del Duero Red,1.0,0.0
+Sierra Cantabria,Amancio,2014,0.5,0.10240427426536064,Espana,Rioja,0.3015838576697765,Rioja Red,0.5,0.0
+Cruz de Alba,Finca Los Hoyales Ribera del Duero,2015,0.5,0.10240427426536064,Espana,Ribera del Duero,0.2234758082013452,Ribera Del Duero Red,1.0,0.0
+Abadia Retuerta,Pago Garduna,2009,0.5,0.09528049866429207,Espana,Castilla y Leon,0.29550878715556517,Syrah,0.5,0.0
+Bodegas Mas Alta,La Basseta,2013,0.5,0.09528049866429207,Espana,Priorato,0.2278151442829247,Priorat Red,0.5,0.0
+Territorio Luthier,Territorio Luthier Reserva,2016,0.5,0.0917186108637578,Espana,Ribera del Duero,0.21045779995660666,Ribera Del Duero Red,1.0,0.0
+Alion,Ribera del Duero,2018,0.5,0.0917186108637578,Espana,Ribera del Duero,0.31625081362551527,Ribera Del Duero Red,1.0,0.0
+Costers del Siurana,Clos de L'Obac,2010,0.5,0.0854853072128228,Espana,Priorato,0.3289216749837275,Priorat Red,0.5,0.0
+Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2018,0.5,0.08192341941228852,Espana,Ribera del Duero,0.6921241050119331,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Pago de Santa Cruz Gran Reserva Ribera del Duero,2014,0.5,0.08014247551202137,Espana,Ribera del Duero,0.2143632024300282,Ribera Del Duero Red,1.0,0.0
+Adama Wines,Tinto,2011,0.5,0.07569011576135352,Espana,Ribera del Duero,0.14536775873291388,Ribera Del Duero Red,1.0,0.0
+Jesus Madrazo,Seleccion Rioja,2015,0.5,0.0730186999109528,Espana,Rioja,0.26730310262529833,Rioja Red,0.5,0.0
+Bodegas Naluar & Acediano,Acediano,2015,0.5,0.0703472840605521,Espana,Ribera del Duero,0.20177912779344762,Ribera Del Duero Red,1.0,0.0
+Marques de Caceres,Gaudium,2016,0.5,0.0703472840605521,Espana,Rioja,0.12757648079843784,Rioja Red,0.5,0.0
+Sierra Cantabria,Finca el Bosque,2017,0.5,0.06945681211041853,Espana,Rioja,0.3422000433933608,Rioja Red,0.5,0.0
+Trus,Pico de Luyas,2016,0.5,0.06945681211041853,Espana,Ribera del Duero,0.18420481666305058,Ribera Del Duero Red,1.0,0.0
+Juan Gil,Bruto,2019,0.5,0.0703472840605521,Espana,Jumilla,0.11716207420264699,Monastrell,1.0,0.0
+Muga,Aro,2004,0.5,0.06856634016028496,Espana,Rioja,0.8353221957040572,Rioja Red,0.5,0.0
+Chivite,Navarra Coleccion 125 Blanco,2018,0.5,0.0641139804096171,Espana,Navarra,0.18919505315686702,Chardonnay,0.5,0.0
+Marques de Murrieta,Dalmau Rioja,2015,0.5,0.0641139804096171,Espana,Rioja,0.3015838576697765,Rioja Red,0.5,0.0
+Enate,Chardonnay Uno,2011,0.5,0.06322350845948353,Espana,Somontano,0.8445649815578216,Chardonnay,0.5,0.0
+Bodegas Naluar & Acediano,Acediano,2014,0.5,0.05520926090828139,Espana,Ribera del Duero,0.29724452158819703,Ribera Del Duero Red,1.0,0.0
+Cervoles,Estrats,2009,0.5,0.04986642920747997,Espana,Costers del Segre,0.23571273595139947,Red,0.5,0.0
+Anima Negra,Son Negre,2016,0.5,0.04986642920747997,Espana,Mallorca,0.6916901714037752,Red,0.5,0.0
+Valdespino,Coliseo Amontillado VORS,N.V.,0.5,0.04986642920747997,Espana,Jerez Amontillado,0.8396615317856367,Sherry,0.5,0.0
+Sierra Cantabria,Finca el Bosque,2018,0.5,0.04986642920747997,Espana,Rioja,0.34909958776307226,Rioja Red,0.5,0.0
+Emilio Moro,Malleolus de Valderramiro,2018,0.5,0.05075690115761354,Espana,Ribera del Duero,0.34736385333044045,Ribera Del Duero Red,1.0,0.0
+Adama Wines,Tinto,2010,0.5,0.04808548530721282,Espana,Ribera del Duero,0.1280104144065958,Ribera Del Duero Red,1.0,0.0
+Clos Mogador,Priorat,2019,0.5,0.04541406945681212,Espana,Priorato,0.25341722716424386,Priorat Red,0.5,0.0
+Marques de Burgos,8000,2017,0.5,0.044523597506678544,Espana,Ribera del Duero,0.10609676719461922,Ribera Del Duero Red,1.0,0.0
+Bodegas Mas Alta,La Basseta,2017,0.5,0.044523597506678544,Espana,Priorato,0.2319375135604253,Priorat Red,0.5,0.0
+Penafiel,Mironia Black Edition Tempranillo,2015,0.5,0.0427426536064114,Espana,Ribera del Duero,0.1909307875894988,Ribera Del Duero Red,1.0,0.0
+Bodegas Mas Alta,La Creu Alta,2015,0.5,0.0427426536064114,Espana,Priorato,0.9957908440008678,Priorat Red,0.5,0.0
+Costers del Siurana,Miserere,2010,0.5,0.04363312555654497,Espana,Priorato,0.31677153395530483,Priorat Red,0.5,0.0
+Muga,Prado Enea Gran Reserva,2015,0.5,0.041852181656277826,Espana,Rioja,0.22325884139726623,Rioja Red,0.5,0.0
+Mas Doix,Doix,2017,0.5,0.04096170970614425,Espana,Priorato,0.3228466044695162,Priorat Red,0.5,0.0
+Sei Solo,Tinto,2012,0.5,0.04007123775601068,Espana,Ribera del Duero,0.25168149273161206,Ribera Del Duero Red,1.0,0.0
+Miguel Merino,La Loma,2017,0.5,0.03918076580587712,Espana,Rioja Alta,0.14493382512475592,Rioja Red,0.5,0.0
+Finca Villacreces,Nebro Ribera del Duero,2011,0.5,0.03918076580587712,Espana,Ribera del Duero,0.6465610761553482,Ribera Del Duero Red,1.0,0.0
+Virgen de la Asuncion,El Canto del Angel,2014,0.5,0.0365093499554764,Espana,Ribera del Duero,0.2362768496420048,Ribera Del Duero Red,1.0,0.0
+Remirez de Ganuza,Gran Reserva,2011,0.5,0.03561887800534283,Espana,Rioja,0.36016489477110003,Rioja Red,0.5,0.0
+Allende,Calvario Rioja,2002,0.5,0.03205699020480855,Espana,Rioja,0.3883705793013669,Rioja Red,0.5,0.0
+Martinet,Cami Pesseroles,2012,0.5,0.031166518254674976,Espana,Priorato,0.47884573660229984,Priorat Red,0.5,0.0
+Hacienda Solano,Finca Cascorrales,2016,0.5,0.028495102404274265,Espana,Ribera del Duero,0.25515296159687567,Ribera Del Duero Red,1.0,0.0
+La Rioja Alta,Rioja Gran Reserva 904,1987,0.5,0.028495102404274265,Espana,Rioja,0.8006075070514211,Rioja Red,0.5,0.0
+Marques de Grinon,AAA,2004,0.5,0.027604630454140692,Espana,Dominio de Valdepusa,0.5888479062703406,Red,0.5,0.0
+Beronia,Rioja Gran Reserva,1994,0.5,0.025823686553873553,Espana,Rioja,0.2408331525276633,Rioja Red,0.5,0.0
+Monte Real,Gran Reserva,1964,0.5,0.025823686553873553,Espana,Rioja,0.5836407029724452,Rioja Red,0.5,0.0
+Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos,2014,0.5,0.02493321460373998,Espana,Ribera del Duero,0.1926665220221306,Ribera Del Duero Red,1.0,0.0
+Enate,Reserva Especial,2006,0.5,0.02493321460373998,Espana,Somontano,0.26209589932740296,Red,0.5,0.0
+Divina Proporcion,Platon Tinto,2019,0.5,0.024042742653606414,Espana,Toro,0.08852245606422217,Toro Red,1.0,0.0
+Vina al Lado de la Casa,Altos de Las Gateras Monastrell,2013,0.5,0.02315227070347284,Espana,Vino de Espana,0.22863961813842482,Monastrell,1.0,0.0
+Marques de la Concordia,Marques de la Concordia VSG Premium (formerly Hacienda de Susar Rioja),2016,0.5,0.02226179875333927,Espana,Rioja,0.13018008244738555,Rioja Red,0.5,0.0
+Penafiel,Alba de Miros Rueda Verdejo,2019,0.5,0.021371326803205696,Espana,Rueda,0.019093078758949885,Verdejo,0.0,0.0
+Carmelo Rodero,Ribera del Duero TSM,2006,0.5,0.02048085485307213,Espana,Ribera del Duero,0.1533232082158095,Ribera Del Duero Red,1.0,0.0
+Valquejigoso,V2 Tinto,2009,0.5,0.021371326803205696,Espana,Madrid,0.16569276849642003,Red,0.5,0.0
+Cal Pla,Planots Priorat,2013,0.5,0.018699910952804984,Espana,Priorato,0.2234758082013452,Priorat Red,0.5,0.0
+Vizcarra,Celia,2011,0.5,0.016918967052537846,Espana,Ribera del Duero,0.23675417661097853,Ribera Del Duero Red,1.0,0.0
+Legaris,Calmo,2014,0.5,0.016028495102404273,Espana,Ribera del Duero,0.28813191581688,Ribera Del Duero Red,1.0,0.0
+Marques de Murrieta,Dalmau Rioja,2000,0.5,0.015138023152270707,Espana,Rioja,0.18659145150791928,Rioja Red,0.5,0.0
+Vinicola Real,Confesor Rioja,2004,0.5,0.015138023152270707,Espana,Rioja,0.4426122803211109,Rioja Red,0.5,0.0
+Bodegas San Roman,Cartago Paraje de Pozo,2016,0.5,0.015138023152270707,Espana,Toro,0.31243219787372534,Toro Red,1.0,0.0
+Losada,La Bienquerida,2019,0.5,0.014247551202137134,Espana,Bierzo,0.1188978086352788,Mencia,0.0,0.0
+Clos d'Agon,Seleccion Especial,2015,0.5,0.013357079252003561,Espana,Cataluna,0.3819049685398134,Red,0.5,0.0
+Sacristia AB,Saca Unica,N.V.,0.5,0.012466607301869988,Espana,Jerez-Xeres-Sherry,0.39435886309394663,Sherry,0.5,0.0
+Huerta de Albala,Taberner No. 1,2011,0.5,0.011576135351736423,Espana,Cadiz,0.3015838576697765,Red,0.5,0.0
+Uvaguilera Aguilera,Palomero,2010,0.5,0.011576135351736423,Espana,Ribera del Duero,0.17118680841831202,Ribera Del Duero Red,1.0,0.0
+Ysios,Grano a Grano,2017,0.5,0.01068566340160285,Espana,Rioja,0.3015838576697765,Rioja Red,0.5,0.0
+Vega Sicilia,Valbuena 5o,1976,0.5,0.01068566340160285,Espana,Ribera del Duero,0.8223041874593187,Ribera Del Duero Red,1.0,0.0
+Morca,Garnacha,2019,0.5,0.007123775601068565,Espana,Campo de Borja,0.10609676719461922,Grenache,1.0,0.0
+R. Lopez de Heredia,Vina Tondonia Gran Reserva,2001,0.5,0.007123775601068565,Espana,Rioja,0.7915382946409198,Rioja Red,0.5,0.0
+Castillo Perelada,Finca Garbet,2015,0.5,0.006233303650934996,Espana,Emporda,0.3662399652853114,Syrah,0.5,0.0
+El Regajal,Galia Clos Santuy,2016,0.5,0.006233303650934996,Espana,Castilla y Leon,0.3623345628118898,Red,0.5,0.0
+Jose Pariente,Finca Las Comas Verdejo,2018,0.5,0.006233303650934996,Espana,Rueda,0.12584074636580603,Verdejo,0.0,0.0
+Abadia Retuerta,Petit Verdot,2004,0.5,0.005342831700801427,Espana,Sardon de Duero,0.6739422868301149,Red,0.5,0.0
+Gonzalez-Byass,Anada Palo Cortado 1987,1991,0.5,0.004452359750667854,Espana,Jerez Palo Cortado,0.9741809503146018,Sherry,0.5,0.0
+Clos Erasmus,Priorat,2018,0.5,0.004452359750667854,Espana,Priorato,0.9524842699067042,Priorat Red,0.5,0.0
+Bodegas Valdelana,Seda de Oro Reserva,2016,0.5,0.0035618878005342844,Espana,Rioja,0.2755478411802994,Rioja Red,0.5,0.0
+Abel Mendoza Monge,Grano a Grano Graciano - Garnacha,2016,0.5,0.0035618878005342844,Espana,Rioja,0.2154046430896073,Grenache,1.0,0.0
+Tinto Pesquera,Reserva,1986,0.5,0.0035618878005342844,Espana,Ribera del Duero,0.3666738988934693,Ribera Del Duero Red,1.0,0.0
+Bodegas Amaren,Carraquintana de Amaren,2017,0.5,0.0035618878005342844,Espana,Rioja Alavesa,0.22130614016055544,Rioja Red,0.5,0.0
+Anayon,Garnacha Parcela 81 Vinas Viejas,2017,0.5,0.0026714158504007116,Espana,Carinena,0.2143632024300282,Red,0.5,0.0
+Castell d'Encus,Saktih,2016,0.5,0.0026714158504007116,Espana,Costers del Segre,0.5530483835973096,Red,0.5,0.0
+Dehesa del Carrizal,Cabernet Sauvignon,2019,0.5,0.0017809439002671422,Espana,Dehesa del Carrizal,0.0494684313300065,Cabernet Sauvignon,0.5,0.0
+Vinos Sanz,Finca La Colina Sauvignon Blanc,2021,0.5,0.0017809439002671422,Espana,Rueda,0.034497721848557164,Sauvignon Blanc,0.0,0.0
+Cerro San Cristobal,Dominio del Verso Red Blend,2018,0.5,0.0017809439002671422,Espana,Condado de Huelva,0.10414406595790845,Red,0.30000000000000004,0.0
+Altos de Rioja,Altos R Pigeage Nacido en Barrica Blanco,2019,0.3333333333333339,0.0017809439002671422,Espana,Rioja,0.10595292558038619,Rioja White,0.30000000000000004,0.0
+Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera,2007,0.5,0.0008904719501335728,Espana,Priorato,0.2755478411802994,Priorat Red,0.7000000000000002,0.0
+Venus la Universal,Venus de la Figuera,2017,0.5,0.0008904719501335728,Espana,Montsant,0.19960945975265784,Montsant Red,0.5,0.0
+Clos Mogador,Priorat,2014,0.3333333333333339,0.960819234194123,Espana,Priorato,0.737687133868518,Priorat Red,0.5,0.0
+Vinicola Real,200 Monges Rioja Reserva,2011,0.3333333333333339,0.9554764024933214,Espana,Rioja,0.13916250813625516,Rioja Red,0.5,0.0
+Arzuaga,Reserva Ribera del Duero,2016,0.3333333333333339,0.9456812110418522,Espana,Ribera del Duero,0.08999783033195921,Ribera Del Duero Red,1.0,0.0
+Emilio Moro,Malleolus,2019,0.3333333333333339,0.929652715939448,Espana,Ribera del Duero,0.09980472987632892,Ribera Del Duero Red,1.0,0.0
+Hacienda Monasterio,Reserva,2011,0.3333333333333339,0.910952804986643,Espana,Ribera del Duero,0.3174224343675418,Ribera Del Duero Red,1.0,0.0
+Dominio de Pingus,Flor de Pingus,2008,0.3333333333333339,0.9100623330365094,Espana,Ribera del Duero,0.5185506617487524,Ribera Del Duero Red,1.0,0.0
+Bodegas Roda,Roda I Reserva Rioja,2016,0.3333333333333339,0.9029385574354408,Espana,Rioja,0.13191581688001736,Rioja Red,0.5,0.0
+Pago de Los Capellanes,Reserva Tinto,2017,0.3333333333333339,0.9038290293855744,Espana,Ribera del Duero,0.13104794966370148,Ribera Del Duero Red,1.0,0.0
+Aalto,Tinto,2019,0.3333333333333339,0.8842386464826358,Espana,Ribera del Duero,0.11933174224343676,Ribera Del Duero Red,1.0,0.0
+Juan Gil,Jumilla Blue Label,2019,0.3333333333333339,0.8379341050756901,Espana,Jumilla,0.07138207854198308,Red,0.5,0.0
+Senorio de San Vicente,San Vicente Rioja,2011,0.3333333333333339,0.8014247551202137,Espana,Rioja,0.12150141028422651,Rioja Red,0.5,0.0
+Volver,Triga,2016,0.3333333333333339,0.7364203027604631,Espana,Alicante,0.12757648079843784,Red,0.5,0.0
+Marques de Caceres,Gaudium,2014,0.3333333333333339,0.7141585040071238,Espana,Rioja,0.14016055543501843,Rioja Red,0.5,0.0
+Teso La Monja,Victorino,2016,0.3333333333333339,0.7008014247551202,Espana,Toro,0.14406595790844004,Toro Red,1.0,0.0
+Clos Mogador,Priorat,2011,0.3333333333333339,0.6981300089047195,Espana,Priorato,0.3666738988934693,Priorat Red,0.5,0.0
+Clos Mogador,Priorat,2010,0.3333333333333339,0.6892252894033838,Espana,Priorato,0.27897591668474725,Priorat Red,0.5,0.0
+Lan,Culmen Reserva Rioja,2011,0.3333333333333339,0.6883348174532502,Espana,Rioja,0.23605988283792578,Rioja Red,0.5,0.0
+Bodegas Roda,Roda I Reserva Rioja,2005,0.3333333333333339,0.6749777382012467,Espana,Rioja,0.3796919071382079,Rioja Red,0.5,0.0
+Dominio del Aguila,Reserva,2016,0.3333333333333339,0.6705253784505788,Espana,Ribera del Duero,0.2953786070731178,Ribera Del Duero Red,1.0,0.0
+Marques de Vargas,Reserva Privada Rioja,2015,0.3333333333333339,0.6420302760463046,Espana,Rioja,0.19166847472336734,Rioja Red,0.5,0.0
+Clos Mogador,Priorat,2012,0.3333333333333339,0.5966162065894924,Espana,Priorato,0.3666738988934693,Priorat Red,0.5,0.0
+Alion,Ribera del Duero,2001,0.3333333333333339,0.5841495992876224,Espana,Ribera del Duero,0.8006075070514211,Ribera Del Duero Red,1.0,0.0
+Marques de Riscal,Baron de Chirel Rioja Reserva,2005,0.3333333333333339,0.5716829919857525,Espana,Rioja,0.5836407029724452,Rioja Red,0.5,0.0
+Clos Mogador,Priorat,2007,0.3333333333333339,0.5333926981300089,Espana,Priorato,0.3883705793013669,Priorat Red,0.5,0.0
+Ausas,Interpretacion,2016,0.3333333333333339,0.5280498664292075,Espana,Ribera del Duero,0.1720546756346279,Ribera Del Duero Red,1.0,0.0
+Muga,Torre Muga,2015,0.3333333333333339,0.5271593944790739,Espana,Rioja,0.22874473745346324,Rioja Red,0.5,0.0
+Senorio de San Vicente,San Vicente Rioja,2016,0.3333333333333339,0.5200356188780054,Espana,Rioja,0.1614233022347581,Rioja Red,0.5,0.0
+Tresmano - Tr3smano,Vendimia,2017,0.3333333333333339,0.4951024042742654,Espana,Ribera del Duero,0.10080944556108354,Ribera Del Duero Red,1.0,0.0
+Marques de Caceres,Gaudium,2015,0.3333333333333339,0.4772929652715939,Espana,Rioja,0.16645693208939033,Rioja Red,0.5,0.0
+Remirez de Ganuza,Rioja Reserva,2013,0.3333333333333339,0.46749777382012464,Espana,Rioja,0.21405944890431763,Rioja Red,0.5,0.0
+Marques de Murrieta,Dalmau Rioja,2016,0.3333333333333339,0.46749777382012464,Espana,Rioja,0.2162291169451074,Rioja Red,0.5,0.0
+Bodegas Tradicion,Cream Tradicion Vos 20 Years,N.V.,0.3333333333333339,0.44701691896705253,Espana,Jerez Cream,0.22738121067476674,Sherry,0.7999999999999998,0.0
+Tinto Pesquera,Millenium Reserva,2008,0.3333333333333339,0.44701691896705253,Espana,Ribera del Duero,0.29724452158819703,Ribera Del Duero Red,0.7999999999999998,0.0
+Hacienda Monasterio,Cosecha,2019,0.3333333333333339,0.44345503116651824,Espana,Ribera del Duero,0.1251898459535691,Ribera Del Duero Red,0.7000000000000002,0.0
+Arzuaga,Gran Reserva Ribera del Duero,2009,0.3333333333333339,0.43722172751558325,Espana,Ribera del Duero,0.3072249945758299,Ribera Del Duero Red,0.7999999999999998,0.0
+Ausas,Interpretacion,2017,0.3333333333333339,0.4354407836153161,Espana,Ribera del Duero,0.17270557604686482,Ribera Del Duero Red,0.7000000000000002,0.0
+Ordonez,Vatan Tinta de Toro,2017,0.3333333333333339,0.42119323241317896,Espana,Toro,0.21614233022347581,Toro Red,0.7000000000000002,0.0
+Cillar de Silos,Dominio del Pidio,2016,0.3333333333333339,0.41852181656277826,Espana,Ribera del Duero,0.2100672597092645,Ribera Del Duero Red,0.7000000000000002,0.0
+Carmelo Rodero,Reserva,2016,0.3333333333333339,0.3784505788067676,Espana,Ribera del Duero,0.1188978086352788,Ribera Del Duero Red,0.3999999999999999,0.0
+Artadi,Pagos Viejos,2006,0.3333333333333339,0.371326803205699,Espana,Vino de Espana,0.36884356693425907,Tempranillo,0.8999999999999999,0.0
+Anima Negra,An,2018,0.3333333333333339,0.3659839715048976,Espana,Mallorca,0.1423302234758082,Red,0.3999999999999999,0.0
+Bodega de Bardos,Suprema 30 Meses,2016,0.3333333333333339,0.33926981300089043,Espana,Ribera del Duero,0.1288782816229117,Ribera Del Duero Red,1.0,0.0
+Morca,Garnacha,2016,0.3333333333333339,0.31255565449688333,Espana,Campo de Borja,0.1128227381210675,Grenache,0.7000000000000002,0.0
+Carmelo Rodero,Ribera del Duero TSM,2015,0.3333333333333339,0.3045414069456812,Espana,Ribera del Duero,0.22239097418095033,Ribera Del Duero Red,0.7000000000000002,0.0
+Lan,A Mano Rioja,2017,0.3333333333333339,0.2983081032947462,Espana,Rioja,0.10948144933825124,Rioja Red,0.5,0.0
+Vinicola Real,200 Monges Rioja Gran Reserva,2001,0.3333333333333339,0.28851291184327693,Espana,Rioja,0.20177912779344762,Rioja Red,0.5,0.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2011,0.3333333333333339,0.2831700801424755,Espana,Rioja,0.3666738988934693,Rioja Red,0.5,0.0
+Antidoto,La Hormiga de Antidoto,2019,0.3333333333333339,0.2769367764915405,Espana,Ribera del Duero,0.09169017140377522,Ribera Del Duero Red,1.0,0.0
+Abadia Retuerta,Le Domaine Blanco de Guarda,2019,0.3333333333333339,0.27515583259127335,Espana,Sardon de Duero,0.11750922108917336,Unknown,0.7999999999999998,0.0
+Rafael Palacios,As Sortes Val do Bibei Godello,2019,0.3333333333333339,0.27426536064113977,Espana,Valdeorras,0.17791277934476027,Unknown,0.7000000000000002,0.0
+Bosque de Matasnos,Edicion Limitada,2015,0.3333333333333339,0.26981300089047194,Espana,Ribera del Duero,0.11751437220945149,Ribera Del Duero Red,1.0,0.0
+Bodegas 6o Elemento - Vino Sexto Elemento,Tinto,2017,0.3333333333333339,0.2617987533392698,Espana,Valencia,0.10609676719461922,Red,0.5,0.0
+Remelluri,Granja Gran Reserva Rioja,2011,0.3333333333333339,0.25645592163846836,Espana,Rioja,0.16663050553265352,Rioja Red,0.5,0.0
+Perinet,Priorat,2016,0.3333333333333339,0.2528940338379341,Espana,Priorato,0.2581904968539813,Priorat Red,0.5,0.0
+Costers del Siurana,Miserere,2005,0.3333333333333339,0.24131789848619767,Espana,Priorato,0.3791348553286639,Priorat Red,0.5,0.0
+Valquejigoso,V2 Tinto,2008,0.3333333333333339,0.23864648263579696,Espana,Madrid,0.17526646127142548,Red,0.5,0.0
+Lan,A Mano Rioja,2018,0.3333333333333339,0.21727515583259127,Espana,Rioja,0.10587980039054024,Rioja Red,0.5,0.0
+Contino,Rioja Gran Reserva,2016,0.3333333333333339,0.21549421193232413,Espana,Rioja,0.1516597960512042,Rioja Red,0.5,0.0
+Vinedos de Paganos,El Puntido Gran Reserva,2007,0.3333333333333339,0.21549421193232413,Espana,Rioja,0.19158168800173572,Rioja Red,0.5,0.0
+Alion,Ribera del Duero,1996,0.3333333333333339,0.20837043633125554,Espana,Ribera del Duero,0.5879800390540247,Ribera Del Duero Red,1.0,0.0
+Remirez de Ganuza,Trasnocho,2010,0.3333333333333339,0.20747996438112198,Espana,Rioja,0.5565198524625732,Rioja Red,0.5,0.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2016,0.3333333333333339,0.20213713268032055,Espana,Rioja,0.270774571490562,Rioja Red,0.5,0.0
+Martinet,Clos Martinet,2011,0.3333333333333339,0.19946571682991984,Espana,Priorato,0.3055760468648297,Priorat Red,0.5,0.0
+La Vicalanda,Gran Reserva,2010,0.3333333333333339,0.19056099732858414,Espana,Rioja,0.23323931438489914,Rioja Red,0.5,0.0
+Monovar,Fondillon,1996,0.3333333333333339,0.1878895814781834,Espana,Alicante,0.29681058798003906,Red,0.5,0.0
+Alvaro Domecq,1730 Pedro Ximenez,N.V.,0.3333333333333339,0.1861086375779163,Espana,Jerez Pedro Ximenes (PX),0.1468865263614667,Sherry,0.5,0.0
+Cillar de Silos,Dominio del Pidio,2018,0.3333333333333339,0.17809439002671415,Espana,Ribera del Duero,0.16164026903883708,Ribera Del Duero Red,1.0,0.0
+Contino,Vina del Olivo,2016,0.3333333333333339,0.17720391807658056,Espana,Rioja,0.6248643957474506,Rioja Red,0.5,0.0
+Ossian,Vinas Viejas Verdejo,2019,0.3333333333333339,0.1727515583259127,Espana,Castilla y Leon,0.09286179214580169,Verdejo,0.0,0.0
+Carmelo Rodero,Reserva,2017,0.3333333333333339,0.17097061442564557,Espana,Ribera del Duero,0.10609676719461922,Ribera Del Duero Red,1.0,0.0
+Los Aguilares,Tadeo Tinto,2014,0.3333333333333339,0.16918967052537845,Espana,Sierras de Malaga,0.11933174224343676,Red,0.5,0.0
+Bodega Rento,Tinto,2014,0.3333333333333339,0.16206589492430987,Espana,Ribera del Duero,0.13725320026036017,Ribera Del Duero Red,1.0,0.0
+R. Lopez de Heredia,Gran Reserva Rosado,2011,0.3333333333333339,0.1611754229741763,Espana,Rioja Alta,0.19288348882620962,Unknown,0.30000000000000004,0.0
+Chivite,Navarra Coleccion 125 Blanco,2017,0.3333333333333339,0.15939447907390916,Espana,Navarra,0.19700585810371013,Chardonnay,0.5,0.0
+Castano,Casa Cisca Monastrell,2015,0.3333333333333339,0.15583259127337487,Espana,Yecla,0.1288782816229117,Monastrell,1.0,0.0
+Dominio do Bibei,Lapola,2019,0.3333333333333339,0.15227070347284058,Espana,Ribeira Sacra,0.06613148188327186,Unknown,0.5,0.0
+Allende,Calvario Rioja,2008,0.3333333333333339,0.15138023152270702,Espana,Rioja,0.3549576914732046,Rioja Red,0.5,0.0
+Remelluri,Granja Gran Reserva Rioja,2012,0.3333333333333339,0.15048975957257346,Espana,Rioja,0.17552614449989154,Rioja Red,0.5,0.0
+Casa Castillo,Pie Franco,2017,0.3333333333333339,0.1308993766696349,Espana,Jumilla,0.3145150791928835,Monastrell,1.0,0.0
+Sierra Cantabria,Amancio,2013,0.3333333333333339,0.1308993766696349,Espana,Rioja,0.37287914949012807,Rioja Red,0.5,0.0
+Emilio Moro,Malleolus de Sanchomartin,2007,0.3333333333333339,0.1308993766696349,Espana,Ribera del Duero,0.8223041874593187,Ribera Del Duero Red,1.0,0.0
+Espectacle del Montsant,Tinto,2016,0.3333333333333339,0.12822796081923418,Espana,Montsant,0.5221957040572792,Montsant Red,0.5,0.0
+Lan,Culmen Reserva Rioja,2001,0.3333333333333339,0.12733748886910062,Espana,Rioja,0.2755478411802994,Rioja Red,0.5,0.0
+Javier Sanz Viticultor,Singular V Malcorta Verdejo,2020,0.3333333333333339,0.12733748886910062,Espana,Rueda,0.05202863961813842,Verdejo,0.0,0.0
+Espectacle del Montsant,Tinto,2014,0.3333333333333339,0.1246660730186999,Espana,Montsant,0.6226947277066608,Montsant Red,0.5,0.0
+Remirez de Ganuza,Trasnocho,2014,0.3333333333333339,0.12377560106856635,Espana,Rioja,0.3352137123020178,Rioja Red,0.5,0.0
+Mas Doix,Doix,2013,0.3333333333333339,0.12377560106856635,Espana,Priorato,0.31625081362551527,Priorat Red,0.5,0.0
+Protos,Seleccion Finca el Grajo Viejo,2016,0.3333333333333339,0.1219946571682992,Espana,Ribera del Duero,0.2362768496420048,Ribera Del Duero Red,1.0,0.0
+Sierra Cantabria,Finca el Bosque,2014,0.3333333333333339,0.1219946571682992,Espana,Rioja,0.3274029073551747,Rioja Red,0.5,0.0
+Tinto Pesquera,Millenium Reserva,2015,0.3333333333333339,0.12021371326803205,Espana,Ribera del Duero,0.3015838576697765,Ribera Del Duero Red,1.0,0.0
+Harveys,30 Years VORS Pedro Ximenez Sherry,N.V.,0.3333333333333339,0.1193232413178985,Espana,Jerez Pedro Ximenes (PX),0.2319375135604253,Sherry,0.5,0.0
+Marques de Caceres,Gaudium,1994,0.3333333333333339,0.1193232413178985,Espana,Rioja,0.5185506617487524,Rioja Red,0.5,0.0
+Contino,Vina del Olivo,2015,0.3333333333333339,0.1193232413178985,Espana,Rioja,0.25385116077240183,Rioja Red,0.5,0.0
+Orben,Malpuesto,2018,0.3333333333333339,0.11843276936776491,Espana,Rioja,0.13018008244738555,Rioja Red,0.5,0.0
+Jaro,Chafandin,2018,0.3333333333333339,0.1157613535173642,Espana,Ribera del Duero,0.1017574311130397,Ribera Del Duero Red,1.0,0.0
+Mustiguillo,Quincha Corral,2016,0.3333333333333339,0.1068566340160285,Espana,El Terrerazo,0.32306357127359514,Red,0.5,0.0
+Martinet,Els Escurcons,2014,0.3333333333333339,0.10507569011576136,Espana,Priorato,0.316728140594489,Priorat Red,0.5,0.0
+Vina Pomal,Vinos Singulares Tempranillo Blanco Reserva,2014,0.3333333333333339,0.10329474621549421,Espana,Rioja,0.12757648079843784,Rioja White,0.0,0.0
+Astrales,Christina Ribera del Duero,2016,0.3333333333333339,0.10418521816562777,Espana,Ribera del Duero,0.196398351052289,Ribera Del Duero Red,1.0,0.0
+Merum Priorati,Desti,2018,0.3333333333333339,0.09884238646482636,Espana,Priorato,0.10609676719461922,Priorat Red,0.5,0.0
+Hacienda Lopez de Haro,Gran Reserva Classica Tinto,2001,0.3333333333333339,0.09795191451469279,Espana,Rioja,0.13560425254935995,Rioja Red,0.5,0.0
+Alto Moncayo,Aquilon Garnacha,2014,0.3333333333333339,0.09706144256455922,Espana,Campo de Borja,0.4100672597092645,Grenache,1.0,0.0
+Cayetano del Pino,Palo Cortado 1/10,N.V.,0.3333333333333339,0.09706144256455922,Espana,Jerez-Xeres-Sherry,0.08461705359080061,Sherry,0.5,0.0
+Pazo Senorans,Seleccion de Anada Albarino Rias Baixas,2012,0.3333333333333339,0.09349955476402494,Espana,Rias Baixas,0.12475591234541117,Albarino,0.0,0.0
+Arzuaga,Reserva Ribera del Duero,2018,0.3333333333333339,0.0917186108637578,Espana,Ribera del Duero,0.11564330657409416,Ribera Del Duero Red,1.0,0.0
+Familia Torres,Perpetual,2017,0.3333333333333339,0.09082813891362422,Espana,Priorato,0.24842699067042745,Priorat Red,0.5,0.0
+Ferrer Bobet,Seleccio Especial Vinyes Velles,2016,0.3333333333333339,0.08726625111308994,Espana,Priorato,0.2317205467563463,Priorat Red,0.5,0.0
+Merum Priorati,El Cel,2015,0.3333333333333339,0.08726625111308994,Espana,Priorato,0.23215448036450426,Priorat Red,0.5,0.0
+Gomez Cruzado,Montes Obarenes Seleccion Terroir,2016,0.3333333333333339,0.08637577916295637,Espana,Rioja,0.16250813625515298,Rioja White,0.0,0.0
+Vall Llach,Porrera Vi de Vila,2017,0.3333333333333339,0.08637577916295637,Espana,Priorato,0.1668474723367325,Priorat Red,0.5,0.0
+Resalte,Gran Ribera del Duero,2010,0.3333333333333339,0.08637577916295637,Espana,Ribera del Duero,0.15803381427641572,Ribera Del Duero Red,1.0,0.0
+Figuero,Vinas Viejas,2018,0.3333333333333339,0.08370436331255565,Espana,Ribera del Duero,0.08505098719895857,Ribera Del Duero Red,1.0,0.0
+Osborne,Sibarita Oloroso Jerez-Xeres-Sherry 30 Years V.O.R.S,N.V.,0.3333333333333339,0.08192341941228852,Espana,Jerez Oloroso,0.3228466044695162,Sherry,0.5,0.0
+Vina Sastre,Pago de Santa Cruz Gran Reserva Ribera del Duero,2015,0.3333333333333339,0.08103294746215495,Espana,Ribera del Duero,0.28834888262095903,Ribera Del Duero Red,1.0,0.0
+Terroir Al Limit Soc. Lda,Les Tosses,2014,0.3333333333333339,0.07836153161175423,Espana,Priorato,0.6655673681926665,Priorat Red,0.5,0.0
+Martinet,Cami Pesseroles,2007,0.3333333333333339,0.07747105966162066,Espana,Priorato,0.6958125406812757,Priorat Red,0.5,0.0
+Portal del Priorat,Clos del Portal Tros de Clos,2016,0.3333333333333339,0.07479964381121995,Espana,Priorato,0.22325884139726623,Priorat Red,0.5,0.0
+Vina Sastre,Pago de Santa Cruz,2019,0.3333333333333339,0.07479964381121995,Espana,Ribera del Duero,0.1874159253634194,Ribera Del Duero Red,1.0,0.0
+Bodegas Mas Alta,La Basseta,2016,0.3333333333333339,0.07390917186108638,Espana,Priorato,0.21913647211976567,Priorat Red,0.5,0.0
+Cims de Porrera,Classic,1996,0.3333333333333339,0.07212822796081923,Espana,Priorato,0.918637448470384,Priorat Red,0.5,0.0
+Nin-Ortiz,Nit de Nin Mas d'en Cacador,2017,0.3333333333333339,0.07212822796081923,Espana,Priorato,0.3662399652853114,Priorat Red,0.5,0.0
+La Rioja Alta,Rioja Gran Reserva 904,1982,0.3333333333333339,0.07212822796081923,Espana,Rioja,0.6053373833803427,Rioja Red,0.5,0.0
+Bodegas Naluar & Acediano,Acediano,2016,0.3333333333333339,0.0703472840605521,Espana,Ribera del Duero,0.15838576697765241,Ribera Del Duero Red,1.0,0.0
+Cims de Porrera,Classic,2012,0.3333333333333339,0.06856634016028496,Espana,Priorato,0.19288348882620962,Priorat Red,0.5,0.0
+Murua,Veguin de Murua Gran Reserva,2012,0.3333333333333339,0.06767586821015138,Espana,Rioja,0.13234975048817532,Rioja Red,0.5,0.0
+Mas Doix,Doix,2015,0.3333333333333339,0.06678539626001781,Espana,Priorato,0.3883705793013669,Priorat Red,0.5,0.0
+Vinyes Domenech,Teixar,2015,0.3333333333333339,0.06589492430988424,Espana,Montsant,0.19765675851594705,Montsant Red,0.5,0.0
+Abadia Retuerta,Le Domaine Blanco de Guarda,2020,0.3333333333333339,0.06589492430988424,Espana,Sardon de Duero,0.12280321110870035,Unknown,0.30000000000000004,0.0
+Portal del Priorat,Clos del Portal Somni,2016,0.3333333333333339,0.06500445235975066,Espana,Priorato,0.11946192232588415,Priorat Red,0.5,0.0
+Terroir Al Limit Soc. Lda,Les Manyes,2015,0.3333333333333339,0.06500445235975066,Espana,Priorato,0.7962681709698416,Priorat Red,0.5,0.0
+Castillo Perelada,Emporda Aires de Garbet,2017,0.3333333333333339,0.06500445235975066,Espana,Emporda,0.14632241267086135,Red,0.5,0.0
+Pago de Vallegarcia,Montes de Toledo Syrah,2019,0.3333333333333339,0.0641139804096171,Espana,Castilla,0.06075070514211327,Syrah,0.5,0.0
+Finca Torremilanos,Torremilanos Coleccion Ribera del Duero,2014,0.3333333333333339,0.0641139804096171,Espana,Ribera del Duero,0.16706443914081145,Ribera Del Duero Red,1.0,0.0
+Vina Sastre,Regina Vides Ribera del Duero,2010,0.3333333333333339,0.06322350845948353,Espana,Ribera del Duero,0.41484052939900196,Ribera Del Duero Red,1.0,0.0
+Eulogio Pomares,Maceracion Con Pieles,2017,0.3333333333333339,0.06233303650934996,Espana,Rias Baixas,0.13647211976567586,Albarino,0.0,0.0
+Marques de Riscal,Baron de Chirel Rioja Reserva,2003,0.3333333333333339,0.06233303650934996,Espana,Rioja,0.31026252983293556,Rioja Red,0.5,0.0
+Casa Castillo,Pie Franco,2018,0.3333333333333339,0.06233303650934996,Espana,Jumilla,0.2755478411802994,Monastrell,1.0,0.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2004,0.3333333333333339,0.06144256455921639,Espana,Rioja,0.3666738988934693,Rioja Red,0.5,0.0
+Sangenis I Vaque,Clos Monlleo,2011,0.3333333333333339,0.06144256455921639,Espana,Priorato,0.19310045563028858,Priorat Red,0.5,0.0
+Delgado Zuleta,B.Rodriguez La-Cave Quo Vadis?,N.V.,0.3333333333333339,0.056990204808548536,Espana,Jerez Amontillado,0.35756129312215235,Sherry,0.5,0.0
+Bodegas Mas Alta,La Solana Alta,2017,0.3333333333333339,0.05788067675868211,Espana,Priorato,0.25150791928834887,Unknown,0.5,0.0
+Vinas del Vero,Blecua Somontano,2004,0.3333333333333339,0.056099732858414963,Espana,Somontano,0.2755478411802994,Red,0.5,0.0
+Espectacle del Montsant,Tinto,2017,0.3333333333333339,0.053428317008014245,Espana,Montsant,0.41874593187242354,Montsant Red,0.5,0.0
+Clos Mogador,Priorat,1999,0.3333333333333339,0.053428317008014245,Espana,Priorato,0.3883705793013669,Priorat Red,0.5,0.0
+Luis A. Rodriguez Vazquez,Vina de Martin Escolma Ribeiro,2016,0.3333333333333339,0.053428317008014245,Espana,Ribeiro,0.1395096550227815,Unknown,0.6000000000000001,0.0
+Martinet,Cami Pesseroles,2008,0.3333333333333339,0.048975957257346395,Espana,Priorato,0.6383163376003471,Priorat Red,0.5,0.0
+Pago de Vallegarcia,Hipperia Red Blend,2018,0.3333333333333339,0.04808548530721282,Espana,Castilla,0.08418311998264265,Red,0.5,0.0
+Emilio Moro,Vendimia Seleccionada,2019,0.3333333333333339,0.04630454140694569,Espana,Ribera del Duero,0.06890865697548275,Ribera Del Duero Red,1.0,0.0
+Bodegas Monte La Reina,Castillo de Monte la Reina Cuvee Privee,2015,0.3333333333333339,0.044523597506678544,Espana,Toro,0.0397049251464526,Toro Red,1.0,0.0
+Alonso del Yerro,Maria Ribera del Duero,2015,0.3333333333333339,0.044523597506678544,Espana,Ribera del Duero,0.2143632024300282,Ribera Del Duero Red,1.0,0.0
+Sacristia AB,Amontillado Saca,N.V.,0.3333333333333339,0.04363312555654497,Espana,Jerez-Xeres-Sherry,0.24525927533087438,Sherry,0.5,0.0
+Ontanon,Queiron Reserva Vinedos Familiares,2011,0.3333333333333339,0.04363312555654497,Espana,Rioja,0.09264482534172273,Rioja Red,0.5,0.0
+Ferrer Bobet,Seleccio Especial Vinyes Velles,2017,0.3333333333333339,0.0427426536064114,Espana,Priorato,0.2553699284009546,Priorat Red,0.5,0.0
+Alta Alella,Dolc Mataro,2018,0.3333333333333339,0.041852181656277826,Espana,Alella,0.054024734215665005,Unknown,0.6000000000000001,0.0
+Muga,Prado Enea Gran Reserva,1989,0.3333333333333339,0.041852181656277826,Espana,Rioja,0.5836407029724452,Rioja Red,0.5,0.0
+Muga,Prado Enea Gran Reserva,1991,0.3333333333333339,0.041852181656277826,Espana,Rioja,0.7008027771750922,Rioja Red,0.5,0.0
+Bodegas Roda,Roda I Reserva Rioja,2017,0.3333333333333339,0.04096170970614425,Espana,Rioja,0.17552614449989154,Rioja Red,0.5,0.0
+Bodega Elias Mora,Toro 2V Premium,2005,0.3333333333333339,0.04007123775601068,Espana,Toro,0.16706443914081145,Toro Red,1.0,0.0
+Joan Simo,Les Eres Vinyes Velles,2015,0.3333333333333339,0.04007123775601068,Espana,Priorato,0.11711868084183122,Priorat Red,0.5,0.0
+Hacienda Lopez de Haro,Gran Reserva Classica Blanco,2012,0.3333333333333339,0.04007123775601068,Espana,Rioja,0.13560425254935995,Rioja White,0.0,0.0
+Can Axartell,The Artist,2016,0.3333333333333339,0.03918076580587712,Espana,Mallorca,0.09260143198090692,Red,0.5,0.0
+Juan Pinero,Amontillado 30 Years Old V.O.R.S Sherry,N.V.,0.3333333333333339,0.03918076580587712,Espana,Jerez Amontillado,0.13625515296159688,Sherry,0.5,0.0
+Pazo Barrantes,La Comtesse de Pazo Barrantes Albarino,2017,0.3333333333333339,0.03918076580587712,Espana,Rias Baixas,0.2362768496420048,Albarino,0.0,0.0
+Abadia Retuerta,Seleccion Especial,2018,0.3333333333333339,0.03829029385574355,Espana,Sardon de Duero,0.09589932740290737,Red,0.5,0.0
+Abel Mendoza Monge,5V Blanco,2019,0.3333333333333339,0.03829029385574355,Espana,Rioja,0.14094163592970274,Rioja White,0.0,0.0
+Mas Llunes,Finca Butaros Vinya Centenaria,2015,0.3333333333333339,0.037399821905609976,Espana,Emporda,0.11599045346062051,Red,0.5,0.0
+Familia Torres,Grans Muralles,2016,0.3333333333333339,0.037399821905609976,Espana,Conca de Barbera,0.5131698850075939,Red,0.5,0.0
+Losada,La Bienquerida,2018,0.3333333333333339,0.0365093499554764,Espana,Bierzo,0.126057713169885,Mencia,0.0,0.0
+Marques de Vargas,Seleccion Privada,2011,0.3333333333333339,0.03561887800534283,Espana,Rioja,0.2712085050987199,Rioja Red,0.5,0.0
+Protos,Seleccion Finca el Grajo Viejo,2017,0.3333333333333339,0.03561887800534283,Espana,Ribera del Duero,0.23605988283792578,Ribera Del Duero Red,1.0,0.0
+Roig Parals,Cami de Cormes,2018,0.3333333333333339,0.03561887800534283,Espana,Emporda,0.03766543718811022,Red,0.5,0.0
+Oxer Wines,Kalamity Rioja,2017,0.3333333333333339,0.03561887800534283,Espana,Rioja,0.4361032761987416,Rioja Red,0.5,0.0
+Perinet,1194,2016,0.3333333333333339,0.03472840605520926,Espana,Priorato,0.43528795704057277,Red,0.5,0.0
+Cepa 21,Malabrigo Ribera del Duero,2018,0.3333333333333339,0.03561887800534283,Espana,Ribera del Duero,0.1128227381210675,Ribera Del Duero Red,1.0,0.0
+Romate,Old & Plus Pedro Ximenez,N.V.,0.3333333333333339,0.03472840605520926,Espana,Jerez Pedro Ximenes (PX),0.15890648730744195,Sherry,0.5,0.0
+Avgvstvs,Reserva Trajanvs,2016,0.3333333333333339,0.03472840605520926,Espana,Penedes,0.0694293773052723,Red,0.5,0.0
+Alvaro Palacios,Finca Dofi,1999,0.3333333333333339,0.03472840605520926,Espana,Priorato,0.3015838576697765,Priorat Red,0.5,0.0
+Jorge Ordonez,No. 2 Victoria,2018,0.3333333333333339,0.03472840605520926,Espana,Malaga,0.045129095248426995,Unknown,0.5,0.0
+Remelluri,Granja Gran Reserva Rioja,2013,0.3333333333333339,0.033837934105075684,Espana,Rioja,0.2100238663484487,Rioja Red,0.5,0.0
+Castillo Perelada,Emporda Gran Claustro,2015,0.3333333333333339,0.033837934105075684,Espana,Emporda,0.1100455630288566,Red,0.5,0.0
+Anima Negra,Son Negre,2010,0.3333333333333339,0.033837934105075684,Espana,Mallorca,1.0,Red,0.5,0.0
+Vinicola Real,200 Monges Rioja Reserva,2012,0.3333333333333339,0.032947462154942125,Espana,Rioja,0.1431980906921241,Rioja Red,0.5,0.0
+Ramon Bilbao,Lalomba Finca Valhonta,2017,0.3333333333333339,0.03205699020480855,Espana,Rioja,0.22239097418095033,Rioja Red,0.5,0.0
+Clos Mogador,Manyetes,2017,0.3333333333333339,0.03205699020480855,Espana,Priorato,0.23605988283792578,Priorat Red,0.5,0.0
+Vina Pedrosa,Gran Reserva,2014,0.3333333333333339,0.031166518254674976,Espana,Ribera del Duero,0.5084309698416142,Ribera Del Duero Red,1.0,0.0
+Terroir Al Limit Soc. Lda,Les Tosses,2013,0.3333333333333339,0.030276046304541403,Espana,Priorato,0.6655673681926665,Priorat Red,0.5,0.0
+Enric Soler,Nun Vinya dels Taus,2018,0.3333333333333339,0.030276046304541403,Espana,Penedes,0.2482100238663485,Unknown,0.3999999999999999,0.0
+Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera,2016,0.3333333333333339,0.029385574354407838,Espana,Priorato,0.23966153178563682,Priorat Red,0.5,0.0
+Portia,Summa Edicion Limitada,2015,0.3333333333333339,0.027604630454140692,Espana,Ribera del Duero,0.36654371881102193,Ribera Del Duero Red,1.0,0.0
+Bodegas Mas Alta,Cirerets,2019,0.3333333333333339,0.027604630454140692,Espana,Priorato,0.1405944890431764,Priorat Red,0.5,0.0
+Los Aguilares,Pago El Espino,2019,0.3333333333333339,0.027604630454140692,Espana,Sierras de Malaga,0.05814710349316554,Red,0.5,0.0
+La Vicalanda,Gran Reserva,2015,0.3333333333333339,0.026714158504007126,Espana,Rioja,0.20958993274029072,Rioja Red,0.5,0.0
+Vina Pedrosa,Perez Pascuas Gran Reserva Seleccion,2015,0.3333333333333339,0.026714158504007126,Espana,Ribera del Duero,0.21588197005858104,Ribera Del Duero Red,1.0,0.0
+Baigorri,Rioja B70,2014,0.3333333333333339,0.024042742653606414,Espana,Rioja,0.4295942720763723,Rioja Red,0.5,0.0
+Matarromera,Gran Reserva,2014,0.3333333333333339,0.024042742653606414,Espana,Ribera del Duero,0.29963115643306576,Ribera Del Duero Red,1.0,0.0
+Comenge,Don Miguel,2016,0.3333333333333339,0.02315227070347284,Espana,Ribera del Duero,0.11466231156216924,Ribera Del Duero Red,1.0,0.0
+Pujanza,Rioja Cisma,2014,0.3333333333333339,0.02226179875333927,Espana,Rioja,0.5836407029724452,Rioja Red,0.5,0.0
+Jesus Madrazo,Seleccion Rioja,2018,0.3333333333333339,0.02226179875333927,Espana,Rioja,0.11499240616185724,Rioja Red,0.5,0.0
+Albet i Noya,Marti Reserva Penedes,2015,0.3333333333333339,0.021371326803205696,Espana,Penedes,0.12866131481883272,Red,0.5,0.0
+La Rioja Alta,Vina Ardanza Reserva Seleccion Especial,2015,0.3333333333333339,0.021371326803205696,Espana,Rioja,0.07593838142764157,Rioja Red,0.5,0.0
+Bodegas Amaren,El Cristo de Samaniego,2017,0.3333333333333339,0.019590382902938557,Espana,Rioja Alavesa,0.162291169451074,Rioja Red,0.5,0.0
+Torre de Ona,Baron de Ona Rioja Reserva,1995,0.3333333333333339,0.018699910952804984,Espana,Rioja,0.19310045563028858,Rioja Red,0.5,0.0
+Monte Real,Gran Reserva,1978,0.3333333333333339,0.01780943900267142,Espana,Rioja,0.3970492514645259,Rioja Red,0.5,0.0
+Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albarino,2020,0.3333333333333339,0.016918967052537846,Espana,Rias Baixas,0.0911260577131699,Albarino,0.0,0.0
+Legaris,La Aguilera,2016,0.3333333333333339,0.016918967052537846,Espana,Ribera del Duero,0.11716207420264699,Ribera Del Duero Red,1.0,0.0
+Bodega Contador (Benjamin Romeo),Pirata,2014,0.3333333333333339,0.016918967052537846,Espana,Rioja,0.8179648513777391,Rioja White,0.0,0.0
+Territorio Luthier,Hispania,2018,0.3333333333333339,0.016028495102404273,Espana,Ribera del Duero,0.10154046430896072,Ribera Del Duero Red,1.0,0.0
+Martin Codax,Arousa,2019,0.3333333333333339,0.016918967052537846,Espana,Vino de Espana,0.0585376437405077,Albarino,0.0,0.0
+Artadi,Grandes Anadas Rioja,1994,0.3333333333333339,0.016028495102404273,Espana,Rioja,0.7572141462356259,Rioja Red,0.5,0.0
+Martinet,Cami Pesseroles,2017,0.3333333333333339,0.015138023152270707,Espana,Priorato,0.3037535257105663,Priorat Red,0.5,0.0
+Azpilicueta,Felix Azpilicueta Coleccion Privada,2019,0.3333333333333339,0.014247551202137134,Espana,Rioja,0.05424170101974399,Rioja Red,0.5,0.0
+Clos Galena,Galena,2017,0.3333333333333339,0.014247551202137134,Espana,Priorato,0.062052505966587124,Priorat Red,0.5,0.0
+Imperial,Rioja Reserva,1982,0.3333333333333339,0.014247551202137134,Espana,Rioja,0.6053373833803427,Rioja Red,0.5,0.0
+Bodegas Imperiales - Abadia de San Quirce,Finca Helena,2015,0.3333333333333339,0.013357079252003561,Espana,Ribera del Duero,0.23605988283792578,Ribera Del Duero Red,1.0,0.0
+Marta Mate,Primordium,2012,0.3333333333333339,0.013357079252003561,Espana,Ribera del Duero,0.10587980039054024,Ribera Del Duero Red,1.0,0.0
+Albet i Noya,Marti Reserva Penedes,2016,0.3333333333333339,0.012466607301869988,Espana,Penedes,0.12280321110870035,Red,0.5,0.0
+Figuero,Noble,2015,0.3333333333333339,0.011576135351736423,Espana,Ribera del Duero,0.23649381644608375,Ribera Del Duero Red,1.0,0.0
+Pago Calzadilla,Gran Calzadilla,2010,0.3333333333333339,0.01068566340160285,Espana,Pago Calzadilla,0.12692558038620091,Red,0.5,0.0
+Vivanco,4 Varietales Coleccion Rioja,2017,0.3333333333333339,0.01068566340160285,Espana,Rioja,0.0802777175092211,Rioja Red,0.5,0.0
+Fernandez Gao,Oloroso,N.V.,0.3333333333333339,0.011576135351736423,Espana,Jerez-Xeres-Sherry,0.23605988283792578,Sherry,0.5,0.0
+Pujanza,Rioja Cisma,2012,0.3333333333333339,0.01068566340160285,Espana,Rioja,0.5424170101974397,Rioja Red,0.5,0.0
+Vinicola Real,200 Monges Rioja Seleccion Especial Reserva Blanco,2008,0.3333333333333339,0.009795191451469277,Espana,Rioja,0.24300282056845302,Rioja White,0.0,0.0
+Harveys,30 Years V.O.R.S Very Old Palo Cortado Blend Medium Sherry,N.V.,0.3333333333333339,0.008904719501335707,Espana,Jerez Palo Cortado,0.2581904968539813,Sherry,0.5,0.0
+Tinto Pesquera,Gran Reserva,2015,0.3333333333333339,0.008904719501335707,Espana,Ribera del Duero,0.29941418962898675,Ribera Del Duero Red,1.0,0.0
+Equipo Navazos,La Bota 90 de Manzanilla Pasada,N.V.,0.3333333333333339,0.008904719501335707,Espana,Manzanilla,0.14862226079409852,Sherry,0.5,0.0
+Pujanza,Rioja Cisma,2009,0.3333333333333339,0.008014247551202138,Espana,Rioja,0.5506617487524409,Rioja Red,0.5,0.0
+Barco del Corneta,La Silleria,2017,0.3333333333333339,0.008014247551202138,Espana,Castilla y Leon,0.08244738555001085,Unknown,0.30000000000000004,0.0
+Martin Codax,Gallaecia Rias Baixes Albarino,2017,0.3333333333333339,0.008014247551202138,Espana,Rias Baixas,0.14949012801041442,Albarino,0.0,0.0
+Tinto Pesquera,Gran Reserva,1994,0.3333333333333339,0.008014247551202138,Espana,Ribera del Duero,0.5749620308092861,Ribera Del Duero Red,1.0,0.0
+Xaloc,Monada,2013,0.3333333333333339,0.007123775601068565,Espana,Mallorca,0.1297461488392276,Red,0.5,0.0
+Scala Dei,Heretge Priorat,2018,0.3333333333333339,0.007123775601068565,Espana,Priorato,0.1496637014536776,Priorat Red,0.5,0.0
+Terra Remota,Usted,2009,0.3333333333333339,0.007123775601068565,Espana,Emporda,0.6695595573877197,Red,0.5,0.0
+Allende,Martires Rioja,2017,0.3333333333333339,0.007123775601068565,Espana,Rioja,0.5820351486222607,Rioja White,0.0,0.0
+Carlos Moro,Vina Garugele,2015,0.3333333333333339,0.006233303650934996,Espana,Rioja,0.30505532653504014,Rioja Red,0.5,0.0
+Bodegas Luis Perez,Petit Verdot,2013,0.3333333333333339,0.006233303650934996,Espana,Andalucia,0.20394879583423736,Red,0.5,0.0
+Ladairo,Barrica,2018,0.3333333333333339,0.006233303650934996,Espana,Monterrei,0.06704274246040356,Red,0.5,0.0
+Conreria d'Scala Dei,Voltons,2017,0.3333333333333339,0.006233303650934996,Espana,Priorato,0.20156216098936863,Priorat Red,0.5,0.0
+Castell d'Encus,Ekam Essencia,2015,0.3333333333333339,0.006233303650934996,Espana,Costers del Segre,0.16463441093512693,Unknown,0.5,0.0
+Traslascuestas,Valcavado de Traslascuestas,2014,0.3333333333333339,0.005342831700801427,Espana,Ribera del Duero,0.13009329572575395,Ribera Del Duero Red,1.0,0.0
+Tobia,Oscar Tobia Gran Reserva Rioja,2014,0.3333333333333339,0.005342831700801427,Espana,Rioja,0.09763506183553916,Rioja Red,0.5,0.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2019,0.3333333333333339,0.005342831700801427,Espana,Rioja,0.23914081145584726,Rioja Red,0.5,0.0
+Lopez Cristobal,Seleccion,2012,0.3333333333333339,0.005342831700801427,Espana,Ribera del Duero,0.12952918203514863,Ribera Del Duero Red,1.0,0.0
+Clos Mogador,Manyetes,2018,0.3333333333333339,0.004452359750667854,Espana,Priorato,0.29967454979388153,Priorat Red,0.5,0.0
+Berceo,Los Dominios de Berceo Prefiloxerico,2015,0.3333333333333339,0.0035618878005342844,Espana,Rioja,0.10305923193751357,Rioja Red,0.5,0.0
+Romate,Old & Plus Amontillado,N.V.,0.3333333333333339,0.0026714158504007116,Espana,Jerez Amontillado,0.04486873508353223,Sherry,0.5,0.0
+La Rioja Alta,Vina Arana Gran Reserva,2015,0.3333333333333339,0.0026714158504007116,Espana,Rioja,0.09720112822738121,Rioja Red,0.5,0.0
+Anayon,Carinena Parcela 15 Vinas Viejas,2017,0.3333333333333339,0.0026714158504007116,Espana,Carinena,0.2143632024300282,Red,0.5,0.0
+David Moreno,Vobiscum,2015,0.3333333333333339,0.0026714158504007116,Espana,Rioja,0.11494901280104144,Rioja Red,0.5,0.0
+Edra,Merlot - Syrah,2016,0.3333333333333339,0.0017809439002671422,Espana,Ribera del Gallego-Cinco Villas,0.02603601648947711,Red,0.5,0.0
+Bodega Numanthia,Termanthia,2000,0.3333333333333339,0.0017809439002671422,Espana,Toro,0.5836407029724452,Toro Red,1.0,0.0
+Marques de Riscal,Baron de Chirel Rioja Reserva,2017,0.3333333333333339,0.0017809439002671422,Espana,Rioja,0.3883705793013669,Rioja Red,0.5,0.0
+Remirez de Ganuza,Rioja Blanco,2019,0.3333333333333339,0.0017809439002671422,Espana,Rioja,0.09090909090909091,Rioja White,0.0,0.0
+Briego,Vendimia Seleccionada,2020,0.3333333333333339,0.0017809439002671422,Espana,Ribera del Duero,0.010414406595790845,Ribera Del Duero Red,1.0,0.0
+Barahonda,Zona Zepa Monastrell,2015,0.3333333333333339,0.0008904719501335728,Espana,Yecla,0.23605988283792578,Monastrell,1.0,0.0
+Abadia Retuerta,Petit Verdot,2016,0.3333333333333339,0.0008904719501335728,Espana,Sardon de Duero,0.47906270340637885,Red,0.5,0.0
+Tobia,Alma Tobia Blanco,2016,0.3333333333333339,0.0008904719501335728,Espana,Rioja,0.11933174224343676,Rioja White,0.0,0.0
+Vina Pomal,Reserva,1970,0.3333333333333339,0.0,Espana,Rioja,0.288565849425038,Rioja Red,0.5,0.0
+Particular,Garnacha Vinas Centenarias,2015,0.3333333333333339,0.0,Espana,Carinena,0.036667389889346924,Grenache,1.0,0.0
+Bodegas Frontonio,El Jardin de las Iguales Vinedo Historico Garnacha,2016,0.3333333333333339,0.0,Espana,Aragon,0.8266001301800825,Grenache,1.0,0.0
+Garmon,Ribera del Duero,2016,0.16666666666666607,0.9741763134461264,Espana,Ribera del Duero,0.12189195053156868,Ribera Del Duero Red,1.0,0.0
+Marques de Caceres,Gaudium,2012,0.16666666666666607,0.9715048975957258,Espana,Rioja,0.13629854632241267,Rioja Red,0.5,0.0
+Volver,Triga,2014,0.16666666666666607,0.9697239536954586,Espana,Alicante,0.10922108917335649,Red,0.5,0.0
+Vinedos de Paganos,El Puntido,2014,0.16666666666666607,0.9278717720391808,Espana,Rioja,0.3499674549793882,Rioja Red,0.5,0.0
+Luis Canas,Reserva Seleccion de la Familia,2014,0.16666666666666607,0.8878005342831701,Espana,Rioja,0.05020611846387503,Rioja Red,0.5,0.0
+Marques de Riscal,Rioja Gran Reserva,2013,0.16666666666666607,0.8637577916295637,Espana,Rioja,0.14927316120633544,Rioja Red,0.5,0.0
+Vinedos de Paganos,El Puntido,2015,0.16666666666666607,0.8049866429207481,Espana,Rioja,0.12288999783033197,Rioja Red,0.5,0.0
+Marques de Murrieta,Dalmau Rioja,2013,0.16666666666666607,0.7898486197684773,Espana,Rioja,0.24061618572358429,Rioja Red,0.5,0.0
+Marques de Vargas,Gran Reserva Rioja,2011,0.16666666666666607,0.7800534283170081,Espana,Rioja,0.12805380776741157,Rioja Red,0.5,0.0
+Muga,Torre Muga,2011,0.16666666666666607,0.7791629563668745,Espana,Rioja,0.2796702104578,Rioja Red,0.5,0.0
+Teso La Monja,Victorino,2013,0.16666666666666607,0.7595725734639359,Espana,Toro,0.12462573226296378,Toro Red,1.0,0.0
+Imperial,Rioja Gran Reserva,2014,0.16666666666666607,0.7212822796081924,Espana,Rioja,0.1920156216098937,Rioja Red,0.5,0.0
+La Vicalanda,Reserva,2014,0.16666666666666607,0.7061442564559217,Espana,Rioja,0.0694293773052723,Rioja Red,0.5,0.0
+Alvaro Palacios,Finca Dofi,2012,0.16666666666666607,0.7025823686553874,Espana,Priorato,0.32328053807767415,Priorat Red,0.5,0.0
+Senorio de San Vicente,San Vicente Rioja,2014,0.16666666666666607,0.6999109528049867,Espana,Rioja,0.13234975048817532,Rioja Red,0.5,0.0
+Imperial,Rioja Reserva,2017,0.16666666666666607,0.6892252894033838,Espana,Rioja,0.08656975482751139,Rioja Red,0.5,0.0
+La Rioja Alta,Vina Ardanza Reserva,2010,0.16666666666666607,0.6749777382012467,Espana,Rioja,0.050596658711217185,Rioja Red,0.5,0.0
+Pintia,Toro,2004,0.16666666666666607,0.6544968833481746,Espana,Toro,0.4834020394879584,Toro Red,1.0,0.0
+Vinedos de Paganos,El Puntido Gran Reserva,2006,0.16666666666666607,0.6491540516473732,Espana,Rioja,0.1497070948144934,Rioja Red,0.5,0.0
+Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2012,0.16666666666666607,0.6447016918967052,Espana,Rioja,0.1487524408765459,Rioja Red,0.5,0.0
+Anima Negra,An,2017,0.16666666666666607,0.6366874443455032,Espana,Mallorca,0.14962030809286178,Red,0.5,0.0
+Senorio de San Vicente,San Vicente Rioja,2007,0.16666666666666607,0.622439893143366,Espana,Rioja,0.31330006509004127,Rioja Red,0.5,0.0
+Clos Mogador,Priorat,2009,0.16666666666666607,0.6215494211932324,Espana,Priorato,0.3883705793013669,Priorat Red,0.5,0.0
+Bodegas San Roman,Tinto,2018,0.16666666666666607,0.5948352626892254,Espana,Toro,0.08852245606422217,Toro Red,1.0,0.0
+Castillo Perelada,Finca Malaveina,2017,0.16666666666666607,0.5894924309884239,Espana,Emporda,0.07376871338685181,Red,0.5,0.0
+Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2014,0.16666666666666607,0.5877114870881568,Espana,Rioja,0.19310045563028858,Rioja Red,0.5,0.0
+Remelluri,Granja Gran Reserva Rioja,2009,0.16666666666666607,0.585040071237756,Espana,Rioja,0.22694727706660878,Rioja Red,0.5,0.0
+Marques de Riscal,Reserva XR,2016,0.16666666666666607,0.5796972395369546,Espana,Rioja,0.06830114992406161,Rioja Red,0.5,0.0
+Condado de Haza,Alenza Ribera del Duero Gran Reserva,2006,0.16666666666666607,0.578806767586821,Espana,Ribera del Duero,0.27988717726187895,Ribera Del Duero Red,1.0,0.0
+Enate,Chardonnay Fermentado en Barrica,2019,0.16666666666666607,0.5779162956366874,Espana,Somontano,0.044478194836190074,Chardonnay,0.5,0.0
+Ordonez,Vatan Tinta de Toro,2016,0.16666666666666607,0.5699020480854854,Espana,Toro,0.08895638967238013,Toro Red,1.0,0.0
+Lan,A Mano Rioja,2016,0.16666666666666607,0.5681211041852182,Espana,Rioja,0.08817889126597614,Rioja Red,0.5,0.0
+Marques de Riscal,Baron de Chirel Rioja Reserva,2014,0.16666666666666607,0.566340160284951,Espana,Rioja,0.24929485788674333,Rioja Red,0.5,0.0
+Volver,Alicante Bouschet by Tarima,2017,0.16666666666666607,0.5636687444345504,Espana,Alicante,0.05055326535040139,Red,0.5,0.0
+Arzuaga,Reserva Ribera del Duero,2014,0.16666666666666607,0.5485307212822796,Espana,Ribera del Duero,0.12323714471685832,Ribera Del Duero Red,1.0,0.0
+Alvaro Palacios,Finca Dofi,2011,0.16666666666666607,0.5235975066785397,Espana,Priorato,0.32328053807767415,Priorat Red,0.5,0.0
+Alvaro Palacios,Finca Dofi,2013,0.16666666666666607,0.5164737310774711,Espana,Priorato,0.32328053807767415,Priorat Red,0.5,0.0
+Clos Mogador,Priorat,2008,0.16666666666666607,0.5048975957257347,Espana,Priorato,0.3883705793013669,Priorat Red,0.5,0.0
+Bodegas Tradicion,Oloroso Tradicion Vors 30 Years,N.V.,0.16666666666666607,0.5031166518254675,Espana,Jerez Oloroso,0.2317205467563463,Sherry,0.5,0.0
+Pazo Senorans,Seleccion de Anada Albarino Rias Baixas,2011,0.16666666666666607,0.49599287622439886,Espana,Rias Baixas,0.11016535040138858,Albarino,0.0,0.0
+Carmelo Rodero,Ribera del Duero TSM,2019,0.16666666666666607,0.49154051647373104,Espana,Ribera del Duero,0.26903883705793014,Ribera Del Duero Red,1.0,0.0
+Abadia Retuerta,Pago Valdebellon,2015,0.16666666666666607,0.48441674087266245,Espana,Sardon de Duero,0.2688218702538512,Cabernet Sauvignon,0.5,0.0
+Protos,Gran Reserva,2014,0.16666666666666607,0.47016918967052534,Espana,Ribera del Duero,0.15816880017357346,Ribera Del Duero Red,1.0,0.0
+Carmelo Rodero,Crianza,2019,0.16666666666666607,0.45235975066785394,Espana,Ribera del Duero,0.06270340637882404,Ribera Del Duero Red,1.0,0.0
+Protos,Seleccion Finca el Grajo Viejo,2014,0.16666666666666607,0.44968833481745324,Espana,Ribera del Duero,0.23592970275547842,Ribera Del Duero Red,1.0,0.0
+Familia Torres,Perpetual,2016,0.16666666666666607,0.44968833481745324,Espana,Priorato,0.25168149273161206,Priorat Red,0.5,0.0
+Clos Erasmus,Laurel,2017,0.16666666666666607,0.44701691896705253,Espana,Priorato,0.17956172705576048,Priorat Red,0.5,0.0
+Clos Mogador,Priorat,2006,0.16666666666666607,0.44701691896705253,Espana,Priorato,0.3883705793013669,Priorat Red,0.5,0.0
+Alvaro Palacios,Finca Dofi,2017,0.16666666666666607,0.44256455921638466,Espana,Priorato,0.4096333261011066,Priorat Red,0.5,0.0
+Teso La Monja,Victorino,2011,0.16666666666666607,0.43811219946571683,Espana,Toro,0.1801258407463658,Toro Red,1.0,0.0
+Dominio de Cair,Seleccion La Aguilera,2016,0.16666666666666607,0.43276936776491537,Espana,Ribera del Duero,0.045129095248426995,Ribera Del Duero Red,1.0,0.0
+Torre de Ona,Finca Martelo,2015,0.16666666666666607,0.43365983971504896,Espana,Rioja,0.06791060967671946,Rioja Red,0.5,0.0
+Ferrer Bobet,Priorat Vinyes Velles,2011,0.16666666666666607,0.42386464826357967,Espana,Priorato,0.1926665220221306,Priorat Red,0.5,0.0
+Remirez de Ganuza,Rioja Blanco,2018,0.16666666666666607,0.41852181656277826,Espana,Rioja,0.07954003037535257,Rioja White,0.0,0.0
+Ramon Bilbao,Mirto,2014,0.16666666666666607,0.3989314336598397,Espana,Rioja,0.1858971577348666,Rioja Red,0.5,0.0
+Alvaro Palacios,Vi de Vila Gratallops,2017,0.16666666666666607,0.390026714158504,Espana,Priorato,0.2143632024300282,Priorat Red,0.5,0.0
+Martinet,Clos Martinet,2005,0.16666666666666607,0.38824577025823687,Espana,Priorato,0.4797136038186158,Priorat Red,0.5,0.0
+Alvaro Palacios,Vi de Vila Gratallops,2016,0.16666666666666607,0.38824577025823687,Espana,Priorato,0.18767628552831417,Priorat Red,0.5,0.0
+Alion,Ribera del Duero,2000,0.16666666666666607,0.383793410507569,Espana,Ribera del Duero,0.40138858754610546,Ribera Del Duero Red,1.0,0.0
+Bodegas Roda,Roda Reserva Rioja,2004,0.16666666666666607,0.3802315227070347,Espana,Rioja,0.32913864178780644,Rioja Red,0.5,0.0
+Bodegas Faustino,I Gran Reserva,1970,0.16666666666666607,0.377560106856634,Espana,Rioja,0.8739856801909307,Rioja Red,0.5,0.0
+Ossian,Vinas Viejas Verdejo,2017,0.16666666666666607,0.377560106856634,Espana,Castilla y Leon,0.15838576697765241,Verdejo,0.0,0.0
+Monte Real,Gran Reserva,1998,0.16666666666666607,0.3739982190560997,Espana,Rioja,0.12757648079843784,Rioja Red,0.5,0.0
+Hacienda Monasterio,Reserva,2013,0.16666666666666607,0.3615316117542297,Espana,Ribera del Duero,0.21024083315252767,Ribera Del Duero Red,1.0,0.0
+Remirez de Ganuza,Rioja Vina Coqueta,2008,0.16666666666666607,0.3597506678539626,Espana,Rioja,0.22243575712651162,Rioja Red,0.5,0.0
+Protos,Seleccion Finca el Grajo Viejo,2010,0.16666666666666607,0.3579697239536954,Espana,Ribera del Duero,0.24838359730961163,Ribera Del Duero Red,1.0,0.0
+St. Petroni,Vermello Vermu,N.V.,0.16666666666666607,0.3552983081032947,Espana,Galicia,0.02338902147971361,Unknown,0.5,0.0
+Llanos Negros,Los Tabaqueros,2006,0.16666666666666607,0.3508459483526269,Espana,La Palma,0.07138207854198308,Unknown,0.5,0.0
+Finca Torremilanos,Torre Albeniz Reserva Ribera del Duero,2016,0.16666666666666607,0.3508459483526269,Espana,Ribera del Duero,0.10132349750488176,Ribera Del Duero Red,1.0,0.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,1998,0.16666666666666607,0.3499554764024933,Espana,Rioja,0.6704274246040356,Rioja Red,0.5,0.0
+Aster,Finca El Otero,2016,0.16666666666666607,0.3437221727515583,Espana,Ribera del Duero,0.09286179214580169,Ribera Del Duero Red,1.0,0.0
+Bodegas Valduero,Tierra Alta de 2 Cotas Reserva,2014,0.16666666666666607,0.340160284951024,Espana,Ribera del Duero,0.10848340203948797,Ribera Del Duero Red,1.0,0.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,1989,0.16666666666666607,0.3374888691006233,Espana,Rioja,0.6704274246040356,Rioja Red,0.5,0.0
+Bodegas Aragonesas,Fagus de Coto de Hayas Garnacha,2017,0.16666666666666607,0.3321460373998219,Espana,Aragon,0.06734649598611413,Grenache,1.0,0.0
+Mustiguillo,Finca Terrerazo,2018,0.16666666666666607,0.3312555654496883,Espana,El Terrerazo,0.07507051421132567,Red,0.5,0.0
+Clos Erasmus,Laurel,2018,0.16666666666666607,0.3312555654496883,Espana,Priorato,0.13482317205467564,Priorat Red,0.5,0.0
+Alvaro Palacios,Finca Dofi,2009,0.16666666666666607,0.3196794300979519,Espana,Priorato,0.3449772184855717,Priorat Red,0.5,0.0
+Cepa 21,Malabrigo Ribera del Duero,2015,0.16666666666666607,0.3107747105966162,Espana,Ribera del Duero,0.20828813191581688,Ribera Del Duero Red,1.0,0.0
+Vinedos de Paganos,El Puntido,2017,0.16666666666666607,0.30810329474621545,Espana,Rioja,0.13213278368409634,Rioja Red,0.5,0.0
+Morca,Godina Garnacha,2019,0.16666666666666607,0.3072128227960819,Espana,Campo de Borja,0.04664786287697982,Grenache,1.0,0.0
+Marques de Tomares,Rioja Gran Reserva,2010,0.16666666666666607,0.30543187889581475,Espana,Rioja,0.08873942286830115,Red,0.5,0.0
+Sierra Cantabria,Coleccion Privada,2017,0.16666666666666607,0.30365093499554763,Espana,Rioja,0.10203175726706185,Rioja Red,0.5,0.0
+Vall Llach,Porrera Vi de Vila,2012,0.16666666666666607,0.30186999109528045,Espana,Priorato,0.15187676285528315,Priorat Red,0.5,0.0
+Quinta Sardonia,QS,2014,0.16666666666666607,0.29652715939447905,Espana,Castilla y Leon,0.1316988500759384,Red,0.5,0.0
+Comenge,Don Miguel Comenge Reserva,2011,0.16666666666666607,0.29385574354407834,Espana,Ribera del Duero,0.14276415708396614,Ribera Del Duero Red,1.0,0.0
+Bodega Numanthia,Numanthia,2016,0.16666666666666607,0.28495102404274264,Espana,Toro,0.14766760685615102,Toro Red,1.0,0.0
+Alvaro Palacios,Vi de Vila Gratallops,2018,0.16666666666666607,0.28406055209260905,Espana,Priorato,0.21024083315252767,Priorat Red,0.5,0.0
+Hermanos Pecina,Finca Iscorta Gran Reserva,2010,0.16666666666666607,0.27515583259127335,Espana,Rioja,0.09329572575395965,Rioja Red,0.5,0.0
+Abadia Retuerta,Le Domaine Blanco de Guarda,2016,0.16666666666666607,0.26892252894033836,Espana,Sardon de Duero,0.13647211976567586,Unknown,0.7000000000000002,0.0
+Biniagual,Finca Biniagual Veran,2017,0.16666666666666607,0.26447016918967053,Espana,Binissalem-Mallorca,0.0911260577131699,Red,0.5,0.0
+Breca,Brega Garnacha,2017,0.16666666666666607,0.26001780943900266,Espana,Calatayud,0.09720112822738121,Grenache,1.0,0.0
+Pintia,Toro,2001,0.16666666666666607,0.25823686553873554,Espana,Toro,0.7982208722065524,Toro Red,1.0,0.0
+Godeval,Cepas Vellas Godello,2019,0.16666666666666607,0.21994657168299198,Espana,Valdeorras,0.056324582338902154,Unknown,0.5,0.0
+Dominio del Bendito,Las Sabias,2017,0.16666666666666607,0.21816562778272483,Espana,Toro,0.0739856801909308,Toro Red,0.6000000000000001,0.0
+Alvaro Palacios,Finca Dofi,2010,0.16666666666666607,0.21193232413178983,Espana,Priorato,0.3449772184855717,Priorat Red,0.6000000000000001,0.0
+Bosque de Matasnos,Bosque de Matasnos Etiqueta Blanca,2019,0.16666666666666607,0.20926090828138913,Espana,Ribera del Duero,0.09286179214580169,Ribera Del Duero Red,0.6000000000000001,0.0
+Contino,Vina del Olivo,2011,0.16666666666666607,0.20926090828138913,Espana,Rioja,0.2536341939683229,Rioja Red,0.5,0.0
+Bodegas Olarra,Cerro Anon Rioja Gran Reserva,2015,0.16666666666666607,0.20747996438112198,Espana,Rioja,0.032111087003688435,Rioja Red,0.5,0.0
+Castell d'Encus,Ekam,2019,0.16666666666666607,0.2065894924309884,Espana,Costers del Segre,0.0829247125189846,Unknown,0.6000000000000001,0.0
+Martinet,Clos Martinet,2004,0.16666666666666607,0.19946571682991984,Espana,Priorato,0.6812757648079844,Priorat Red,0.5,0.0
+Enate,Chardonnay Fermentado en Barrica,2020,0.16666666666666607,0.195013357079252,Espana,Somontano,0.0494684313300065,Chardonnay,0.5,0.0
+Francisco Barona,Ribera Del Duero,2019,0.16666666666666607,0.19323241317898485,Espana,Ribera del Duero,0.11021913647211976,Ribera Del Duero Red,1.0,0.0
+Dominio do Bibei,Lapola,2017,0.16666666666666607,0.1923419412288513,Espana,Ribeira Sacra,0.07073117812974615,Unknown,0.5,0.0
+Taron,Pantocrator,2010,0.16666666666666607,0.1923419412288513,Espana,Rioja Alta,0.06248643957474506,Rioja Red,0.5,0.0
+Castillo de Cuzcurrita,Senorio de Cuzcurrita Rioja,2017,0.16666666666666607,0.19056099732858414,Espana,Rioja,0.08187369342756173,Rioja Red,0.5,0.0
+Castillo Perelada,Finca Malaveina,2018,0.16666666666666607,0.19056099732858414,Espana,Emporda,0.05806031677153396,Red,0.5,0.0
+Orben,Malpuesto,2017,0.16666666666666607,0.19056099732858414,Espana,Rioja,0.10761553482317207,Rioja Red,0.5,0.0
+Abadia Retuerta,Pago Valdebellon,2014,0.16666666666666607,0.188780053428317,Espana,Sardon de Duero,0.2560208288131916,Cabernet Sauvignon,0.5,0.0
+Clos Figueras,Clos Figueres,2012,0.16666666666666607,0.188780053428317,Espana,Priorato,0.19140811455847256,Priorat Red,0.5,0.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,1995,0.16666666666666607,0.1861086375779163,Espana,Rioja,0.6053373833803427,Rioja Red,0.5,0.0
+Jorge Ordonez,No. 2 Victoria,2017,0.16666666666666607,0.18432769367764915,Espana,Malaga,0.06899544369711434,Unknown,0.5,0.0
+Ontanon,Queiron Mi Lugar,2018,0.16666666666666607,0.18432769367764915,Espana,Rioja,0.0694293773052723,Rioja Red,0.5,0.0
+Remelluri,Rioja Blanco,2016,0.16666666666666607,0.1798753339269813,Espana,Rioja,0.21479713603818618,Rioja White,0.0,0.0
+Familia Torres,Purgatori Costers del Segre,2018,0.16666666666666607,0.18076580587711485,Espana,Costers del Segre,0.09720112822738121,Red,0.5,0.0
+Sonsierra,Perfume de Sonsierra,2014,0.16666666666666607,0.1798753339269813,Espana,Rioja Alta,0.09980472987632892,Rioja Red,0.5,0.0
+Jaro,Chafandin,2011,0.16666666666666607,0.176313446126447,Espana,Ribera del Duero,0.0874376220438273,Ribera Del Duero Red,1.0,0.0
+Martinet,Clos Martinet,2017,0.16666666666666607,0.17542297417631345,Espana,Priorato,0.23844651768279457,Priorat Red,0.5,0.0
+Vins Miquel Gelabert,Chardonnay Roure,2018,0.16666666666666607,0.17453250222617986,Espana,Pla i Llevant,0.10761553482317207,Chardonnay,0.5,0.0
+Contino,Rioja Graciano,2015,0.16666666666666607,0.1736420302760463,Espana,Rioja,0.24734215665003256,Rioja Red,0.5,0.0
+Martinet,Clos Martinet,2010,0.16666666666666607,0.17186108637577915,Espana,Priorato,0.5280972011282273,Priorat Red,0.5,0.0
+Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,1994,0.16666666666666607,0.170080142475512,Espana,Rioja,0.765892818398785,Rioja Red,0.5,0.0
+Bodega Tesalia,ARX Arcos de la Frontera,2018,0.16666666666666607,0.16918967052537845,Espana,Andalucia,0.045129095248426995,Red,0.5,0.0
+Losada,La Bienquerida,2017,0.16666666666666607,0.1674087266251113,Espana,Bierzo,0.13820785419830767,Mencia,0.0,0.0
+Chivite,Navarra Reserva Coleccion 125,2015,0.16666666666666607,0.16562778272484416,Espana,Navarra,0.06509004122369277,Red,0.5,0.0
+Bodega de Bardos,Suprema 30 Meses,2012,0.16666666666666607,0.16473731077471057,Espana,Ribera del Duero,0.0802777175092211,Ribera Del Duero Red,1.0,0.0
+Alvaro Palacios,Finca Dofi,2007,0.16666666666666607,0.163846838824577,Espana,Priorato,0.32328053807767415,Priorat Red,0.5,0.0
+Venus la Universal,Venus,2009,0.16666666666666607,0.16206589492430987,Espana,Montsant,0.23454111520937299,Montsant Red,0.5,0.0
+Bodegas Roda,Roda I Reserva Rioja,2001,0.16666666666666607,0.15761353517364202,Espana,Rioja,0.37101323497504884,Rioja Red,0.5,0.0
+Alvaro Palacios,Finca Dofi,2000,0.16666666666666607,0.15761353517364202,Espana,Priorato,0.35799522673031026,Priorat Red,0.5,0.0
+Clos Figueras,Clos Figueres,2015,0.16666666666666607,0.15672306322350846,Espana,Priorato,0.2837491863744847,Priorat Red,0.5,0.0
+Casa Castillo,Pie Franco,2016,0.16666666666666607,0.15583259127337487,Espana,Jumilla,0.23605988283792578,Monastrell,1.0,0.0
+El Grillo y La Luna,Grillo,2012,0.16666666666666607,0.15583259127337487,Espana,Somontano,0.1188978086352788,Red,0.5,0.0
+Tridente,Prieto Picudo,2016,0.16666666666666607,0.15405164737310773,Espana,Castilla y Leon,0.06899544369711434,Red,0.5,0.0
+Ferrer Bobet,Seleccio Especial Vinyes Velles,2014,0.16666666666666607,0.15316117542297417,Espana,Priorato,0.25385116077240183,Priorat Red,0.5,0.0
+Marques de Grinon,Emeritvs (Emeritus),2011,0.16666666666666607,0.15316117542297417,Espana,Dominio de Valdepusa,0.18008244738555002,Red,0.5,0.0
+Remelluri,Rioja Blanco,2014,0.16666666666666607,0.15227070347284058,Espana,Rioja,0.23757865046647864,Rioja White,0.0,0.0
+Martinet,Clos Martinet,2006,0.16666666666666607,0.14870881567230632,Espana,Priorato,0.4534606205250597,Priorat Red,0.5,0.0
+Mas Doix,Doix,2012,0.16666666666666607,0.14781834372217273,Espana,Priorato,0.33195921024083314,Priorat Red,0.5,0.0
+Abadia Retuerta,Pago Valdebellon,2010,0.16666666666666607,0.14781834372217273,Espana,Sardon de Duero,0.21479713603818618,Cabernet Sauvignon,0.5,0.0
+Clos d'Agon,Tinto,2014,0.16666666666666607,0.14692787177203917,Espana,Cataluna,0.13451941852896507,Red,0.5,0.0
+Martinet,Clos Martinet,2013,0.16666666666666607,0.14603739982190558,Espana,Priorato,0.4734215665003254,Priorat Red,0.5,0.0
+Garmon,Ribera del Duero,2018,0.16666666666666607,0.14514692787177202,Espana,Ribera del Duero,0.12150141028422651,Ribera Del Duero Red,1.0,0.0
+Bodegas Mauro,Godello Blanco,2017,0.16666666666666607,0.14336598397150488,Espana,Bierzo,0.12584074636580603,Unknown,0.3999999999999999,0.0
+Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2014,0.16666666666666607,0.14158504007123773,Espana,Ribera del Duero,0.3763940117162074,Ribera Del Duero Red,1.0,0.0
+Clos d'Agon,Tinto,2015,0.16666666666666607,0.14158504007123773,Espana,Cataluna,0.22312866131481884,Red,0.5,0.0
+Martinet,Clos Martinet,2012,0.16666666666666607,0.13624220837043632,Espana,Priorato,0.48513777392059015,Priorat Red,0.5,0.0
+Bodegas Ateca,Atteca Armas Garnacha Old Vines,2017,0.16666666666666607,0.13446126447016918,Espana,Calatayud,0.1188978086352788,Grenache,1.0,0.0
+Enate,Syrah (Shiraz),2016,0.16666666666666607,0.13357079252003562,Espana,Somontano,0.07810804946843133,Syrah,0.5,0.0
+Bodega Campo Eliseo,Campo Eliseo,2009,0.16666666666666607,0.13357079252003562,Espana,Toro,0.18659145150791928,Toro Red,1.0,0.0
+Contino,Rioja Graciano,2016,0.16666666666666607,0.13268032056990203,Espana,Rioja,0.2571056628335865,Rioja Red,0.5,0.0
+Vinyes Domenech,Teixar,2012,0.16666666666666607,0.13000890471950133,Espana,Montsant,0.1594706009980473,Montsant Red,0.30000000000000004,0.0
+Oxer Wines,Suzzane Rioja,2016,0.16666666666666607,0.12733748886910062,Espana,Rioja,0.1379474940334129,Rioja Red,0.30000000000000004,0.0
+La Rioja Alta,Rioja Gran Reserva 904,1989,0.16666666666666607,0.11487088156723065,Espana,Rioja,0.6270340637882403,Rioja Red,0.5,0.0
+Palmeri Sicilia,Palmeri Navalta Garnacha,2016,0.0,0.11219946571682991,Espana,Campo de Borja,0.10154046430896072,Grenache,1.0,0.0
+Remelluri,Rioja Blanco,2015,0.16666666666666607,0.10774710596616206,Espana,Rioja,0.22299848123237145,Rioja White,0.0,0.0
+Ukan Winery,Tinto,2018,0.16666666666666607,0.1068566340160285,Espana,Rioja Alavesa,0.14927316120633544,Rioja Red,0.5,0.0
+Tinto Pesquera,Reserva,2002,0.16666666666666607,0.10596616206589492,Espana,Ribera del Duero,0.2581904968539813,Ribera Del Duero Red,1.0,0.0
+Tinto Pesquera,Gran Reserva,1995,0.16666666666666607,0.10418521816562777,Espana,Ribera del Duero,0.6098936862660013,Ribera Del Duero Red,1.0,0.0
+Mas Que Vinos,La Plazuela,2015,0.16666666666666607,0.10329474621549421,Espana,Castilla,0.16728140594489044,Red,0.5,0.0
+Arzuaga,Gran Reserva Ribera del Duero,2014,0.16666666666666607,0.10240427426536064,Espana,Ribera del Duero,0.24760251681492734,Ribera Del Duero Red,1.0,0.0
+Beronia,III a.C,2011,0.16666666666666607,0.10240427426536064,Espana,Rioja,0.1764374050770232,Rioja Red,0.5,0.0
+Valquejigoso,V2 Tinto,2007,0.16666666666666607,0.10240427426536064,Espana,Madrid,0.18675489260143197,Red,0.5,0.0
+Bodega Contador (Benjamin Romeo),La Vina de Andres Romeo Rioja,2011,0.16666666666666607,0.10151380231522707,Espana,Rioja,0.3992189195053157,Rioja Red,0.5,0.0
+Telmo Rodriguez,Matallana,2014,0.16666666666666607,0.10062333036509351,Espana,Ribera del Duero,0.15838576697765241,Ribera Del Duero Red,1.0,0.0
+Pujanza,Rioja Norte,2010,0.16666666666666607,0.10062333036509351,Espana,Rioja,0.3015838576697765,Rioja Red,0.5,0.0
+Bodegas Roda,Roda I Reserva Rioja,2000,0.16666666666666607,0.09973285841495994,Espana,Rioja,0.3449772184855717,Rioja Red,0.5,0.0
+Sei Solo,Tinto,2016,0.16666666666666607,0.09973285841495994,Espana,Ribera del Duero,0.2052505966587112,Ribera Del Duero Red,1.0,0.0
+Bodegas Mas Alta,Artigas,2019,0.16666666666666607,0.09884238646482636,Espana,Priorato,0.06465610761553482,Priorat Red,0.5,0.0
+Jaro,Chafandin,2017,0.16666666666666607,0.09884238646482636,Espana,Ribera del Duero,0.09021607744260621,Ribera Del Duero Red,1.0,0.0
+Bodegas 6o Elemento - Vino Sexto Elemento,Tinto,2018,0.16666666666666607,0.09884238646482636,Espana,Valencia,0.06248643957474506,Red,0.5,0.0
+De Moya,Julia,2018,0.16666666666666607,0.09795191451469279,Espana,Valencia,0.054024734215665005,Monastrell,1.0,0.0
+Martinet,Clos Martinet,2003,0.16666666666666607,0.09795191451469279,Espana,Priorato,0.5424170101974397,Priorat Red,0.5,0.0
+Bodega Sommos,Coleccion Syrah,2017,0.16666666666666607,0.09617097061442564,Espana,Somontano,0.08847906270340639,Syrah,0.5,0.0
+Celler de Capcanes,Flor de Primavera Peraj Ha'abib,2018,0.16666666666666607,0.09617097061442564,Espana,Montsant,0.09546539379474941,Montsant Red,0.5,0.0
+Remelluri,Rioja Blanco,2013,0.16666666666666607,0.09439002671415851,Espana,Rioja,0.2518116728140595,Rioja White,0.0,0.0
+Pago del Vostal,Crianza Vendimia Seleccionada,2018,0.16666666666666607,0.09349955476402494,Espana,Ribera del Duero,0.058364070297244525,Ribera Del Duero Red,1.0,0.0
+Vizcarra,Ribera del Duero Torralvo,2015,0.16666666666666607,0.0917186108637578,Espana,Ribera del Duero,0.15382946409199394,Ribera Del Duero Red,1.0,0.0
+Telmo Rodriguez,Matallana,2016,0.16666666666666607,0.0917186108637578,Espana,Ribera del Duero,0.14862226079409852,Ribera Del Duero Red,1.0,0.0
+Bodegas Valduero,Finca Azaya Premium,2015,0.16666666666666607,0.0917186108637578,Espana,Castilla y Leon,0.07784768930353657,Ribera Del Duero Red,1.0,0.0
+Neo,Ribera del Duero Tinto,2005,0.16666666666666607,0.08993766696349065,Espana,Ribera del Duero,0.1280104144065958,Ribera Del Duero Red,1.0,0.0
+Martinet,Clos Martinet,2018,0.16666666666666607,0.08904719501335707,Espana,Priorato,0.22564547624213496,Priorat Red,0.5,0.0
+Habla,No. 20,2016,0.16666666666666607,0.08815672306322352,Espana,Extremadura,0.08006075070514211,Red,0.5,0.0
+Martinet,Els Escurcons,2015,0.16666666666666607,0.08637577916295637,Espana,Priorato,0.34476025168149277,Priorat Red,0.5,0.0
+Rodriguez de Vera,Tinto,2015,0.16666666666666607,0.08637577916295637,Espana,Almansa,0.029030158385766978,Red,0.5,0.0
+El Maestro Sierra,Palo Cortado,N.V.,0.16666666666666607,0.08370436331255565,Espana,Jerez Palo Cortado,0.34671295291820353,Sherry,0.5,0.0
+Torre de Ona,Martelo Reserva,2015,0.16666666666666607,0.08370436331255565,Espana,Rioja,0.07780429594272077,Rioja Red,0.5,0.0
+Cims de Porrera,Classic,2010,0.16666666666666607,0.08281389136242208,Espana,Priorato,0.16376654371881103,Priorat Red,0.5,0.0
+Ostatu,Gloria Rioja,2010,0.16666666666666607,0.08192341941228852,Espana,Rioja Alavesa,0.212714254719028,Rioja Red,0.5,0.0
+Paco & Lola,Vintage Albarino,2013,0.16666666666666607,0.08192341941228852,Espana,Rias Baixas,0.0802777175092211,Albarino,0.0,0.0
+Valdespino,Cardenal Palo Cortado VORS,N.V.,0.16666666666666607,0.08103294746215495,Espana,Jerez Palo Cortado,0.7420264699500976,Sherry,0.5,0.0
+Pago de Vallegarcia,Vallegarcia Viognier,2019,0.16666666666666607,0.0792520035618878,Espana,Castilla,0.05641136906053375,Unknown,0.6000000000000001,0.0
+Vinas del Vero,Blecua Somontano,2011,0.16666666666666607,0.07747105966162066,Espana,Somontano,0.29681058798003906,Red,0.5,0.0
+Contino,Rioja Graciano,2017,0.16666666666666607,0.0765805877114871,Espana,Rioja,0.24907789108266437,Rioja Red,0.5,0.0
+Costers del Priorat,Clos Cypres Vinyes Velles (Old Vines),2015,0.16666666666666607,0.0765805877114871,Espana,Priorato,0.18876111954870906,Priorat Red,0.5,0.0
+Eulogio Pomares,Castineiro Albarino,2017,0.16666666666666607,0.0765805877114871,Espana,Rias Baixas,0.10956823605988283,Albarino,0.0,0.0
+Bodegas Urium,Amontillado V.O.R.S,N.V.,0.16666666666666607,0.07569011576135352,Espana,Jerez Amontillado,0.19310045563028858,Sherry,0.5,0.0
+Bodega Otazu,Altar,2008,0.16666666666666607,0.07479964381121995,Espana,Navarra,0.11577348665654155,Red,0.5,0.0
+Perez Barquero,Gran Barquero Palo Cortado Solera 25 Anos,N.V.,0.16666666666666607,0.07390917186108638,Espana,Montilla-Moriles,0.12757648079843784,Unknown,0.7000000000000002,0.0
+Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2015,0.16666666666666607,0.07390917186108638,Espana,Ribera del Duero,0.3763940117162074,Ribera Del Duero Red,1.0,0.0
+Bodegas Roda,Roda Reserva Rioja,2018,0.16666666666666607,0.07390917186108638,Espana,Rioja,0.08249077891082665,Rioja Red,0.5,0.0
+Finca Villacreces,Nebro Ribera del Duero,2009,0.16666666666666607,0.0730186999109528,Espana,Ribera del Duero,0.5660663918420481,Ribera Del Duero Red,1.0,0.0
+Pujanza,Rioja Norte,2011,0.16666666666666607,0.07212822796081923,Espana,Rioja,0.17964851377739205,Rioja Red,0.5,0.0
+Cims de Porrera,Classic,2011,0.16666666666666607,0.06856634016028496,Espana,Priorato,0.14758082013451942,Priorat Red,0.5,0.0
+Cims de Porrera,Classic,1997,0.16666666666666607,0.06856634016028496,Espana,Priorato,0.49663701453677594,Priorat Red,0.5,0.0
+Descendientes de J. Palacios,Las Lamas Bierzo (Corullon),2016,0.16666666666666607,0.06678539626001781,Espana,Bierzo,0.38945541332176176,Mencia,0.0,0.0
+Alta Alella,Orbus,2016,0.16666666666666607,0.06678539626001781,Espana,Alella,0.08440008678672163,Syrah,0.5,0.0
+Losada,La Bienquerida,2015,0.16666666666666607,0.06678539626001781,Espana,Bierzo,0.13629854632241267,Mencia,0.0,0.0
+Terroir Al Limit Soc. Lda,Les Manyes,2014,0.16666666666666607,0.06589492430988424,Espana,Priorato,0.6655673681926665,Priorat Red,0.5,0.0
+Alvaro Palacios,Finca Dofi,2003,0.16666666666666607,0.06589492430988424,Espana,Priorato,0.369277500542417,Priorat Red,0.5,0.0
+Bodegas Clunia,Malbec,2018,0.16666666666666607,0.06589492430988424,Espana,Castilla y Leon,0.08418311998264265,Red,0.5,0.0
+Losada,Altos de Losada,2019,0.16666666666666607,0.0641139804096171,Espana,Bierzo,0.055760468648296826,Mencia,0.0,0.0
+Arinzano,Gran Vino Blanco,2016,0.16666666666666607,0.06233303650934996,Espana,Arinzano,0.2592753308743762,Chardonnay,0.5,0.0
+Campillo,Reserva Especial Rioja,2010,0.16666666666666607,0.06233303650934996,Espana,Rioja,0.08006075070514211,Rioja Red,0.5,0.0
+Allende,Aurus,2004,0.16666666666666607,0.06144256455921639,Espana,Rioja,0.621175960078108,Rioja Red,0.5,0.0
+Quinta Sardonia,QS,2017,0.16666666666666607,0.060552092609082814,Espana,Castilla y Leon,0.13881536124972882,Red,0.5,0.0
+Ferrer Bobet,Priorat Vinyes Velles,2018,0.16666666666666607,0.06144256455921639,Espana,Priorato,0.12345411152093733,Priorat Red,0.5,0.0
+Luis Canas,Hiru 3 Rioja Racimos,2005,0.16666666666666607,0.05877114870881567,Espana,Rioja,0.48817530917769586,Rioja Red,0.5,0.0
+Ca l'Apotecari,Triaca,2013,0.16666666666666607,0.05788067675868211,Espana,Priorato,0.12757648079843784,Priorat Red,0.5,0.0
+Osborne,Amontillado 51-1a 30 Years VORS Sherry,N.V.,0.16666666666666607,0.056990204808548536,Espana,Jerez-Xeres-Sherry,0.25732262963766545,Sherry,0.5,0.0
+Finca Torremilanos,Cyclo,2018,0.16666666666666607,0.056990204808548536,Espana,Ribera del Duero,0.12866131481883272,Ribera Del Duero Red,1.0,0.0
+La Rioja Alta,Gran Reserva 890,1989,0.16666666666666607,0.056099732858414963,Espana,Rioja,0.9105662833586461,Rioja Red,0.5,0.0
+Fos,Fos Baranda,2017,0.16666666666666607,0.05520926090828139,Espana,Rioja,0.10587980039054024,Rioja Red,0.8999999999999999,0.0
+Pedralonga,Albarino Pedralonga,2019,0.16666666666666607,0.05431878895814782,Espana,Rias Baixas,0.04430462139292689,Albarino,0.7000000000000002,0.0
+Can Rafols dels Caus,El Rocallis,2015,0.16666666666666607,0.05164737310774711,Espana,Cataluna,0.35799522673031026,Unknown,0.7000000000000002,0.0
+Conreria d'Scala Dei,Iugiter,2015,0.16666666666666607,0.05164737310774711,Espana,Priorato,0.08678672163159037,Priorat Red,0.5,0.0
+Raul Perez,Ultreia Valtuille Mencia,2019,0.16666666666666607,0.05164737310774711,Espana,Bierzo,0.17530917769581253,Mencia,0.6000000000000001,0.0
+Dominio del Bendito,La Chispa Negra,2011,0.16666666666666607,0.05075690115761354,Espana,Toro,0.0802777175092211,Unknown,0.5,0.0
+Dominio del Aguila,Reserva,2010,0.16666666666666607,0.05075690115761354,Espana,Ribera del Duero,0.2581904968539813,Ribera Del Duero Red,0.5,0.0
+Terra Remota,Clos Adrien,2013,0.16666666666666607,0.05075690115761354,Espana,Emporda,0.18008244738555002,Red,0.6000000000000001,0.0
+De Moya,Sofia,2017,0.16666666666666607,0.05075690115761354,Espana,Valencia,0.06509004122369277,Red,0.5,0.0
+Llopart,Cava Original Brut (Espumos),2008,0.16666666666666607,0.04986642920747997,Espana,Cava,0.24907789108266437,Cava,0.6000000000000001,0.0
+Ostatu,Laderas Rioja,2014,0.16666666666666607,0.04986642920747997,Espana,Rioja Alavesa,0.11121718377088305,Rioja Red,0.8999999999999999,0.0
+Tinto Pesquera,Reserva,1995,0.16666666666666607,0.04986642920747997,Espana,Ribera del Duero,0.2929051855066175,Ribera Del Duero Red,0.7000000000000002,0.0
+Bodegas Mas Alta,La Basseta,2014,0.16666666666666607,0.048975957257346395,Espana,Priorato,0.2278151442829247,Priorat Red,0.7000000000000002,0.0
+Can Rafols dels Caus,El Rocallis,2016,0.16666666666666607,0.048975957257346395,Espana,Cataluna,0.12584074636580603,Unknown,0.7999999999999998,0.0
+Aalto,Blanco de Parcela,2019,0.16666666666666607,0.048975957257346395,Espana,Ribera del Duero,0.15795183336949448,Verdejo,0.7999999999999998,0.0
+Dominio de la Vega,Finca la Beata Bobal,2014,0.16666666666666607,0.048975957257346395,Espana,Utiel-Requena,0.12323714471685832,Red,0.7999999999999998,0.0
+Resalte,Resalte Expresion,2015,0.16666666666666607,0.048975957257346395,Espana,Ribera del Duero,0.09980472987632892,Ribera Del Duero Red,0.7999999999999998,0.0
+Juve & Camps,Cava Brut Milesime,2017,0.16666666666666607,0.048975957257346395,Espana,Cava,0.08071165111737905,Cava,0.5,0.0
+Bosque de Matasnos,Syrah de Matasnos,2019,0.16666666666666607,0.048975957257346395,Espana,Vino de Espana,0.09720112822738121,Syrah,0.6000000000000001,0.0
+Sierra Cantabria,Amancio,2016,0.16666666666666607,0.048975957257346395,Espana,Rioja,0.34280755044478195,Rioja Red,0.7000000000000002,0.0
+Scala Dei,Massipa de Scala Dei Garnatxa Blanca - Xenin,2018,0.16666666666666607,0.04808548530721282,Espana,Priorato,0.13573443263180734,Unknown,0.7999999999999998,0.0
+Marques de Vargas,Seleccion Privada,2015,0.16666666666666607,0.04808548530721282,Espana,Rioja,0.2126274679973964,Rioja Red,0.5,0.0
+Arzuaga,Amaya Arzuaga (Coleccion),2015,0.16666666666666607,0.04630454140694569,Espana,Ribera del Duero,0.198307658928184,Ribera Del Duero Red,1.0,0.0
+Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2018,0.16666666666666607,0.04630454140694569,Espana,Rioja,0.270774571490562,Rioja Red,0.5,0.0
+Senorio de San Vicente,San Vicente Rioja,2018,0.16666666666666607,0.04630454140694569,Espana,Rioja,0.1188978086352788,Rioja Red,0.5,0.0
+Bodegas Faustino,Faustino de Autor Reserva Especial,1994,0.16666666666666607,0.04541406945681212,Espana,Rioja,0.17140377522239097,Rioja Red,0.5,0.0
+Muga,Prado Enea Gran Reserva,1985,0.16666666666666607,0.044523597506678544,Espana,Rioja,0.40138858754610546,Rioja Red,0.5,0.0
+Scala Dei,Pla dels Angels Rosado,2020,0.16666666666666607,0.04363312555654497,Espana,Priorato,0.08006075070514211,Unknown,0.5,0.0
+Jorge Piernas,Juan Piernas Finca El Paso Malo Monastrell,2017,0.16666666666666607,0.04363312555654497,Espana,Murcia,0.09720112822738121,Monastrell,1.0,0.0
+Contino,Vina del Olivo,2004,0.16666666666666607,0.04363312555654497,Espana,Rioja,0.648730744196138,Rioja Red,0.5,0.0
+Terroir Al Limit Soc. Lda,Pedra de Guix,2017,0.16666666666666607,0.0427426536064114,Espana,Priorato,0.22738121067476674,Unknown,0.6000000000000001,0.0
+Vinyes Domenech,Vinyes Velles de Samso,2016,0.16666666666666607,0.0427426536064114,Espana,Montsant,0.13638533304404427,Montsant Red,0.5,0.0
+Territorio Luthier,Hispania,2015,0.16666666666666607,0.0427426536064114,Espana,Ribera del Duero,0.20177912779344762,Ribera Del Duero Red,1.0,0.0
+La Rioja Alta,Vina Ardanza Reserva,1985,0.16666666666666607,0.041852181656277826,Espana,Rioja,0.3015838576697765,Rioja Red,0.5,0.0
+Equipo Navazos,La Bota 69 de Amontillado,N.V.,0.16666666666666607,0.041852181656277826,Espana,Jerez-Xeres-Sherry,0.4696029507485355,Sherry,0.5,0.0
+Avgvstvs,Antigues Reserves,2000,0.16666666666666607,0.041852181656277826,Espana,Penedes,0.09524842699067043,Red,0.5,0.0
+Vina Sastre,Regina Vides Ribera del Duero,2018,0.16666666666666607,0.04096170970614425,Espana,Ribera del Duero,0.27945324365372104,Ribera Del Duero Red,1.0,0.0
+Pago Calzadilla,Gran Calzadilla,2009,0.16666666666666607,0.04007123775601068,Espana,Pago Calzadilla,0.14949012801041442,Red,0.5,0.0
+Vina Pomal,Alto de la Caseta,2008,0.16666666666666607,0.04007123775601068,Espana,Rioja,0.21674983727489697,Rioja Red,0.5,0.0
+Martinet,Clos Martinet,2002,0.16666666666666607,0.04007123775601068,Espana,Priorato,0.7461488392275981,Priorat Red,0.5,0.0
+Marti Fabra,Masia Carreras Negre,2019,0.16666666666666607,0.03918076580587712,Espana,Emporda,0.027815144282924715,Red,0.5,0.0
+Sangenis I Vaque,Clos Monlleo,2007,0.16666666666666607,0.03829029385574355,Espana,Priorato,0.2145801692341072,Priorat Red,0.5,0.0
+Ferrer Bobet,Priorat,2018,0.16666666666666607,0.03829029385574355,Espana,Priorato,0.08843566934259059,Priorat Red,0.5,0.0
+Balandro,Las Botas Palo Cortado Horizontal,N.V.,0.16666666666666607,0.037399821905609976,Espana,Manzanilla,0.13668908656975484,Sherry,0.5,0.0
+Pujanza,Rioja Norte,2006,0.16666666666666607,0.037399821905609976,Espana,Rioja,0.3015838576697765,Rioja Red,0.5,0.0
+Espelt,Coma Bruna,2017,0.16666666666666607,0.037399821905609976,Espana,Emporda,0.07507051421132567,Red,0.5,0.0
+R. Lopez de Heredia,Vina Tondonia Gran Reserva,1981,0.16666666666666607,0.0365093499554764,Espana,Rioja,0.8396615317856367,Rioja Red,0.5,0.0
+Abel Mendoza Monge,Grano a Grano Tempranillo,2016,0.16666666666666607,0.03561887800534283,Espana,Rioja,0.49741809503146023,Rioja Red,0.5,0.0
+Conreria d'Scala Dei,Voltons,2015,0.16666666666666607,0.03472840605520926,Espana,Priorato,0.18008244738555002,Priorat Red,0.5,0.0
+Scala Dei,Masdeu,2014,0.16666666666666607,0.03472840605520926,Espana,Priorato,0.3445432848774138,Priorat Red,0.5,0.0
+Real de Asua,Tinto,2016,0.16666666666666607,0.03472840605520926,Espana,Rioja,0.31872423519201565,Rioja Red,0.5,0.0
+Bodegas Vilano,Crianza,2019,0.16666666666666607,0.03472840605520926,Espana,Ribera del Duero,0.01948361900629204,Ribera Del Duero Red,1.0,0.0
+Altos de Rioja,Altos R Pigeage,2016,0.16666666666666607,0.033837934105075684,Espana,Rioja,0.10609676719461922,Rioja Red,0.5,0.0
+Valserrano,Finca Monteviejo,2017,0.16666666666666607,0.032947462154942125,Espana,Rioja,0.11499240616185724,Rioja Red,0.5,0.0
+Marques de Tomares,Rioja Gran Reserva,2014,0.16666666666666607,0.032947462154942125,Espana,Rioja,0.08873942286830115,Red,0.5,0.0
+Shaya,Habis,2018,0.16666666666666607,0.032947462154942125,Espana,Rueda,0.0694293773052723,Verdejo,0.0,0.0
+Finca Rio Negro,5o Ano,2014,0.16666666666666607,0.032947462154942125,Espana,La Mancha,0.07761479496637015,Red,0.5,0.0
+Enric Soler,Nun Vinya dels Taus,2017,0.16666666666666607,0.032947462154942125,Espana,Penedes,0.513126491646778,Unknown,0.7000000000000002,0.0
+Martinet,Els Escurcons,2018,0.16666666666666607,0.03205699020480855,Espana,Priorato,0.3037535257105663,Priorat Red,0.5,0.0
+Loxera,El Cordero y las Virgenes,2016,0.16666666666666607,0.031166518254674976,Espana,Valencia,0.0802777175092211,Red,0.5,0.0
+Mas d'en Gil,Clos Fonta Priorat,2001,0.16666666666666607,0.031166518254674976,Espana,Priorato,0.6270340637882403,Priorat Red,0.5,0.0
+Jose Pariente,Finca Las Comas Verdejo,2016,0.16666666666666607,0.031166518254674976,Espana,Rueda,0.10371013234975049,Verdejo,0.0,0.0
+Alvaro Palacios,Finca Dofi,1997,0.16666666666666607,0.031166518254674976,Espana,Priorato,0.7138207854198307,Priorat Red,0.5,0.0
+Dominio Fournier,Reserva,2014,0.16666666666666607,0.030276046304541403,Espana,Ribera del Duero,0.0792796702104578,Ribera Del Duero Red,1.0,0.0
+Benjamin de Rothschild - Vega Sicilia,Macan Clasico,2018,0.16666666666666607,0.028495102404274265,Espana,Rioja,0.1605554350184422,Rioja Red,0.5,0.0
+Marques de Murrieta,Dalmau Rioja,2002,0.16666666666666607,0.028495102404274265,Espana,Rioja,0.3015838576697765,Rioja Red,0.5,0.0
+Valderiz,Tomas Esteban,2010,0.16666666666666607,0.028495102404274265,Espana,Ribera del Duero,0.2755044478194836,Ribera Del Duero Red,1.0,0.0
+Tridente,Prieto Picudo,2018,0.16666666666666607,0.028495102404274265,Espana,Castilla y Leon,0.07138207854198308,Red,0.5,0.0
+Neton,Garnacha Tintorera,2017,0.16666666666666607,0.028495102404274265,Espana,Castilla y Leon,0.0335758082013452,Red,0.5,0.0
+Finca Torremilanos,Penalba Lopez Blanco,2019,0.16666666666666607,0.028495102404274265,Espana,Castilla y Leon,0.03536558906487308,Unknown,0.5,0.0
+Enate,Cabernet,2012,0.16666666666666607,0.028495102404274265,Espana,Somontano,0.07810804946843133,Red,0.5,0.0
+Vall Llach,Porrera Vi de Vila,2018,0.16666666666666607,0.027604630454140692,Espana,Priorato,0.19288348882620962,Priorat Red,0.5,0.0
+Bodega Aida i Luis,Tahulla Moscatel Blanco Seco,2018,0.16666666666666607,0.027604630454140692,Espana,Alicante,0.027988717726187894,Unknown,0.5,0.0
+Abadal,3.9,2018,0.16666666666666607,0.027604630454140692,Espana,Pla de Bages,0.0685615100889564,Red,0.5,0.0
+Portal del Priorat,Clos del Portal Somni,2008,0.16666666666666607,0.026714158504007126,Espana,Priorato,0.13365155131264916,Priorat Red,0.5,0.0
+Cartoixa de Montsalvat,Montsalvat,2007,0.16666666666666607,0.025823686553873553,Espana,Priorato,0.14846012150141027,Priorat Red,0.5,0.0
+Clos Galena,Galena,2018,0.16666666666666607,0.025823686553873553,Espana,Priorato,0.05380776741158602,Priorat Red,0.5,0.0
+Bodega Ribas,Sio Negre,2019,0.16666666666666607,0.02493321460373998,Espana,Mallorca,0.14927316120633544,Red,0.5,0.0
+Allende,Aurus,2001,0.16666666666666607,0.02493321460373998,Espana,Rioja,0.5836407029724452,Rioja Red,0.5,0.0
+El Lagar de Isilla,Vendimia Seleccionada,2015,0.16666666666666607,0.02493321460373998,Espana,Ribera del Duero,0.10123671078325017,Ribera Del Duero Red,1.0,0.0
+Finca Villacreces,Nebro Ribera del Duero,2013,0.16666666666666607,0.02493321460373998,Espana,Ribera del Duero,0.8279019310045562,Ribera Del Duero Red,1.0,0.0
+Bodega Otazu,Pago de Otazu Chardonnay Con Crianza,2018,0.16666666666666607,0.02493321460373998,Espana,Otazu,0.09937079626817097,Chardonnay,0.5,0.0
+Familia Torres,Grans Muralles,2017,0.16666666666666607,0.024042742653606414,Espana,Conca de Barbera,0.5738771967888913,Red,0.5,0.0
+Costers del Siurana,Clos de L'Obac,2009,0.16666666666666607,0.02315227070347284,Espana,Priorato,0.3228466044695162,Priorat Red,0.5,0.0
+Bodegas San Roman,Malvasia,2017,0.16666666666666607,0.02315227070347284,Espana,Castilla,0.15621609893686267,Unknown,0.5,0.0
+Finca Rio Negro,Cerro del Lobo Syrah,2018,0.16666666666666607,0.02315227070347284,Espana,Castilla,0.08244738555001085,Syrah,0.5,0.0
+Cervoles,Estrats,2012,0.16666666666666607,0.02315227070347284,Espana,Costers del Segre,0.27359513994358864,Red,0.5,0.0
+Scala Dei,Masdeu,2016,0.16666666666666607,0.02315227070347284,Espana,Priorato,0.32913864178780644,Priorat Red,0.5,0.0
+Vina Sastre,Regina Vides Ribera del Duero,2001,0.16666666666666607,0.02226179875333927,Espana,Ribera del Duero,0.5033629854632241,Ribera Del Duero Red,1.0,0.0
+Vizcarra,Celia,2014,0.16666666666666607,0.02226179875333927,Espana,Ribera del Duero,0.32319375135604256,Ribera Del Duero Red,1.0,0.0
+Marques de Caceres,Gaudium,1998,0.16666666666666607,0.02226179875333927,Espana,Rioja,0.23649381644608375,Rioja Red,0.5,0.0
+Barahonda,Summum Monastrell,2019,0.16666666666666607,0.02226179875333927,Espana,Yecla,0.03684096333261011,Monastrell,1.0,0.0
+Mas Doix,Doix,2002,0.16666666666666607,0.021371326803205696,Espana,Priorato,0.8245606422217401,Priorat Red,0.5,0.0
+Pago de Larrainzar,Reserva Especial,2014,0.16666666666666607,0.021371326803205696,Espana,Navarra,0.0494684313300065,Red,0.5,0.0
+Albamar,Alma de Mar Albarino,2019,0.16666666666666607,0.021371326803205696,Espana,Rias Baixas,0.09546539379474941,Albarino,0.0,0.0
+Pujanza,Rioja Anadas Frias,2016,0.16666666666666607,0.021371326803205696,Espana,Rioja,0.3015838576697765,Rioja White,0.0,0.0
+Finca Rio Negro,5o Ano,2016,0.16666666666666607,0.021371326803205696,Espana,La Mancha,0.07984378390106314,Red,0.5,0.0
+Oxer Wines,Suzzane Rioja,2019,0.16666666666666607,0.02048085485307213,Espana,Rioja,0.12757648079843784,Rioja Red,0.5,0.0
+Dominio de Atauta,Llanos del Almendro Ribera del Duero,2010,0.16666666666666607,0.02048085485307213,Espana,Ribera del Duero,0.3883705793013669,Ribera Del Duero Red,1.0,0.0
+Can Bas,Monreal,2015,0.16666666666666607,0.02048085485307213,Espana,Penedes,0.16749837274896942,Red,0.5,0.0
+Atlantida,Blanco,2019,0.16666666666666607,0.02048085485307213,Espana,Cadiz,0.05293990019527013,Unknown,0.19999999999999996,0.0
+Atlan & Artisan,8 Vents Mallorca,2019,0.16666666666666607,0.019590382902938557,Espana,Mallorca,0.05814710349316554,Red,0.5,0.0
+Venus la Universal,Venus,2017,0.16666666666666607,0.019590382902938557,Espana,Montsant,0.12952918203514863,Montsant Red,0.5,0.0
+Lar de Paula,Tempranillo Reserva,2012,0.16666666666666607,0.018699910952804984,Espana,Rioja,0.040789759166847475,Rioja Red,0.5,0.0
+Venta Las Vacas,La Cuartilleja Reserva,2015,0.16666666666666607,0.018699910952804984,Espana,Ribera del Duero,0.14840529399001953,Ribera Del Duero Red,1.0,0.0
+Bodega Contador (Benjamin Romeo),Coleccion No. 3 Cosecha,2014,0.16666666666666607,0.01780943900267142,Espana,Rioja,0.8001735734432631,Rioja Red,0.5,0.0
+Luis Canas,Rioja Gran Reserva,2016,0.16666666666666607,0.01780943900267142,Espana,Rioja,0.06730310262529834,Rioja Red,0.5,0.0
+La Val,Albarino Sobre Lias,2015,0.16666666666666607,0.01780943900267142,Espana,Rias Baixas,0.07984378390106314,Albarino,0.0,0.0
+Raul Perez,Rara Avis Prieto Picudo,2013,0.16666666666666607,0.01780943900267142,Espana,Castilla y Leon,0.14949012801041442,Red,0.5,0.0
+Javi Revert,Sensal,2020,0.16666666666666607,0.01780943900267142,Espana,Valencia,0.07311781297461489,Red,0.5,0.0
+Bodega Campo Eliseo,Campo Eliseo Blanco,2018,0.16666666666666607,0.01780943900267142,Espana,Rueda,0.09438055977435453,Verdejo,0.0,0.0
+Contino,Reserva,1995,0.16666666666666607,0.01780943900267142,Espana,Rioja,0.21479713603818618,Rioja Red,0.5,0.0
+Terras Gauda,La Mar,2019,0.16666666666666607,0.01780943900267142,Espana,Rias Baixas,0.0694293773052723,Albarino,0.0,0.0
+Descendientes de J. Palacios,Las Lamas Bierzo (Corullon),2017,0.16666666666666607,0.016918967052537846,Espana,Bierzo,0.44009546539379474,Mencia,0.0,0.0
+Lambuena,Vinas Viejas,2014,0.16666666666666607,0.016918967052537846,Espana,Ribera del Duero,0.1369716901714038,Ribera Del Duero Red,1.0,0.0
+Tarsus,T3rno Seleccion de 3 Parcelas Ribera del Duero,2017,0.16666666666666607,0.016918967052537846,Espana,Ribera del Duero,0.1431980906921241,Ribera Del Duero Red,1.0,0.0
+Bodegas Luis Perez,Fino La Barajuela,2016,0.16666666666666607,0.016918967052537846,Espana,Andalucia,0.2796702104578,Unknown,0.6000000000000001,0.0
+Marco Abella,Clos Abella Seleccion Especial,2016,0.16666666666666607,0.016918967052537846,Espana,Priorato,0.1648947711000217,Priorat Red,0.5,0.0
+Familia Torres,Reserva Real,1998,0.16666666666666607,0.016028495102404273,Espana,Penedes,0.9025819049685397,Red,0.5,0.0
+Attis,Attis Embaixador Albarino,2018,0.16666666666666607,0.016028495102404273,Espana,Rias Baixas,0.07112171837708832,Albarino,0.0,0.0
+San Cobate,San Cucufate Monasterio,2017,0.16666666666666607,0.015138023152270707,Espana,Ribera del Duero,0.11933174224343676,Ribera Del Duero Red,1.0,0.0
+Pazo Senorans,Tras Los Muros Albarino,2017,0.16666666666666607,0.015138023152270707,Espana,Rias Baixas,0.14102842265133436,Albarino,0.0,0.0
+Avancia,Godello,2020,0.16666666666666607,0.015138023152270707,Espana,Valdeorras,0.08361900629203732,Unknown,0.19999999999999996,0.0
+Bodegas Frontonio,La Loma & Los Santos Garnacha Blanca - Macabeo,2018,0.16666666666666607,0.014247551202137134,Espana,Valdejalon,0.15361249728791496,Unknown,0.6000000000000001,0.0
+Vinicola Real,200 Monges Rioja Gran Reserva,2005,0.16666666666666607,0.013357079252003561,Espana,Rioja,0.20394879583423736,Rioja Red,0.5,0.0
+Terra Remota,Clos Adrien,2016,0.16666666666666607,0.013357079252003561,Espana,Emporda,0.18837057930136689,Red,0.5,0.0
+Cal Batllet - Celler Ripoll Sans,Gratallops Escanya-Vella,2018,0.16666666666666607,0.013357079252003561,Espana,Priorato,0.0937296593621176,Unknown,0.6000000000000001,0.0
+Ramon Bilbao,Lalomba Finca Ladero,2016,0.16666666666666607,0.013357079252003561,Espana,Rioja,0.2288999783033196,Rioja Red,0.5,0.0
+Chivite,Navarra Vendimia Tardia Coleccion 125,2018,0.16666666666666607,0.012466607301869988,Espana,Navarra,0.08873942286830115,Unknown,0.6000000000000001,0.0
+Espectacle del Montsant,Tinto,2018,0.16666666666666607,0.012466607301869988,Espana,Montsant,0.4925146452592753,Montsant Red,0.5,0.0
+Gallina de Piel,Manar dos Seixas,2019,0.16666666666666607,0.011576135351736423,Espana,Ribeiro,0.03471468865263615,Unknown,0.6000000000000001,0.0
+Cartoixa de Montsalvat,Montsalvat,2005,0.16666666666666607,0.011576135351736423,Espana,Priorato,0.22030809286179218,Priorat Red,0.5,0.0
+Carlos Moro,Finca Valmediano Tinta de Toro 16 Meses Barrica,2012,0.16666666666666607,0.011576135351736423,Espana,Toro,0.1188978086352788,Toro Red,1.0,0.0
+Bodegas Reyes,Teofilo Reyes Crianza,2019,0.16666666666666607,0.011576135351736423,Espana,Ribera del Duero,0.03996528531134737,Ribera Del Duero Red,1.0,0.0
+Gutierrez de la Vega,Recondita Armonia Monastrell Dulce,2018,0.16666666666666607,0.011576135351736423,Espana,Alicante,0.047515730093295724,Unknown,0.6000000000000001,0.0
+Hugas de Batlle,Falguera,2009,0.16666666666666607,0.011576135351736423,Espana,Emporda,0.20850509871989584,Red,0.5,0.0
+Atlan & Artisan,Epistem No. 3,2016,0.16666666666666607,0.011576135351736423,Espana,Yecla,0.05814710349316554,Red,0.5,0.0
+Telmo Rodriguez,Molino Real,2015,0.16666666666666607,0.011576135351736423,Espana,Malaga,0.20742026469950098,Unknown,0.3999999999999999,0.0
+Bodegas Arrocal,Angel Ribera del Duero,2015,0.16666666666666607,0.01068566340160285,Espana,Ribera del Duero,0.11455847255369928,Ribera Del Duero Red,1.0,0.0
+Buil & Gine,Pleret,2012,0.16666666666666607,0.01068566340160285,Espana,Priorato,0.21696680407897592,Priorat Red,0.5,0.0
+Luis A. Rodriguez Vazquez,A Torna dos Pasas Escolma Ribeiro,2016,0.16666666666666607,0.01068566340160285,Espana,Ribeiro,0.15296159687567804,Red,0.5,0.0
+Castell del Remei,Costers Del Segre 1780,2017,0.16666666666666607,0.01068566340160285,Espana,Costers del Segre,0.07550444781948362,Red,0.5,0.0
+Vizcarra,Ines,2014,0.16666666666666607,0.01068566340160285,Espana,Ribera del Duero,0.32319375135604256,Ribera Del Duero Red,1.0,0.0
+Valdubon,Honoris,2005,0.16666666666666607,0.01068566340160285,Espana,Ribera del Duero,0.1280104144065958,Ribera Del Duero Red,1.0,0.0
+Emilio Moro,La Revelia Godello,2019,0.16666666666666607,0.01068566340160285,Espana,Bierzo,0.07008027771750922,Unknown,0.5,0.0
+Altanza,Club Rioja Reserva,2012,0.16666666666666607,0.009795191451469277,Espana,Rioja,0.06704274246040356,Rioja Red,0.5,0.0
+Real de Asua,Tinto,2000,0.16666666666666607,0.009795191451469277,Espana,Rioja,0.23822955087871556,Rioja Red,0.5,0.0
+Taron,Reserva,2014,0.16666666666666607,0.008904719501335707,Espana,Rioja Alta,0.020394879583423734,Rioja Red,0.5,0.0
+Sebio,Salvaxe,2018,0.16666666666666607,0.008904719501335707,Espana,Ribeiro,0.09221089173356477,Unknown,0.7999999999999998,0.0
+R. Lopez de Heredia,Vina Tondonia Reserva,2014,0.16666666666666607,0.008904719501335707,Espana,Rioja,0.18420481666305058,Rioja Red,0.5,0.0
+Gramona,Vi De Glass Gewurztraminer,2017,0.16666666666666607,0.008904719501335707,Espana,Cataluna,0.05675851594706009,Unknown,0.5,0.0
+Marques de Caceres,Rioja Reserva,1985,0.16666666666666607,0.008904719501335707,Espana,Rioja,0.17140377522239097,Rioja Red,0.5,0.0
+Santiago Ruiz,Albarino (O Rosal),2021,0.16666666666666607,0.008904719501335707,Espana,Rias Baixas,0.034497721848557164,Albarino,0.0,0.0
+Terroir Al Limit Soc. Lda,Les Manyes,2017,0.16666666666666607,0.008904719501335707,Espana,Priorato,0.7572141462356259,Priorat Red,0.5,0.0
+Pujanza,Rioja,2005,0.16666666666666607,0.008014247551202138,Espana,Rioja,0.10197439791711868,Rioja Red,0.5,0.0
+Mauro Estevez,Vino de Autor Ribeiro Blanco,2020,0.16666666666666607,0.008014247551202138,Espana,Ribeiro,0.045129095248426995,Unknown,0.6000000000000001,0.0
+Finca Valpiedra,Rioja Reserva,1994,0.16666666666666607,0.008014247551202138,Espana,Rioja,0.2581904968539813,Rioja Red,0.5,0.0
+Edetaria,Finca La Pedrissa,2015,0.16666666666666607,0.008014247551202138,Espana,Terra Alta,0.1405944890431764,Red,0.5,0.0
+Valtravieso,Ribera del Duero Vendimia Seleccionada VT,2018,0.16666666666666607,0.008014247551202138,Espana,Ribera del Duero,0.09720112822738121,Ribera Del Duero Red,1.0,0.0
+Can Xanet,Sibila,2017,0.16666666666666607,0.007123775601068565,Espana,Mallorca,0.11698850075938383,Red,0.5,0.0
+Castillo Perelada,Emporda Reserva Especial Don Miguel Mateu,2015,0.16666666666666607,0.007123775601068565,Espana,Emporda,0.04365372098068997,Red,0.5,0.0
+A Coroa,200 Cestos Godello,2020,0.16666666666666607,0.007123775601068565,Espana,Valdeorras,0.07897591668474724,Unknown,0.19999999999999996,0.0
+Alonso & Pedrajo,Suane Blanco,2017,0.16666666666666607,0.006233303650934996,Espana,Rioja,0.07984378390106314,Rioja White,0.0,0.0
+Bodegas Amaren,Garnacha,2014,0.16666666666666607,0.006233303650934996,Espana,Rioja,0.14102842265133436,Grenache,1.0,0.0
+Jimenez-Landi,Cantos del Diablo,2017,0.16666666666666607,0.007123775601068565,Espana,Mentrida,0.4144499891516598,Grenache,1.0,0.0
+Bodegas Ochoa,Vendimia Tardia Moscatel,2020,0.16666666666666607,0.006233303650934996,Espana,Navarra,0.035799522673031034,Unknown,0.3999999999999999,0.0
+Mandia Vell,Pinot Noir,2017,0.16666666666666607,0.005342831700801427,Espana,Mallorca,0.1036233456281189,Red,0.5,0.0
+Bodega Juan Carlos Sancha,Cerro La Isa Blanco,2018,0.16666666666666607,0.005342831700801427,Espana,Rioja,0.170969841614233,Rioja White,0.0,0.0
+Valdecuevas,Cuvee Verdejo,2018,0.16666666666666607,0.005342831700801427,Espana,Rueda,0.02820568453026687,Verdejo,0.0,0.0
+Telmo Rodriguez,Tabuerniga,2018,0.16666666666666607,0.005342831700801427,Espana,Rioja,0.25914515079192885,Rioja Red,0.5,0.0
+Mocen,Seleccion Especial Verdejo,2021,0.16666666666666607,0.006233303650934996,Espana,Rueda,0.003297895422000433,Verdejo,0.0,0.0
+Estones,Coster d'en Fornos,2017,0.16666666666666607,0.005342831700801427,Espana,Montsant,0.1520937296593621,Montsant Red,0.5,0.0
+Bodega Tameran,Malvasia Volcanica,2020,0.16666666666666607,0.005342831700801427,Espana,Gran Canaria,0.11455847255369928,Unknown,0.5,0.0
+Inurrieta,Laderas de Inurrieta,2017,0.16666666666666607,0.004452359750667854,Espana,Navarra,0.08939032328053809,Red,0.5,0.0
+Flor de Chasna,Blanco Afrutado,2020,0.16666666666666607,0.004452359750667854,Espana,Abona,0.028162291169451074,Unknown,0.30000000000000004,0.0
+Lagar de Sabariz,A Pita Cega,2015,0.16666666666666607,0.004452359750667854,Espana,Galicia,0.17053590800607507,Unknown,0.3999999999999999,0.0
+Campillo,Finca Cuesta Clara Raro Reserva,2016,0.16666666666666607,0.0035618878005342844,Espana,Rioja,0.14753742677370363,Rioja Red,0.5,0.0
+AGE,Fuenmayor Gran Reserva,1959,0.16666666666666607,0.0035618878005342844,Espana,Rioja,0.9741809503146018,Rioja Red,0.5,0.0
+Marques de Murrieta,Dalmau Rioja,1996,0.16666666666666607,0.0035618878005342844,Espana,Rioja,0.4534606205250597,Rioja Red,0.5,0.0
+Navajas,Mirador de Navajas Reserva Rioja,2011,0.16666666666666607,0.0035618878005342844,Espana,Rioja,0.10091130486991497,Rioja Red,0.5,0.0
+Altanza,Coleccion Roberto Amillo Amontillado,N.V.,0.16666666666666607,0.0035618878005342844,Espana,Jerez Amontillado,0.14927316120633544,Sherry,0.5,0.0
+Alvaro Domecq,1730 Amontillado,N.V.,0.16666666666666607,0.0035618878005342844,Espana,Jerez Amontillado,0.12649164677804295,Sherry,0.5,0.0
+Allende,Aurus,2011,0.16666666666666607,0.0035618878005342844,Espana,Rioja,0.895725753959644,Rioja Red,0.5,0.0
+Bodega Juan Carlos Sancha,Cerro La Isa Garnacha,2018,0.16666666666666607,0.0026714158504007116,Espana,Rioja,0.16663050553265352,Rioja Red,0.5,0.0
+Vinyes del Terrer,Nus del Terrer,2016,0.16666666666666607,0.0026714158504007116,Espana,Tarragona,0.08852245606422217,Red,0.5,0.0
+Bodegas Faustino,I Gran Reserva,1968,0.16666666666666607,0.0026714158504007116,Espana,Rioja,0.6704274246040356,Rioja Red,0.5,0.0
+Dominio de Loalva,Seleccion Especial,2016,0.16666666666666607,0.0026714158504007116,Espana,Ribera del Duero,0.11499240616185724,Ribera Del Duero Red,1.0,0.0
+Ysios,Seleccion,2016,0.16666666666666607,0.0026714158504007116,Espana,Rioja,0.1063137339986982,Rioja Red,0.5,0.0
+Antidoto,Le Rose,2018,0.16666666666666607,0.0026714158504007116,Espana,Ribera del Duero,0.18876111954870906,Unknown,0.7000000000000002,0.0
+Zifar,Pago de las Sabinas,2016,0.16666666666666607,0.0026714158504007116,Espana,Ribera del Duero,0.14775439357778258,Ribera Del Duero Red,1.0,0.0
+Romate,Old & Plus Oloroso,N.V.,0.16666666666666607,0.0026714158504007116,Espana,Jerez Oloroso,0.17140377522239097,Sherry,0.5,0.0
+Volver,Alicante Bouschet by Tarima,2018,0.16666666666666607,0.0017809439002671422,Espana,Alicante,0.040789759166847475,Red,0.5,0.0
+Marques de Riscal,Rioja Gran Reserva,2016,0.16666666666666607,0.0017809439002671422,Espana,Rioja,0.17769581254068129,Rioja Red,0.5,0.0
+Rodriguez de Vera,Tinto,2017,0.16666666666666607,0.0017809439002671422,Espana,Almansa,0.043176394011716204,Red,0.5,0.0
+Bordalas Garcia,Gueta-Lupia,2011,0.16666666666666607,0.0017809439002671422,Espana,Priorato,0.11390757214146235,Priorat Red,0.5,0.0
+Sierra Cantabria,Amancio,2002,0.16666666666666607,0.0017809439002671422,Espana,Rioja,0.4534606205250597,Rioja Red,0.5,0.0
+Bodega Tameran,Marmajuelo,2020,0.16666666666666607,0.0017809439002671422,Espana,Gran Canaria,0.10522889997830331,Unknown,0.30000000000000004,0.0
+Pinna Fidelis,Ribera del Duero Vendimia Seleccionada,2016,0.16666666666666607,0.0008904719501335728,Espana,Ribera del Duero,0.062296886526361464,Ribera Del Duero Red,1.0,0.0
+Habla,No. 23,2017,0.16666666666666607,0.0008904719501335728,Espana,Extremadura,0.07637231503579954,Red,0.5,0.0
+Loess,Tinto,2019,0.16666666666666607,0.0008904719501335728,Espana,Ribera del Duero,0.013321761770449126,Ribera Del Duero Red,1.0,0.0
+Jimenez-Landi,Cantos del Diablo,2016,0.16666666666666607,0.0008904719501335728,Espana,Mentrida,0.27099153829464095,Grenache,1.0,0.0
+Javier Sanz Viticultor,V Dulce de Invierno,2018,0.16666666666666607,0.0008904719501335728,Espana,Castilla y Leon,0.053113473638533304,Unknown,0.30000000000000004,0.0
+Bodegas Amaren,Graciano,2012,0.16666666666666607,0.0008904719501335728,Espana,Rioja,0.2712085050987199,Rioja Red,0.5,0.0
+Gomez Cruzado,Cerro Las Cuevas Seleccion Terroir,2019,0.16666666666666607,0.0008904719501335728,Espana,Rioja,0.14922976784551964,Rioja Red,0.5,0.0
+Hacienda Solano,Pena Lobera,2018,0.16666666666666607,0.0,Espana,Ribera del Duero,0.2751139075721415,Ribera Del Duero Red,1.0,0.0
+Altos de Rioja,Altos R Pigeage Graciano,2016,0.16666666666666607,0.0,Espana,Rioja,0.1280104144065958,Rioja Red,0.5,0.0
+Samsara,Ronda,2015,0.16666666666666607,0.0,Espana,Sierras de Malaga,0.11716207420264699,Red,0.5,0.0
+Ordonez,Nisia Las Suertes Verdejo Old Vines,2020,0.16666666666666607,0.0,Espana,Rueda,0.0494684313300065,Verdejo,0.0,0.0
+Josep Grau Viticultor,Territori,2019,0.16666666666666607,0.0,Espana,Montsant,0.07854198307658929,Red,0.5,0.0
+Cuentavinas,Alomado,2018,0.16666666666666607,0.0,Espana,Rioja,0.17986548058147106,Rioja Red,0.5,0.0
+Bodegas Gama,Octogenarius,2015,0.16666666666666607,0.0,Espana,Rioja,0.13625515296159688,Grenache,1.0,0.0
+Miguel Merino,Gran Reserva,2000,0.16666666666666607,0.0,Espana,Rioja,0.18793664569320895,Rioja Red,0.5,0.0
+Los Aguilares,Pinot Noir,2020,0.16666666666666607,0.0,Espana,Sierras de Malaga,0.12150141028422651,Red,0.5,0.0
+Nin-Ortiz,Selma de Nin Blanco,2017,0.16666666666666607,0.0,Espana,Cataluna,0.22325884139726623,Unknown,0.7000000000000002,0.0
+Bosque de Matasnos,Bosque de Matasnos Etiqueta Blanca,2017,0.0,0.9510240427426536,Espana,Ribera del Duero,0.2180516380993708,Ribera Del Duero Red,1.0,0.0
+Garmon,Ribera del Duero,2014,0.0,0.9447907390917186,Espana,Ribera del Duero,0.1405944890431764,Ribera Del Duero Red,1.0,0.0
+Bodegas La Horra,Corimbo I,2014,0.0,0.93766696349065,Espana,Ribera del Duero,0.14536775873291388,Ribera Del Duero Red,1.0,0.0
+Carmelo Rodero,Crianza,2018,0.0,0.9305431878895815,Espana,Ribera del Duero,0.04768930353655891,Ribera Del Duero Red,1.0,0.0
+R. Lopez de Heredia,Vina Tondonia Reserva Blanco,2005,0.0,0.9065004452359751,Espana,Rioja Alta,0.09286179214580169,Rioja White,0.0,0.0
+Protos,Reserva 5 Ano,2015,0.0,0.9038290293855744,Espana,Ribera del Duero,0.07572141462356259,Ribera Del Duero Red,1.0,0.0
+Emilio Moro,Malleolus,2014,0.0,0.8949243098842387,Espana,Ribera del Duero,0.11477543935777826,Ribera Del Duero Red,1.0,0.0
+Gonzalez-Byass,Del Duque Amontillado Sherry VORS,N.V.,0.0,0.8824577025823687,Espana,Jerez Amontillado,0.31121718377088303,Sherry,0.5,0.0
+Alvaro Palacios,Les Terrasses Velles Vinyes Priorat,2017,0.0,0.8824577025823687,Espana,Priorato,0.3488826209589933,Priorat Red,0.5,0.0
+Familia Torres,Salmos,2017,0.0,0.8753339269813001,Espana,Priorato,0.06721631590366674,Priorat Red,0.5,0.0
+Merum Priorati,Inici,2017,0.0,0.8406055209260909,Espana,Priorato,0.14536775873291388,Priorat Red,0.5,0.0
+Familia Torres,Mas La Plana Cabernet Sauvignon,2016,0.0,0.836153161175423,Espana,Penedes,0.22026469950097635,Cabernet Sauvignon,0.5,0.0
+Bodegas La Horra,Corimbo I,2011,0.0,0.7951914514692787,Espana,Ribera del Duero,0.07767411586027338,Ribera Del Duero Red,1.0,0.0
+Castillo Perelada,5 Finques (Fincas) Reserva,2017,0.0,0.7951914514692787,Espana,Emporda,0.025385116077240182,Red,0.5,0.0
+Quinta Sardonia,QS,2010,0.0,0.7791629563668745,Espana,Castilla y Leon,0.1530049902364938,Red,0.5,0.0
+Martinet,Martinet Bru (Garnatxa - Syrah),2019,0.0,0.7764915405164737,Espana,Priorato,0.0711651117379041,Priorat Red,0.5,0.0
+Vinedos de Paganos,El Puntido,2013,0.0,0.7604630454140695,Espana,Rioja,0.12545020611846386,Rioja Red,0.5,0.0
+Emilio Moro,Ribera del Duero,2019,0.0,0.7577916295636687,Espana,Ribera del Duero,0.049685398134085484,Ribera Del Duero Red,1.0,0.0
+Alvaro Palacios,Finca Dofi,2015,0.0,0.7479964381121995,Espana,Priorato,0.20394879583423736,Priorat Red,0.5,0.0
+Protos,Reserva 5 Ano,2014,0.0,0.7390917186108638,Espana,Ribera del Duero,0.06088088522456066,Ribera Del Duero Red,1.0,0.0
+Bodegas Valduero,Ribera Del Duero Reserva,2012,0.0,0.7364203027604631,Espana,Ribera del Duero,0.1063137339986982,Ribera Del Duero Red,1.0,0.0
+Marques de Riscal,Rioja Gran Reserva,2014,0.0,0.7257346393588602,Espana,Rioja,0.1307441961379909,Rioja Red,0.5,0.0
+Bodegas Roda,Roda Reserva Rioja,2017,0.0,0.7203918076580588,Espana,Rioja,0.08678672163159037,Rioja Red,0.5,0.0
+Bodegas Amaren,Angeles de Amaren Tempranillo - Graciano,2015,0.0,0.7186108637577917,Espana,Rioja,0.06022998481232371,Rioja Red,0.5,0.0
+Marques de Murrieta,Reserva Rioja (Finca Ygay),2017,0.0,0.6999109528049867,Espana,Rioja,0.06682577565632458,Rioja Red,0.5,0.0
+Arzuaga,Ribera del Duero Crianza,2019,0.0,0.6954585930543188,Espana,Ribera del Duero,0.05641136906053375,Ribera Del Duero Red,1.0,0.0
+Familia Torres,Purgatori Costers del Segre,2016,0.0,0.6705253784505788,Espana,Costers del Segre,0.14263397700151875,Red,0.5,0.0
+Familia Torres,Purgatori Costers del Segre,2017,0.0,0.6696349065004452,Espana,Costers del Segre,0.08678672163159037,Red,0.5,0.0
+Ossian,Vinas Viejas Verdejo,2015,0.0,0.6625111308993767,Espana,Castilla y Leon,0.1063137339986982,Verdejo,0.0,0.0
+Murviedro,Sericis Cepas Viejas Monastrell,2017,0.0,0.641139804096171,Espana,Valencia,0.014970709481449334,Monastrell,1.0,0.0
+Castillo Perelada,Finca Malaveina,2016,0.0,0.6366874443455032,Espana,Emporda,0.08613582121935345,Red,0.5,0.0
+Montecastro,Ribera del Duero Red,2018,0.0,0.6304541406945682,Espana,Ribera del Duero,0.05641136906053375,Ribera Del Duero Red,1.0,0.0
+Contino,Rioja Gran Reserva,2008,0.0,0.6295636687444346,Espana,Rioja,0.13234975048817532,Rioja Red,0.5,0.0
+Contino,Rioja Gran Reserva,2009,0.0,0.628673196794301,Espana,Rioja,0.34844868735083534,Rioja Red,0.5,0.0
+Hispano Suizas,Bassus Pinot Noir,2018,0.0,0.6197684772929652,Espana,Utiel-Requena,0.05966587112171838,Red,0.5,0.0
+Quinta Sardonia,QS,2007,0.0,0.6073018699910954,Espana,Castilla y Leon,0.1388587546105446,Red,0.5,0.0
+Gramona,Gessami,2020,0.0,0.5939447907390918,Espana,Penedes,0.024734215665003254,Unknown,0.6000000000000001,0.0
+Remirez de Ganuza,Rioja Reserva Fincas de Ganuza,2014,0.0,0.5868210151380232,Espana,Rioja,0.10414406595790845,Rioja Red,0.5,0.0
+Barahonda,Summum Monastrell,2017,0.0,0.585040071237756,Espana,Yecla,0.045346062052505964,Monastrell,1.0,0.0
+Losada,Altos de Losada,2017,0.0,0.5796972395369546,Espana,Bierzo,0.05597743545237578,Mencia,0.0,0.0
+Alvaro Palacios,Finca Dofi,2014,0.0,0.5752448797862868,Espana,Priorato,0.2362768496420048,Priorat Red,0.5,0.0
+El Coto,Coto de Imaz Rioja Gran Reserva,2015,0.0,0.572573463935886,Espana,Rioja,0.0450423085267954,Rioja Red,0.5,0.0
+Matsu,El Viejo,2012,0.0,0.572573463935886,Espana,Toro,0.09307875894988067,Toro Red,1.0,0.0
+Alvaro Palacios,Vi de Vila Gratallops,2015,0.0,0.5547640249332146,Espana,Priorato,0.23649381644608375,Priorat Red,0.5,0.0
+Alvaro Palacios,Vi de Vila Gratallops,2014,0.0,0.553873552983081,Espana,Priorato,0.21479713603818618,Priorat Red,0.5,0.0
+Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2010,0.0,0.5520926090828139,Espana,Rioja,0.3534389238446518,Rioja Red,0.5,0.0
+Tobia,Oscar Tobia Reserva Rioja,2015,0.0,0.5414069456812111,Espana,Rioja,0.06292037318290303,Rioja Red,0.5,0.0
+Marques de Caceres,Rioja Satinela Blanco Semidulce,2020,0.0,0.5387355298308104,Espana,Rioja,0.006465610761553484,Rioja White,0.0,0.0
+Vina Pedrosa,Reserva,2012,0.0,0.5369545859305432,Espana,Ribera del Duero,0.10600998047298762,Ribera Del Duero Red,1.0,0.0
+Castillo Perelada,Finca Malaveina,2012,0.0,0.5360641139804097,Espana,Emporda,0.053547407246691256,Red,0.5,0.0
+Bodegas Mauro,Red,2008,0.0,0.5316117542297418,Espana,Castilla y Leon,0.21479713603818618,Red,0.5,0.0
+Portal del Priorat,Clos del Portal Negre de Negres,2017,0.0,0.5227070347284061,Espana,Priorato,0.07094814493382513,Priorat Red,0.5,0.0
+Torre de Ona,Martelo Reserva,2014,0.0,0.5120213713268033,Espana,Rioja,0.06509004122369277,Rioja Red,0.5,0.0
+Tinto Pesquera,Crianza,2019,0.0,0.5111308993766697,Espana,Ribera del Duero,0.05098719895855934,Ribera Del Duero Red,1.0,0.0
+Dehesa de Los Canonigos,Solideo,2015,0.0,0.5048975957257347,Espana,Ribera del Duero,0.12840095465393797,Ribera Del Duero Red,1.0,0.0
+Sei Solo,Preludio,2017,0.0,0.5040071237756011,Espana,Ribera del Duero,0.08418311998264265,Ribera Del Duero Red,1.0,0.0
+Diez Caballero,Reserva Tempranillo,2011,0.0,0.5004452359750668,Espana,Rioja,0.06488734131892732,Rioja Red,0.5,0.0
+Mas d'en Gil,Coma Vella Priorat,2014,0.0,0.49065004452359745,Espana,Priorato,0.08374918637448471,Priorat Red,0.5,0.0
+Chozas Carrascal,Las Ocho (8) Tinto,2017,0.0,0.48530721282279604,Espana,Utiel-Requena,0.048893716641353877,Red,0.5,0.0
+Vegalfaro,Pago de los Balagueses Syrah,2017,0.0,0.4755120213713268,Espana,Utiel-Requena,0.05293990019527013,Syrah,0.5,0.0
+Lopez Cristobal,Bagus Ribera del Duero,2012,0.0,0.4755120213713268,Espana,Ribera del Duero,0.21045779995660666,Ribera Del Duero Red,1.0,0.0
+Clos Galena,Formiga de Vellut,2018,0.0,0.4746215494211932,Espana,Priorato,0.04643089607290085,Priorat Red,0.5,0.0
+Bodegas Valduero,Tierra Alta En 2 Maderas,2017,0.0,0.47373107747105964,Espana,Ribera del Duero,0.06248643957474506,Ribera Del Duero Red,1.0,0.0
+Los Aguilares,Pago El Espino,2017,0.0,0.4719501335707925,Espana,Sierras de Malaga,0.08613582121935345,Red,0.5,0.0
+Dehesa de Los Canonigos,Crianza,2018,0.0,0.44790739091718607,Espana,Ribera del Duero,0.05814710349316554,Ribera Del Duero Red,1.0,0.0
+Dehesa de Los Canonigos,Crianza,2017,0.0,0.44078361531611754,Espana,Ribera del Duero,0.05532653504013886,Ribera Del Duero Red,1.0,0.0
+Bodegas Faustino,Reserva Especial Icon Edition,2014,0.0,0.43989314336598395,Espana,Rioja,0.07980039054024735,Rioja Red,0.5,0.0
+Fernando de Castilla,Antique Palo Cortado,N.V.,0.0,0.43989314336598395,Espana,Jerez Palo Cortado,0.13625515296159688,Sherry,0.5,0.0
+Bodegas Mas Alta,Artigas,2017,0.0,0.42742653606411396,Espana,Priorato,0.06682577565632458,Priorat Red,0.5,0.0
+Contino,Rioja Gran Reserva,2011,0.0,0.4140694568121104,Espana,Rioja,0.14753742677370363,Rioja Red,0.5,0.0
+Sei Solo,Preludio,2018,0.0,0.41228851291184326,Espana,Ribera del Duero,0.08244738555001085,Ribera Del Duero Red,1.0,0.0
+Williams & Humbert,Jalifa Amontillado Rare Old Dry Solera Especial Aged 30 Years,N.V.,0.0,0.4113980409617097,Espana,Jerez Amontillado,0.12150141028422651,Sherry,0.5,0.0
+Emilio Moro,La Felisa,2018,0.0,0.4078361531611754,Espana,Ribera del Duero,0.09025819049685399,Ribera Del Duero Red,1.0,0.0
+Emilio Moro,La Revelia Godello,2018,0.0,0.40872662511130897,Espana,Bierzo,0.07138207854198308,Unknown,0.7000000000000002,0.0
+Valderiz,Tinto,2018,0.0,0.40605520926090827,Espana,Ribera del Duero,0.0694293773052723,Ribera Del Duero Red,1.0,0.0
+Lan,A Mano Rioja,2009,0.0,0.4051647373107747,Espana,Rioja,0.1017574311130397,Rioja Red,0.5,0.0
+Familia Torres,Milmanda,2015,0.0,0.3989314336598397,Espana,Conca de Barbera,0.5237578650466478,Chardonnay,0.5,0.0
+Terras Gauda,Terras Gauda O Rosal,2021,0.0,0.3926981300089047,Espana,Rias Baixas,0.02777175092210892,Albarino,0.0,0.0
+Pazo Senorans,Seleccion de Anada Albarino Rias Baixas,2008,0.0,0.3864648263579697,Espana,Rias Baixas,0.1405944890431764,Albarino,0.0,0.0
+Muga,Seleccion Especial (Reserva),2004,0.0,0.3757791629563669,Espana,Rioja,0.2581904968539813,Rioja Red,0.5,0.0
+Bohorquez,Reserva,2009,0.0,0.371326803205699,Espana,Ribera del Duero,0.07008027771750922,Ribera Del Duero Red,1.0,0.0
+Adega Familiar Eladio Pineiro,Envidiacochina (Tete de Cuvee),2019,0.0,0.3677649154051647,Espana,Rias Baixas,0.05623779561727056,Albarino,0.0,0.0
+Pradorey,Adaro,2017,0.0,0.3659839715048976,Espana,Ribera del Duero,0.047515730093295724,Ribera Del Duero Red,1.0,0.0
+Montecastro,Ribera del Duero Red,2017,0.0,0.3633125556544969,Espana,Ribera del Duero,0.0494684313300065,Ribera Del Duero Red,1.0,0.0
+Culebron,Fondillon Gran Reserva,1964,0.0,0.3624220837043633,Espana,Alicante,0.19288348882620962,Unknown,0.7000000000000002,0.0
+Castillo Perelada,Monastrell - Syrah Finca Espolla,2016,0.0,0.3552983081032947,Espana,Emporda,0.036667389889346924,Red,0.5,0.0
+Castano,Casa Cisca Monastrell,2011,0.0,0.3544078361531612,Espana,Yecla,0.11499240616185724,Monastrell,1.0,0.0
+Remirez de Ganuza,Rioja Blanco,2017,0.0,0.352626892252894,Espana,Rioja,0.1026252983293556,Rioja White,0.0,0.0
+La Vicalanda,Reserva,2015,0.0,0.3517364203027604,Espana,Rioja,0.05207203297895423,Rioja Red,0.5,0.0
+Enrique Mendoza,Santa Rosa,2017,0.0,0.3517364203027604,Espana,Alicante,0.05814710349316554,Red,0.5,0.0
+Clos Pons,Roc Nu,2011,0.0,0.3517364203027604,Espana,Costers del Segre,0.08006075070514211,Red,0.5,0.0
+Imperial,Rioja Reserva,2004,0.0,0.3490650044523597,Espana,Rioja,0.17140377522239097,Rioja Red,0.5,0.0
+Losada,Altos de Losada,2018,0.0,0.3472840605520926,Espana,Bierzo,0.05380776741158602,Mencia,0.0,0.0
+La Rioja Alta,Vina Alberdi Crianza,2018,0.0,0.3428317008014247,Espana,Rioja,0.035061835539162506,Rioja Red,0.5,0.0
+Bodegas La Horra,Corimbo I,2015,0.0,0.3446126447016919,Espana,Ribera del Duero,0.1405944890431764,Ribera Del Duero Red,1.0,0.0
+Vina Pedrosa,Gran Reserva,2011,0.0,0.3428317008014247,Espana,Ribera del Duero,0.19895855934042092,Ribera Del Duero Red,1.0,0.0
+Campillo,Gran Reserva Rioja,2012,0.0,0.3428317008014247,Espana,Rioja,0.07589498806682578,Rioja Red,0.5,0.0
+Lustau,Candela Cream Dulce Sweet,N.V.,0.0,0.3383793410507569,Espana,Jerez-Xeres-Sherry,0.006942937730527229,Sherry,0.5,0.0
+Portal del Priorat,Clos del Portal Somni,2014,0.0,0.3374888691006233,Espana,Priorato,0.3118246908223042,Priorat Red,0.5,0.0
+Ramon Bilbao,Mirto,2011,0.0,0.3357079252003562,Espana,Rioja,0.09993490995877631,Rioja Red,0.5,0.0
+Matsu,El Viejo,2019,0.0,0.333926981300089,Espana,Toro,0.09715773486656543,Toro Red,1.0,0.0
+Contino,Rioja Graciano,2011,0.0,0.3294746215494212,Espana,Rioja,0.244912128444348,Rioja Red,0.5,0.0
+Contino,Reserva,2016,0.0,0.32680320569902044,Espana,Rioja,0.06283358646127143,Rioja Red,0.5,0.0
+Mustiguillo,Finca Terrerazo,2017,0.0,0.3250222617987533,Espana,El Terrerazo,0.08223041874593187,Red,0.5,0.0
+Vinedos de Paganos,El Puntido,2005,0.0,0.3196794300979519,Espana,Rioja,0.2929051855066175,Rioja Red,0.5,0.0
